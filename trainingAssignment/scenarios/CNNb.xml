@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="11.3">
+<command appiumName="SetDevice(Device)" enable="true" name="SetDevice(Device)">
+<parameters>
+<parameter appium="true" defaultValue="ios_app:appleId's iPhone" description="Device name" name="Device" pattern="" type="application"/>
+</parameters>
+</command>
+<command appiumName="Launch(app)" enable="true" name="Launch(activity, instrument, stopIfRunning)">
+<parameters>
+<parameter appium="true" defaultValue="" description="The application main activity or URL" name="Activity/URL" pattern="" type="launch"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will launch in instrument mode" name="Instrument" pattern="" type="bool"/>
+<parameter appium="false" defaultValue="false" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="" type="bool"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="I agree" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="I agree" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="menu" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Regions" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Regions" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Regions_Proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="USPolitics" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="USPolitics" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="USPolitics_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Money" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Money" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Money_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Entertainment" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Entertainment" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Entertainment_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Tech" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Tech" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Tech_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Sport" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Sport" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Sport_Proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Travel" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Travel" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="travel_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Style" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Style" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="style_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Health" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Health" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Health_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Features" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Features" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Features_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Video" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="Video" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="Video_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="VR" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="VR" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="VR_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="More" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="More" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="CNNb" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="false" defaultValue="More_proof" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="history.go(-1);" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="HybridClearCache(ClearCookies, ClearCache)">
+<parameters>
+<parameter appium="false" defaultValue="true" description="If true cookies will be cleared" name="ClearCookies" pattern="" type="bool"/>
+<parameter appium="false" defaultValue="true" description="If true cache will be cleared" name="ClearCache" pattern="" type="bool"/>
+</parameters>
+</command>
+</commands>

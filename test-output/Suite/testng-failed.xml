@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.qasim.test.CNNaIOS">
+        <parameter name="deviceQuery" value="@os=&#039;android&#039;"/>
+        <parameter name="runTest" value="false"/>
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.qasim.test.CNNaIOS -->
+      <class name="com.qasim.test.CNNaAndroid">
+        <parameter name="deviceQuery" value="@os=&#039;android&#039;"/>
+        <parameter name="runTest" value="false"/>
+        <methods>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.qasim.test.CNNaAndroid -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

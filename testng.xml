@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Qasim-Suite" thread-count="100" parallel="tests">
+	<parameter name="host" value="localhost"></parameter>
+	<parameter name="port" value="8889"></parameter>
+	<parameter name="useSessionID" value="true"></parameter>
+
+	<parameter name="useGrid" value="false"></parameter>
+	<parameter name="userName" value="q-user"></parameter>
+	<parameter name="password" value="10061989Qq"></parameter>
+	<parameter name="projectName" value="q-project"></parameter>
+	<parameter name="domain" value="cloud.experitest.com"></parameter>
+	<parameter name="gridPort" value="443"></parameter>
+	<parameter name="isGridSecured" value="true"></parameter>
+
+
+	<test name="All-Suite-On-All-Connected-Devices" parallel="tests" thread-count="100">
+		<parameter name="runTest" value="true"></parameter>
+
+		<parameter name="runByCount" value="true"></parameter>
+		<parameter name="runCount" value="1"></parameter>
+
+		<parameter name="runByTime" value="false"></parameter>
+		<parameter name="minutes" value="2"></parameter>
+		<classes>
+			<class name="com.qasim.test.CNNaIOS" />
+			<class name="com.qasim.test.CNNaAndroid" />
+		</classes>
+		<!-- <packages> -->
+		<!-- <package name="com.qasim.test"></package> -->
+		<!-- </packages> -->
+	</test> <!-- Test -->
+
+	<test name="One-Tset-On-One-Device" parallel="tests"
+		thread-count="100">
+		<parameter name="runTest" value="false"></parameter>
+		<parameter name="deviceQuery" value="@name='iPad Air 2'"></parameter>
+		<classes>
+			<class name="com.qasim.test.CNNaIOS" />
+		</classes>
+	</test>
+
+	<test name="One-Tset-On-All-Connected-Devices" parallel="tests"
+		thread-count="100">
+		<parameter name="runTest" value="false"></parameter>
+
+		<parameter name="runByCount" value="true"></parameter>
+		<parameter name="runCount" value="2"></parameter>
+
+		<parameter name="runByTime" value="false"></parameter>
+		<parameter name="minutes" value="2"></parameter>
+
+		<classes>
+			<class name="com.qasim.test.CNNaAndroid" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

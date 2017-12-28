@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Qasim-Suite" thread-count="5" parallel="tests">
+	<parameter name="host" value="localhost"></parameter>
+	<parameter name="port" value="8889"></parameter>
+	<parameter name="useSessionID" value="true"></parameter>
+
+	<test name="testing">
+		<parameter name="runTest" value="true"></parameter>
+		<parameter name="deviceName" value=""></parameter>
+		<parameter name="deviceSerialNumber" value=""></parameter>
+		<parameter name="deviceQuery" value="@os='ios'"></parameter>
+		<classes>
+			<class name="com.qasim.test.CNNbIOS" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

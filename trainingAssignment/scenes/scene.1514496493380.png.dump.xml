@@ -1,0 +1,4972 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Safari"/>
+<property type="text" value="Safari"/>
+<property type="XCElementType" value="XCUIElementTypeApplication"/>
+<property type="name" value="Safari"/>
+<property type="label" value="Safari"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIApplication"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackgroundHitTestWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1242" web="false" x="0" y="60">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="60"/>
+<property type="width" value="1242"/>
+<property type="height" value="2148"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1242" web="false" x="0" y="60">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="60"/>
+<property type="width" value="1242"/>
+<property type="height" value="2148"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="1242" web="false" x="0" y="60">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="60"/>
+<property type="width" value="1242"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="192" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackdropView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="192"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="192" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackdropEffectView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="192"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="192" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="192"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="132" ignored="false" w="1242" web="false" x="0" y="60">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="60"/>
+<property type="width" value="1242"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="1182" web="false" x="27" y="72">
+<properties>
+<property type="accessibilityLabel" value="URL"/>
+<property type="value" value="‎edition.cnn.com"/>
+<property type="text" value="Address"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="URL"/>
+<property type="label" value="Address"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="27"/>
+<property type="y" value="72"/>
+<property type="width" value="1182"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="1170" web="false" x="33" y="72">
+<properties>
+<property type="accessibilityLabel" value="URL"/>
+<property type="value" value="‎edition.cnn.com"/>
+<property type="text" value="Address"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="URL"/>
+<property type="label" value="Address"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="33"/>
+<property type="y" value="72"/>
+<property type="width" value="1170"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="87" ignored="false" w="87" web="false" x="1125" y="72">
+<properties>
+<property type="accessibilityLabel" value="ReloadButton"/>
+<property type="value" value="reload"/>
+<property type="text" value="reload"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="ReloadButton"/>
+<property type="label" value="reload"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1125"/>
+<property type="y" value="72"/>
+<property type="width" value="87"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1242" web="false" x="0" y="192">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeScrollView"/>
+<property type="class" value="UIAScrollView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWebView"/>
+<property type="class" value="UIAWebView"/>
+<property type="knownSuperClass" value="UIWebScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="132" ignored="false" w="1242" web="false" x="0" y="2076">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeToolbar"/>
+<property type="class" value="UIAToolbar"/>
+<property type="knownSuperClass" value="UIToolbar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2076"/>
+<property type="width" value="1242"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1242" web="false" x="0" y="2073">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2073"/>
+<property type="width" value="1242"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="126" web="false" x="12" y="2082">
+<properties>
+<property type="accessibilityLabel" value="back"/>
+<property type="value" value="Back"/>
+<property type="text" value="Back"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="back"/>
+<property type="label" value="Back"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="2082"/>
+<property type="width" value="126"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="126" web="false" x="291" y="2082">
+<properties>
+<property type="value" value="Forward"/>
+<property type="text" value="Forward"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Forward"/>
+<property type="label" value="Forward"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="291"/>
+<property type="y" value="2082"/>
+<property type="width" value="126"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="153" web="false" x="540" y="2079">
+<properties>
+<property type="value" value="Share"/>
+<property type="text" value="Share"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Share"/>
+<property type="label" value="Share"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="2079"/>
+<property type="width" value="153"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="171" web="false" x="798" y="2082">
+<properties>
+<property type="value" value="Show Bookmarks"/>
+<property type="text" value="Show Bookmarks"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Show Bookmarks"/>
+<property type="label" value="Show Bookmarks"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="798"/>
+<property type="y" value="2082"/>
+<property type="width" value="171"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="171" web="false" x="1059" y="2082">
+<properties>
+<property type="value" value="Pages"/>
+<property type="text" value="Pages"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Pages"/>
+<property type="label" value="Pages"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1059"/>
+<property type="y" value="2082"/>
+<property type="width" value="171"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="3" web="false" x="1239" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1239"/>
+<property type="y" value="0"/>
+<property type="width" value="3"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="3" web="false" x="1239" y="60">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1239"/>
+<property type="y" value="60"/>
+<property type="width" value="3"/>
+<property type="height" value="2148"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UITextEffectsWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIInputSetContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIStatusBarWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeStatusBar"/>
+<property type="class" value="UIAStatusBar"/>
+<property type="knownSuperClass" value="UIStatusBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBackgroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarForegroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="186" web="false" x="18" y="0">
+<properties>
+<property type="value" value="No Service"/>
+<property type="text" value="No Service"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="No Service"/>
+<property type="label" value="No Service"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarServiceItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="0"/>
+<property type="width" value="186"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="39" web="false" x="219" y="0">
+<properties>
+<property type="value" value="SSID"/>
+<property type="text" value="3 of 3 Wi-Fi bars"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="3 of 3 Wi-Fi bars"/>
+<property type="label" value="3 of 3 Wi-Fi bars"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarDataNetworkItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="219"/>
+<property type="y" value="0"/>
+<property type="width" value="39"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="108" web="false" x="573" y="0">
+<properties>
+<property type="value" value="23:28"/>
+<property type="text" value="23:28"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="23:28"/>
+<property type="label" value="23:28"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarTimeItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="573"/>
+<property type="y" value="0"/>
+<property type="width" value="108"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="27" web="false" x="1083" y="0">
+<properties>
+<property type="accessibilityLabel" value="StandardLocationTrackingOn"/>
+<property type="value" value="Location tracking on"/>
+<property type="text" value="Location tracking on"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="StandardLocationTrackingOn"/>
+<property type="label" value="Location tracking on"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarLocationItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1083"/>
+<property type="y" value="0"/>
+<property type="width" value="27"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="99" web="false" x="1128" y="0">
+<properties>
+<property type="value" value="100% battery power, On AC Power"/>
+<property type="text" value="100% battery power, On AC Power"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="100% battery power, On AC Power"/>
+<property type="label" value="100% battery power, On AC Power"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBatteryItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1128"/>
+<property type="y" value="0"/>
+<property type="width" value="99"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1884" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="document"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="1884"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1884" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="HTML"/>
+<property type="css" value="HTML.js.no-flash.geolocation.websockets.no-localstorage.webworkers.touchevents.fontface.supports.textshadow.csscolumns.csscolumns-width.csscolumns-span.csscolumns-fill.csscolumns-gap.csscolumns-rule.csscolumns-rulecolor.csscolumns-rulestyle.csscolumns-rulewidth.csscolumns-breakbefore.csscolumns-breakafter.csscolumns-breakinside.flexbox.csstransforms3d.mobile.phone.no-tablet.mobilegradea.ios.no-android.no-iospre10.no-iemobile.no-ieunsupported.no-ie11unsupported.no-ie.no-edge"/>
+<property type="class" value="js no-flash geolocation websockets no-localstorage webworkers touchevents fontface supports textshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox csstransforms3d mobile phone no-tablet mobilegradea ios no-android no-iospre10 no-iemobile no-ieunsupported no-ie11unsupported no-ie no-edge"/>
+<property type="style" value="[object CSSStyleDeclaration]"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="1884"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1884" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="BODY"/>
+<property type="focused" value="true"/>
+<property type="css" value="BODY.pg.pg-vertical.pg-vertical--vr.pg-vr.pg-section.international.t-light.multi-ads--complete"/>
+<property type="class" value="pg pg-vertical pg-vertical--vr pg-vr pg-section international t-light multi-ads--complete"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="1884"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="fb-root"/>
+<property type="css" value="DIV.fb_reset"/>
+<property type="class" value=" fb_reset"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="style" value="position: absolute; top: -10000px; height: 0px; width: 0px;"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="450" ignored="false" w="900" web="true" x="0" y="-29808">
+<properties>
+<property type="nodeName" value="IFRAME"/>
+<property type="id" value="fb_xdm_frame_http"/>
+<property type="name" value="fb_xdm_frame_http"/>
+<property type="text" value="IFRAME:Different Domain"/>
+<property type="frameborder" value="0"/>
+<property type="allowtransparency" value="true"/>
+<property type="allowfullscreen" value="true"/>
+<property type="scrolling" value="no"/>
+<property type="aria-hidden" value="true"/>
+<property type="title" value="Facebook Cross Domain Communication Frame"/>
+<property type="tabindex" value="-1"/>
+<property type="src" value="http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f2a4d7be94b82f8&amp;origin=http%3A%2F%2Fedition.cnn.com"/>
+<property type="style" value="border: none;"/>
+<property type="x" value="0"/>
+<property type="y" value="-29808"/>
+<property type="width" value="900"/>
+<property type="height" value="450"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="450" ignored="false" w="900" web="true" x="0" y="-29355">
+<properties>
+<property type="nodeName" value="IFRAME"/>
+<property type="id" value="fb_xdm_frame_https"/>
+<property type="name" value="fb_xdm_frame_https"/>
+<property type="text" value="IFRAME:Different Domain"/>
+<property type="frameborder" value="0"/>
+<property type="allowtransparency" value="true"/>
+<property type="allowfullscreen" value="true"/>
+<property type="scrolling" value="no"/>
+<property type="aria-hidden" value="true"/>
+<property type="title" value="Facebook Cross Domain Communication Frame"/>
+<property type="tabindex" value="-1"/>
+<property type="src" value="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f2a4d7be94b82f8&amp;origin=http%3A%2F%2Fedition.cnn.com"/>
+<property type="style" value="border: none;"/>
+<property type="x" value="0"/>
+<property type="y" value="-29355"/>
+<property type="width" value="900"/>
+<property type="height" value="450"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="id" value="nav-header"/>
+<property type="css" value="HEADER.nav-header"/>
+<property type="class" value="nav-header"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="breaking-news"/>
+<property type="css" value="DIV.breaking-news__background"/>
+<property type="class" value="breaking-news__background"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="id" value="nav"/>
+<property type="css" value="NAV.nav.js-navigation.js-skinny.vr"/>
+<property type="class" value="nav js-navigation js-skinny vr"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.container"/>
+<property type="class" value="container"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.flex"/>
+<property type="class" value="flex"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="1113" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="css" value="NAV.logo.flex-order--logo"/>
+<property type="class" value="logo flex-order--logo"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1113"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="150" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/"/>
+<property type="css" value="A.logo-cnn[href='/']"/>
+<property type="class" value="logo-cnn"/>
+<property type="data-analytics" value="header_logo"/>
+<property type="title" value="CNN Homepage"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="150"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="150" ignored="false" w="150" web="true" x="180" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/vr"/>
+<property type="css" value="A.logo-vr.logo-vr--header[href='/vr']"/>
+<property type="class" value="logo-vr logo-vr--header"/>
+<property type="data-analytics" value="header_logo"/>
+<property type="title" value="VR Section Front"/>
+<property type="x" value="180"/>
+<property type="y" value="192"/>
+<property type="width" value="150"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.search-wrapper.flex-order--search-field"/>
+<property type="class" value="search-wrapper flex-order--search-field"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="150" ignored="false" w="120" web="true" x="1113" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.menu-toggle.flex-order--menu-toggle"/>
+<property type="class" value="menu-toggle flex-order--menu-toggle"/>
+<property type="x" value="1113"/>
+<property type="y" value="192"/>
+<property type="width" value="120"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="120" web="true" x="1113" y="192">
+<properties>
+<property type="nodeName" value="I"/>
+<property type="css" value="I.menu-toggle-icon.menu-collapse.js-navigation-hamburger"/>
+<property type="class" value="menu-toggle-icon menu-collapse js-navigation-hamburger"/>
+<property type="role" value="button"/>
+<property type="aria-expanded" value="false"/>
+<property type="aria-controls" value="vr-drawer"/>
+<property type="aria-label" value="navigation toggle"/>
+<property type="x" value="1113"/>
+<property type="y" value="192"/>
+<property type="width" value="120"/>
+<property type="height" value="150"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="vr-drawer"/>
+<property type="css" value="DIV.drawer.flex-order--drawer"/>
+<property type="class" value="drawer flex-order--drawer"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1452" ignored="false" w="1182" web="true" x="60" y="582">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.buckets"/>
+<property type="class" value="buckets"/>
+<property type="role" value="navigation"/>
+<property type="x" value="60"/>
+<property type="y" value="582"/>
+<property type="width" value="1182"/>
+<property type="height" value="1452"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="153" ignored="false" w="1182" web="true" x="60" y="1080">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="css" value="LI.bucket.vr-home.selected.open"/>
+<property type="class" value="bucket vr-home selected open"/>
+<property type="x" value="60"/>
+<property type="y" value="1080"/>
+<property type="width" value="1182"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="153" ignored="false" w="570" web="true" x="90" y="1080">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/vr"/>
+<property type="text" value="VR Home"/>
+<property type="css" value="A[href='/vr']"/>
+<property type="data-analytics" value="header_vr-home"/>
+<property type="title" value="VR Home"/>
+<property type="x" value="90"/>
+<property type="y" value="1080"/>
+<property type="width" value="570"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="153" ignored="false" w="1182" web="true" x="60" y="1233">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="css" value="LI.bucket.archives"/>
+<property type="class" value="bucket archives  "/>
+<property type="x" value="60"/>
+<property type="y" value="1233"/>
+<property type="width" value="1182"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="153" ignored="false" w="609" web="true" x="90" y="1233">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/specials/vr/vr-archives"/>
+<property type="text" value="Archives"/>
+<property type="css" value="A[href='/specials/vr/vr-archives']"/>
+<property type="data-analytics" value="header_archives"/>
+<property type="title" value="Archives"/>
+<property type="x" value="90"/>
+<property type="y" value="1233"/>
+<property type="width" value="609"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="153" ignored="false" w="1182" web="true" x="60" y="1386">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="css" value="LI.bucket.how-to-watch-vr"/>
+<property type="class" value="bucket how-to-watch-vr  "/>
+<property type="x" value="60"/>
+<property type="y" value="1386"/>
+<property type="width" value="1182"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="153" ignored="false" w="1095" web="true" x="90" y="1386">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/03/04/vr/how-to-watch-vr"/>
+<property type="text" value="How to watch VR"/>
+<property type="css" value="A[href='/2017/03/04/vr/how-to-watch-vr']"/>
+<property type="data-analytics" value="header_how-to-watch-vr"/>
+<property type="title" value="How to watch VR"/>
+<property type="x" value="90"/>
+<property type="y" value="1386"/>
+<property type="width" value="1095"/>
+<property type="height" value="153"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="11916" ignored="false" w="1242" web="true" x="0" y="120">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.pg-no-rail.pg-wrapper"/>
+<property type="class" value="pg-no-rail pg-wrapper "/>
+<property type="x" value="0"/>
+<property type="y" value="120"/>
+<property type="width" value="1242"/>
+<property type="height" value="11916"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="1242" web="true" x="0" y="120">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="x" value="0"/>
+<property type="y" value="120"/>
+<property type="width" value="1242"/>
+<property type="height" value="72"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-1"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-1.zn-left-fluid-bg-bleed.zn--idx-0.zn--has-background.zn--bg-bleed.zn__background.zn--extraordinary.t-dark.zn-left-fluid-share.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-1 zn-left-fluid-bg-bleed zn--idx-0 zn--has-background zn--bg-bleed zn__background zn--extraordinary t-dark zn-left-fluid-share zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-0"/>
+<property type="data-zone-label" value="Zone 1"/>
+<property type="data-containers" value="1"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top.zn__show_background"/>
+<property type="class" value="zn-top zn__show_background"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__label"/>
+<property type="class" value="l-container zn-top__label"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__banner"/>
+<property type="class" value="l-container zn-top__banner"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/19/vr/santacon-nyc-2017-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/19/vr/santacon-nyc-2017-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.vr_overlay"/>
+<property type="class" value="vr_overlay"/>
+<property type="style" value="display:none"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="99" ignored="false" w="600" web="true" x="321" y="2103">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="scroll"/>
+<property type="css" value="DIV.vr_scroll"/>
+<property type="class" value="vr_scroll"/>
+<property type="x" value="321"/>
+<property type="y" value="2103"/>
+<property type="width" value="600"/>
+<property type="height" value="99"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="0" web="true" x="663" y="2100">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="663"/>
+<property type="y" value="2100"/>
+<property type="width" value="0"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="75" ignored="false" w="24" web="true" x="606" y="2136">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="↓"/>
+<property type="x" value="606"/>
+<property type="y" value="2136"/>
+<property type="width" value="24"/>
+<property type="height" value="75"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.vr_canvas"/>
+<property type="class" value="vr_canvas"/>
+<property type="style" value="background-image: url(http://cdn.cnn.com/cnnnext/dam/assets/171219104950-santacon-nyc-2017-cropped-vr-overlay-tease.jpg);"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2109" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="style" value="[object CSSStyleDeclaration]"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2109"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="CANVAS"/>
+<property type="style" value="width: 414px; height: 696px;"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.vr_fader"/>
+<property type="class" value="vr_fader"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="666" ignored="false" w="759" web="true" x="0" y="1404">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="style" value="display: none;"/>
+<property type="x" value="0"/>
+<property type="y" value="1404"/>
+<property type="width" value="759"/>
+<property type="height" value="666"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.cn.cn-list-hierarchical-xs.cn--idx-0.cn-container_D0AF7CF1-B9B0-8B50-B8F6-9B5A3249C3CA"/>
+<property type="class" value="cn cn-list-hierarchical-xs cn--idx-0 cn-container_D0AF7CF1-B9B0-8B50-B8F6-9B5A3249C3CA"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-0.cd--large.cd--vertical.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-0 cd--large cd--vertical cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/12/19/vr/santacon-nyc-2017-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="486" ignored="false" w="699" web="true" x="30" y="1584">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="1584"/>
+<property type="width" value="699"/>
+<property type="height" value="486"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="678" web="true" x="30" y="1605">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="1605"/>
+<property type="width" value="678"/>
+<property type="height" value="375"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="648" web="true" x="30" y="1605">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/19/vr/santacon-nyc-2017-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/19/vr/santacon-nyc-2017-vr/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="1605"/>
+<property type="width" value="648"/>
+<property type="height" value="375"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="648" web="true" x="30" y="1605">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="SURVIVINGSANTACON"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="1605"/>
+<property type="width" value="648"/>
+<property type="height" value="375"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="183" ignored="false" w="0" web="true" x="678" y="1602">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="678"/>
+<property type="y" value="1602"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="183" ignored="false" w="0" web="true" x="678" y="1782">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="678"/>
+<property type="y" value="1782"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="69" ignored="false" w="678" web="true" x="30" y="1980">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="New York, NY"/>
+<property type="css" value="DIV.cd__auxiliary"/>
+<property type="class" value="cd__auxiliary"/>
+<property type="x" value="30"/>
+<property type="y" value="1980"/>
+<property type="width" value="678"/>
+<property type="height" value="69"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-2"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-2.zn-left-fluid-bg-bleed.zn--idx-1.zn--has-background.zn--bg-bleed.zn__background.zn--extraordinary.t-dark.zn-left-fluid-share.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-2 zn-left-fluid-bg-bleed zn--idx-1 zn--has-background zn--bg-bleed zn__background zn--extraordinary t-dark zn-left-fluid-share zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-1"/>
+<property type="data-zone-label" value="Zone 2"/>
+<property type="data-containers" value="1"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--tablet"/>
+<property type="class" value="ad ad--epic ad--tablet"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_01"/>
+<property type="data-ad-position" value="tablet"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--desktop"/>
+<property type="class" value="ad ad--epic ad--desktop"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_01"/>
+<property type="data-ad-position" value="desktop"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top.zn__show_background"/>
+<property type="class" value="zn-top zn__show_background"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__label"/>
+<property type="class" value="l-container zn-top__label"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__banner"/>
+<property type="class" value="l-container zn-top__banner"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/15/vr/dyker-heights-christmas-lights-brooklyn-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/15/vr/dyker-heights-christmas-lights-brooklyn-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__background.zn__background--img-tag"/>
+<property type="class" value="zn__background zn__background--img-tag"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="2280">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171215134024-dyker-heights-christmas-lights-cropped-vr-exlarge-916.jpg"/>
+<property type="data-eq-state" value="mini xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="2280"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.img__preloader"/>
+<property type="class" value="img__preloader"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="696" ignored="false" w="1029" web="true" x="0" y="3462">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="x" value="0"/>
+<property type="y" value="3462"/>
+<property type="width" value="1029"/>
+<property type="height" value="696"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="516" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="516"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="516" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="516"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.cn.cn-list-hierarchical-xs.cn--idx-0.cn-container_63C38364-410D-E896-652C-9B5C7D2F80C8"/>
+<property type="class" value="cn cn-list-hierarchical-xs cn--idx-0 cn-container_63C38364-410D-E896-652C-9B5C7D2F80C8"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-0.cd--large.cd--vertical.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-0 cd--large cd--vertical cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/12/15/vr/dyker-heights-christmas-lights-brooklyn-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall small"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="486" ignored="false" w="969" web="true" x="30" y="3642">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="3642"/>
+<property type="width" value="969"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="948" web="true" x="30" y="3663">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="3663"/>
+<property type="width" value="948"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="948" web="true" x="30" y="3663">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/15/vr/dyker-heights-christmas-lights-brooklyn-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/15/vr/dyker-heights-christmas-lights-brooklyn-vr/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="3663"/>
+<property type="width" value="948"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="948" web="true" x="30" y="3663">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="CHRISTMAS INDYKER HEIGHTS"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="3663"/>
+<property type="width" value="948"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="183" ignored="false" w="0" web="true" x="897" y="3660">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="897"/>
+<property type="y" value="3660"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="183" ignored="false" w="0" web="true" x="978" y="3840">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="978"/>
+<property type="y" value="3840"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="69" ignored="false" w="948" web="true" x="30" y="4038">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Brooklyn, New York"/>
+<property type="css" value="DIV.cd__auxiliary"/>
+<property type="class" value="cd__auxiliary"/>
+<property type="x" value="30"/>
+<property type="y" value="4038"/>
+<property type="width" value="948"/>
+<property type="height" value="69"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-3"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-3.zn-left-fluid-bg-bleed.zn--idx-2.zn--has-background.zn--bg-bleed.zn__background.zn--extraordinary.t-dark.zn-left-fluid-share.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-3 zn-left-fluid-bg-bleed zn--idx-2 zn--has-background zn--bg-bleed zn__background zn--extraordinary t-dark zn-left-fluid-share zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-2"/>
+<property type="data-zone-label" value="Zone 3"/>
+<property type="data-containers" value="1"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--tablet"/>
+<property type="class" value="ad ad--epic ad--tablet"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_02"/>
+<property type="data-ad-position" value="tablet"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--desktop"/>
+<property type="class" value="ad ad--epic ad--desktop"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_02"/>
+<property type="data-ad-position" value="desktop"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top.zn__show_background"/>
+<property type="class" value="zn-top zn__show_background"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__label"/>
+<property type="class" value="l-container zn-top__label"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__banner"/>
+<property type="class" value="l-container zn-top__banner"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/14/vr/louvre-abu-dhabi-360-vr-cnnvr-hub-360/index.html"/>
+<property type="css" value="A[href='/2017/12/14/vr/louvre-abu-dhabi-360-vr-cnnvr-hub-360/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__background.zn__background--img-tag"/>
+<property type="class" value="zn__background zn__background--img-tag"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="4368">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171205124933-louvre-abu-dhabi-vr-thumbnail-dapple-light-cropped-exlarge-916.jpg"/>
+<property type="data-eq-state" value="mini xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="4368"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.img__preloader"/>
+<property type="class" value="img__preloader"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="942" ignored="false" w="951" web="true" x="0" y="5304">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="x" value="0"/>
+<property type="y" value="5304"/>
+<property type="width" value="951"/>
+<property type="height" value="942"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="762" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="762"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="762" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="762"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="732" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.cn.cn-list-hierarchical-xs.cn--idx-0.cn-container_ABDC8F9B-513F-8A40-36BA-9B5C811174B1"/>
+<property type="class" value="cn cn-list-hierarchical-xs cn--idx-0 cn-container_ABDC8F9B-513F-8A40-36BA-9B5C811174B1"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="732"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="732" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-0.cd--large.cd--vertical.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-0 cd--large cd--vertical cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/12/14/vr/louvre-abu-dhabi-360-vr-cnnvr-hub-360/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="732"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="732" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="732"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="732" ignored="false" w="891" web="true" x="30" y="5484">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="5484"/>
+<property type="width" value="891"/>
+<property type="height" value="732"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="555" ignored="false" w="384" web="true" x="30" y="5505">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="5505"/>
+<property type="width" value="384"/>
+<property type="height" value="555"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="555" ignored="false" w="354" web="true" x="30" y="5505">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/14/vr/louvre-abu-dhabi-360-vr-cnnvr-hub-360/index.html"/>
+<property type="css" value="A[href='/2017/12/14/vr/louvre-abu-dhabi-360-vr-cnnvr-hub-360/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="5505"/>
+<property type="width" value="354"/>
+<property type="height" value="555"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="555" ignored="false" w="354" web="true" x="30" y="5505">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="RAINOFLIGHT"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="5505"/>
+<property type="width" value="354"/>
+<property type="height" value="555"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="183" ignored="false" w="0" web="true" x="315" y="5502">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="315"/>
+<property type="y" value="5502"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="183" ignored="false" w="0" web="true" x="186" y="5682">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="186"/>
+<property type="y" value="5682"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="183" ignored="false" w="0" web="true" x="384" y="5862">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="384"/>
+<property type="y" value="5862"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="69" ignored="false" w="870" web="true" x="30" y="6060">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Abu Dhabi, UAE"/>
+<property type="css" value="DIV.cd__auxiliary"/>
+<property type="class" value="cd__auxiliary"/>
+<property type="x" value="30"/>
+<property type="y" value="6060"/>
+<property type="width" value="870"/>
+<property type="height" value="69"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="21" ignored="false" w="870" web="true" x="30" y="6174">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value=" "/>
+<property type="css" value="DIV.cd__description"/>
+<property type="class" value="cd__description"/>
+<property type="x" value="30"/>
+<property type="y" value="6174"/>
+<property type="width" value="870"/>
+<property type="height" value="21"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-4"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-4.zn-left-fluid-bg-bleed.zn--idx-3.zn--has-background.zn--bg-bleed.zn__background.zn--extraordinary.t-dark.zn-left-fluid-share.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-4 zn-left-fluid-bg-bleed zn--idx-3 zn--has-background zn--bg-bleed zn__background zn--extraordinary t-dark zn-left-fluid-share zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-3"/>
+<property type="data-zone-label" value="Zone 4"/>
+<property type="data-containers" value="1"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--tablet"/>
+<property type="class" value="ad ad--epic ad--tablet"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_03"/>
+<property type="data-ad-position" value="tablet"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--desktop"/>
+<property type="class" value="ad ad--epic ad--desktop"/>
+<property type="data-ad-text" value="show"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_03"/>
+<property type="data-ad-position" value="desktop"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top.zn__show_background"/>
+<property type="class" value="zn-top zn__show_background"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__label"/>
+<property type="class" value="l-container zn-top__label"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn-top__banner"/>
+<property type="class" value="l-container zn-top__banner"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/11/29/vr/climate-change-greenland-arctic-vr/index.html"/>
+<property type="css" value="A[href='/2017/11/29/vr/climate-change-greenland-arctic-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__background.zn__background--img-tag"/>
+<property type="class" value="zn__background zn__background--img-tag"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2088" ignored="false" w="1242" web="true" x="0" y="6456">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171130003717-mobapp-climate-change-vr-full-360-exlarge-916.jpg"/>
+<property type="data-eq-state" value="mini xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="6456"/>
+<property type="width" value="1242"/>
+<property type="height" value="2088"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.img__preloader"/>
+<property type="class" value="img__preloader"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="696" ignored="false" w="672" web="true" x="0" y="7638">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container"/>
+<property type="class" value="l-container"/>
+<property type="x" value="0"/>
+<property type="y" value="7638"/>
+<property type="width" value="672"/>
+<property type="height" value="696"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="516" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="516"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="516" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="516"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.cn.cn-list-hierarchical-xs.cn--idx-0.cn-container_E26AD9D0-0408-9D6D-7176-9B5C87050D41"/>
+<property type="class" value="cn cn-list-hierarchical-xs cn--idx-0 cn-container_E26AD9D0-0408-9D6D-7176-9B5C87050D41"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-0.cd--large.cd--vertical.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-0 cd--large cd--vertical cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/11/29/vr/climate-change-greenland-arctic-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="486" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="486" ignored="false" w="612" web="true" x="30" y="7818">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="7818"/>
+<property type="width" value="612"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="591" web="true" x="30" y="7839">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_list-hierarchical-xs_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="7839"/>
+<property type="width" value="591"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="561" web="true" x="30" y="7839">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/11/29/vr/climate-change-greenland-arctic-vr/index.html"/>
+<property type="css" value="A[href='/2017/11/29/vr/climate-change-greenland-arctic-vr/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="7839"/>
+<property type="width" value="561"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="375" ignored="false" w="561" web="true" x="30" y="7839">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="GLOBALWARNING"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="7839"/>
+<property type="width" value="561"/>
+<property type="height" value="375"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="183" ignored="false" w="0" web="true" x="495" y="7836">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="495"/>
+<property type="y" value="7836"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="183" ignored="false" w="0" web="true" x="591" y="8016">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="591"/>
+<property type="y" value="8016"/>
+<property type="width" value="0"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="69" ignored="false" w="591" web="true" x="30" y="8214">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Greenland"/>
+<property type="css" value="DIV.cd__auxiliary"/>
+<property type="class" value="cd__auxiliary"/>
+<property type="x" value="30"/>
+<property type="y" value="8214"/>
+<property type="width" value="591"/>
+<property type="height" value="69"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="3417" ignored="false" w="1242" web="true" x="0" y="8544">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-5"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-5.zn-balanced.zn--idx-4.zn--ordinary.t-dark.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-5 zn-balanced zn--idx-4 zn--ordinary t-dark zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-4"/>
+<property type="data-zone-label" value="MORE VR VIDEOS"/>
+<property type="data-containers" value="1"/>
+<property type="data-zn-id" value="vr-zone-5"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="8544"/>
+<property type="width" value="1242"/>
+<property type="height" value="3417"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top"/>
+<property type="class" value="zn-top"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="3222" ignored="false" w="1242" web="true" x="0" y="8739">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn__background--content-relative"/>
+<property type="class" value="l-container zn__background--content-relative"/>
+<property type="x" value="0"/>
+<property type="y" value="8739"/>
+<property type="width" value="1242"/>
+<property type="height" value="3222"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="123" ignored="false" w="1242" web="true" x="0" y="8739">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-header"/>
+<property type="class" value="zn-header"/>
+<property type="x" value="0"/>
+<property type="y" value="8739"/>
+<property type="width" value="1242"/>
+<property type="height" value="123"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="555" web="true" x="30" y="8751">
+<properties>
+<property type="nodeName" value="H2"/>
+<property type="css" value="H2.zn-header__text"/>
+<property type="class" value="zn-header__text"/>
+<property type="x" value="30"/>
+<property type="y" value="8751"/>
+<property type="width" value="555"/>
+<property type="height" value="144"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="99" ignored="false" w="555" web="true" x="30" y="8751">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/specials/vr/vr-archives"/>
+<property type="text" value="MORE VR VIDEOS"/>
+<property type="css" value="A[href='/specials/vr/vr-archives']"/>
+<property type="x" value="30"/>
+<property type="y" value="8751"/>
+<property type="width" value="555"/>
+<property type="height" value="99"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2964" ignored="false" w="1242" web="true" x="0" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="0"/>
+<property type="y" value="8997"/>
+<property type="width" value="1242"/>
+<property type="height" value="2964"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2964" ignored="false" w="1242" web="true" x="0" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="0"/>
+<property type="y" value="8997"/>
+<property type="width" value="1242"/>
+<property type="height" value="2964"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cn.cn-grid-small.cn--idx-0.cn-container_5C3A3629-5954-98FC-3C53-9B5C8B968AC5.cn-grid.cn-grid--small"/>
+<property type="class" value="cn cn-grid-small cn--idx-0 cn-container_5C3A3629-5954-98FC-3C53-9B5C8B968AC5 cn-grid cn-grid--small"/>
+<property type="data-eq-pts" value="2-column-grid: 0, 3-column-grid: 720, 4-column-grid: 960"/>
+<property type="data-bundle" value="grid_resize"/>
+<property type="data-eq-state" value="2-column-grid"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1206" ignored="false" w="621" web="true" x="0" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cn__column.cn__column--2np0.cn__column--3np0.cn__column--4np0"/>
+<property type="class" value="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0 "/>
+<property type="x" value="0"/>
+<property type="y" value="8997"/>
+<property type="width" value="621"/>
+<property type="height" value="1206"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1206" ignored="false" w="561" web="true" x="30" y="8997">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-0.cd--small.cd--vertical.cd--has-siblings.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-0 cd--small cd--vertical cd--has-siblings cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/12/06/vr/wildfire-ventura-dec-2017/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="30"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="1206"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1056" ignored="false" w="561" web="true" x="30" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="1056"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="378" ignored="false" w="561" web="true" x="30" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="30"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="378"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/06/vr/wildfire-ventura-dec-2017/index.html"/>
+<property type="css" value="A[href='/2017/12/06/vr/wildfire-ventura-dec-2017/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="507" ignored="false" w="900" web="true" x="-120" y="8958">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171206130211-ventura-wildfire-vr-crop-medium-tease.jpg"/>
+<property type="data-eq-state" value="mini xsmall"/>
+<property type="x" value="-120"/>
+<property type="y" value="8958"/>
+<property type="width" value="900"/>
+<property type="height" value="507"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="624" ignored="false" w="561" web="true" x="30" y="9429">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="9429"/>
+<property type="width" value="561"/>
+<property type="height" value="624"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="561" web="true" x="30" y="9450">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="9450"/>
+<property type="width" value="561"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="219" web="true" x="30" y="9450">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/06/vr/wildfire-ventura-dec-2017/index.html"/>
+<property type="css" value="A[href='/2017/12/06/vr/wildfire-ventura-dec-2017/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="9450"/>
+<property type="width" value="219"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="219" web="true" x="30" y="9450">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="WILDFIREAFTERMATH"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="9450"/>
+<property type="width" value="219"/>
+<property type="height" value="144"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="0" web="true" x="210" y="9456">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="210"/>
+<property type="y" value="9456"/>
+<property type="width" value="0"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="66" ignored="false" w="0" web="true" x="249" y="9522">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="249"/>
+<property type="y" value="9522"/>
+<property type="width" value="0"/>
+<property type="height" value="66"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="381" ignored="false" w="561" web="true" x="30" y="9651">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="As separate wildfires rage through Southern California, witness the damage in Ventura County, where tens of thousands of people were forced to flee the blaze."/>
+<property type="css" value="DIV.cd__description"/>
+<property type="class" value="cd__description"/>
+<property type="x" value="30"/>
+<property type="y" value="9651"/>
+<property type="width" value="561"/>
+<property type="height" value="381"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1518" ignored="false" w="621" web="true" x="621" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cn__column.cn__column--2np1.cn__column--3np1.cn__column--4np1"/>
+<property type="class" value="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1 "/>
+<property type="x" value="621"/>
+<property type="y" value="8997"/>
+<property type="width" value="621"/>
+<property type="height" value="1518"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1518" ignored="false" w="561" web="true" x="651" y="8997">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-1.cd--small.cd--vertical.cd--has-siblings.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-1 cd--small cd--vertical cd--has-siblings cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/12/06/vr/jerusalem-trump-recognizes-capital-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="651"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="1518"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1368" ignored="false" w="561" web="true" x="651" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="651"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="1368"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="378" ignored="false" w="561" web="true" x="651" y="8997">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="651"/>
+<property type="y" value="8997"/>
+<property type="width" value="561"/>
+<property type="height" value="378"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/06/vr/jerusalem-trump-recognizes-capital-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/06/vr/jerusalem-trump-recognizes-capital-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="507" ignored="false" w="900" web="true" x="501" y="8958">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171206175146-jerusalem-dome-of-the-rock-vr-crop-medium-tease.jpg"/>
+<property type="data-eq-state" value="mini xsmall"/>
+<property type="x" value="501"/>
+<property type="y" value="8958"/>
+<property type="width" value="900"/>
+<property type="height" value="507"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="936" ignored="false" w="561" web="true" x="651" y="9429">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="651"/>
+<property type="y" value="9429"/>
+<property type="width" value="561"/>
+<property type="height" value="936"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="243" ignored="false" w="561" web="true" x="651" y="9450">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="651"/>
+<property type="y" value="9450"/>
+<property type="width" value="561"/>
+<property type="height" value="243"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="243" ignored="false" w="345" web="true" x="651" y="9450">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/12/06/vr/jerusalem-trump-recognizes-capital-vr/index.html"/>
+<property type="css" value="A[href='/2017/12/06/vr/jerusalem-trump-recognizes-capital-vr/index.html']"/>
+<property type="x" value="651"/>
+<property type="y" value="9450"/>
+<property type="width" value="345"/>
+<property type="height" value="243"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="216" ignored="false" w="345" web="true" x="651" y="9450">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="CONTESTED LAND:SEE JERUSALEM'SHOLIEST SITE"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="651"/>
+<property type="y" value="9450"/>
+<property type="width" value="345"/>
+<property type="height" value="216"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="0" web="true" x="996" y="9456">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="996"/>
+<property type="y" value="9456"/>
+<property type="width" value="0"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="57" ignored="false" w="0" web="true" x="996" y="9528">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="996"/>
+<property type="y" value="9528"/>
+<property type="width" value="0"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="66" ignored="false" w="0" web="true" x="996" y="9594">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="996"/>
+<property type="y" value="9594"/>
+<property type="width" value="0"/>
+<property type="height" value="66"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="621" ignored="false" w="561" web="true" x="651" y="9723">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Trump's decision to recognize Jerusalem as Israel's capital is a controversial one, not least because of the city's unique religious status. CNN got rare access to one of the most sacred spaces, known to Jews as the Temple Mount and to Muslims as the Nobl..."/>
+<property type="css" value="DIV.cd__description"/>
+<property type="class" value="cd__description"/>
+<property type="x" value="651"/>
+<property type="y" value="9723"/>
+<property type="width" value="561"/>
+<property type="height" value="621"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1446" ignored="false" w="621" web="true" x="0" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cn__column.cn__column--2np0.cn__column--3np2.cn__column--4np2"/>
+<property type="class" value="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2 "/>
+<property type="x" value="0"/>
+<property type="y" value="10515"/>
+<property type="width" value="621"/>
+<property type="height" value="1446"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1446" ignored="false" w="561" web="true" x="30" y="10515">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-2.cd--small.cd--vertical.cd--has-siblings.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-2 cd--small cd--vertical cd--has-siblings cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/11/06/vr/endangered-starry-sky-zion-national-park-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="30"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="1446"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1296" ignored="false" w="561" web="true" x="30" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="1296"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="378" ignored="false" w="561" web="true" x="30" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="30"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="378"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/11/06/vr/endangered-starry-sky-zion-national-park-vr/index.html"/>
+<property type="css" value="A[href='/2017/11/06/vr/endangered-starry-sky-zion-national-park-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="507" ignored="false" w="900" web="true" x="-120" y="10476">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171106150652-endangered-starry-sky-zion-national-park-cropped-vr-medium-tease.jpg"/>
+<property type="data-eq-state" value="mini xsmall"/>
+<property type="x" value="-120"/>
+<property type="y" value="10476"/>
+<property type="width" value="900"/>
+<property type="height" value="507"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="864" ignored="false" w="561" web="true" x="30" y="10947">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="30"/>
+<property type="y" value="10947"/>
+<property type="width" value="561"/>
+<property type="height" value="864"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="561" web="true" x="30" y="10968">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="30"/>
+<property type="y" value="10968"/>
+<property type="width" value="561"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="333" web="true" x="30" y="10968">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/11/06/vr/endangered-starry-sky-zion-national-park-vr/index.html"/>
+<property type="css" value="A[href='/2017/11/06/vr/endangered-starry-sky-zion-national-park-vr/index.html']"/>
+<property type="x" value="30"/>
+<property type="y" value="10968"/>
+<property type="width" value="333"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="333" web="true" x="30" y="10968">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="THE ENDANGEREDSTARRY SKY"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="30"/>
+<property type="y" value="10968"/>
+<property type="width" value="333"/>
+<property type="height" value="144"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="0" web="true" x="363" y="10974">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="363"/>
+<property type="y" value="10974"/>
+<property type="width" value="0"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="66" ignored="false" w="0" web="true" x="363" y="11040">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="363"/>
+<property type="y" value="11040"/>
+<property type="width" value="0"/>
+<property type="height" value="66"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="621" ignored="false" w="561" web="true" x="30" y="11169">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="As the glow of light pollution from cities and towns endangers our view of the night sky, gaze up at the stars from Zion National Park in southern Utah. The park is taking steps to become an official &quot;Dark Sky Place&quot; in hopes of preserving its nocturnal v..."/>
+<property type="css" value="DIV.cd__description"/>
+<property type="class" value="cd__description"/>
+<property type="x" value="30"/>
+<property type="y" value="11169"/>
+<property type="width" value="561"/>
+<property type="height" value="621"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1266" ignored="false" w="621" web="true" x="621" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cn__column.cn__column--2np1.cn__column--3np0.cn__column--4np3"/>
+<property type="class" value="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3 "/>
+<property type="x" value="621"/>
+<property type="y" value="10515"/>
+<property type="width" value="621"/>
+<property type="height" value="1266"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1266" ignored="false" w="561" web="true" x="651" y="10515">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--card.cd--article.cd--idx-3.cd--small.cd--vertical.cd--has-siblings.cd--has-media.cd--media__image"/>
+<property type="class" value="cd cd--card cd--article cd--idx-3 cd--small cd--vertical cd--has-siblings cd--has-media cd--media__image"/>
+<property type="data-vr-contentbox" value="/2017/10/26/vr/curacao-coral-reef-ecotourism-vr/index.html"/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-section-name" value="vr"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="651"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="1266"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1116" ignored="false" w="561" web="true" x="651" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__wrapper"/>
+<property type="class" value="cd__wrapper"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="651"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="1116"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="378" ignored="false" w="561" web="true" x="651" y="10515">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.media"/>
+<property type="class" value="media"/>
+<property type="x" value="651"/>
+<property type="y" value="10515"/>
+<property type="width" value="561"/>
+<property type="height" value="378"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/10/26/vr/curacao-coral-reef-ecotourism-vr/index.html"/>
+<property type="css" value="A[href='/2017/10/26/vr/curacao-coral-reef-ecotourism-vr/index.html']"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="507" ignored="false" w="900" web="true" x="501" y="10476">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.media__image.media__image--responsive"/>
+<property type="class" value="media__image media__image--responsive"/>
+<property type="alt" value=""/>
+<property type="data-src-mini" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-small-tease.jpg"/>
+<property type="data-src-xsmall" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-medium-tease.jpg"/>
+<property type="data-src-small" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-exlarge-916.jpg"/>
+<property type="data-src-medium" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-overlay-tease.jpg"/>
+<property type="data-src-large" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-super-tease.jpg"/>
+<property type="data-src-full16x9" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-full-169.jpg"/>
+<property type="data-src-mini1x1" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-small-11.jpg"/>
+<property type="data-demand-load" value="loaded"/>
+<property type="data-eq-pts" value="mini: 0,  xsmall: 221,  small: 308,  medium: 461,  large:  781"/>
+<property type="src" value="//cdn.cnn.com/cnnnext/dam/assets/171025173956-curacao-coral-reef-cropped-vr-medium-tease.jpg"/>
+<property type="data-eq-state" value="mini xsmall"/>
+<property type="x" value="501"/>
+<property type="y" value="10476"/>
+<property type="width" value="900"/>
+<property type="height" value="507"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="684" ignored="false" w="561" web="true" x="651" y="10947">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.cd__content"/>
+<property type="class" value="cd__content"/>
+<property type="x" value="651"/>
+<property type="y" value="10947"/>
+<property type="width" value="561"/>
+<property type="height" value="684"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="561" web="true" x="651" y="10968">
+<properties>
+<property type="nodeName" value="H3"/>
+<property type="css" value="H3.cd__headline"/>
+<property type="class" value="cd__headline"/>
+<property type="data-analytics" value="_grid-small_article_"/>
+<property type="x" value="651"/>
+<property type="y" value="10968"/>
+<property type="width" value="561"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="147" web="true" x="651" y="10968">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/2017/10/26/vr/curacao-coral-reef-ecotourism-vr/index.html"/>
+<property type="css" value="A[href='/2017/10/26/vr/curacao-coral-reef-ecotourism-vr/index.html']"/>
+<property type="x" value="651"/>
+<property type="y" value="10968"/>
+<property type="width" value="147"/>
+<property type="height" value="171"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="147" web="true" x="651" y="10968">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="REEFRESCUE"/>
+<property type="css" value="SPAN.cd__headline-text"/>
+<property type="class" value="cd__headline-text"/>
+<property type="x" value="651"/>
+<property type="y" value="10968"/>
+<property type="width" value="147"/>
+<property type="height" value="144"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="0" web="true" x="744" y="10974">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="744"/>
+<property type="y" value="10974"/>
+<property type="width" value="0"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="66" ignored="false" w="0" web="true" x="798" y="11040">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.cd__headline-icon"/>
+<property type="class" value="cd__headline-icon"/>
+<property type="x" value="798"/>
+<property type="y" value="11040"/>
+<property type="width" value="0"/>
+<property type="height" value="66"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="441" ignored="false" w="561" web="true" x="651" y="11169">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Dive underwater in 360° and discover how Curaçao's scientists and government officials are trying to save these pristine habitats from the threat of rapid development."/>
+<property type="css" value="DIV.cd__description"/>
+<property type="class" value="cd__description"/>
+<property type="x" value="651"/>
+<property type="y" value="11169"/>
+<property type="width" value="561"/>
+<property type="height" value="441"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="75" ignored="false" w="1242" web="true" x="0" y="11961">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="vr-zone-6"/>
+<property type="css" value="SECTION.zn.zn-vr-zone-6.zn-balanced.zn--idx-5.zn--ordinary.t-dark.zn-has-one-container"/>
+<property type="class" value="zn zn-vr-zone-6 zn-balanced zn--idx-5 zn--ordinary t-dark zn-has-one-container"/>
+<property type="data-eq-pts" value="xsmall: 0, medium: 460, large: 780, full16x9: 1100"/>
+<property type="data-vr-zone" value="zone-0-5"/>
+<property type="data-zone-label" value="Zone 6"/>
+<property type="data-containers" value="1"/>
+<property type="data-zn-id" value="vr-zone-6"/>
+<property type="data-eq-state" value="xsmall"/>
+<property type="x" value="0"/>
+<property type="y" value="11961"/>
+<property type="width" value="1242"/>
+<property type="height" value="75"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top"/>
+<property type="class" value="zn-top"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn-top__background"/>
+<property type="class" value="zn-top__background"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="30" ignored="false" w="1242" web="true" x="0" y="12006">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-container.zn__background--content-relative"/>
+<property type="class" value="l-container zn__background--content-relative"/>
+<property type="x" value="0"/>
+<property type="y" value="12006"/>
+<property type="width" value="1242"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="1242" web="true" x="0" y="12006">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.zn__containers"/>
+<property type="class" value="zn__containers"/>
+<property type="x" value="0"/>
+<property type="y" value="12006"/>
+<property type="width" value="1242"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="1242" web="true" x="0" y="12006">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.column.zn__column--idx-0"/>
+<property type="class" value="column zn__column--idx-0"/>
+<property type="x" value="0"/>
+<property type="y" value="12006"/>
+<property type="width" value="1242"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.cn.cn-list-hierarchical-xs.cn--idx-0.cn-container_3667BD0B-2492-4FE3-2EED-2877469C8C2A"/>
+<property type="class" value="cn cn-list-hierarchical-xs cn--idx-0 cn-container_3667BD0B-2492-4FE3-2EED-2877469C8C2A"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--tool.cd--tool__webtag"/>
+<property type="class" value="cd cd--tool cd--tool__webtag"/>
+<property type="data-analytics" value="tool-type_list-hierarchical-xs_webtag"/>
+<property type="data-vr-contentbox" value=""/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780"/>
+<property type="data-eq-state" value="xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.element-raw"/>
+<property type="class" value="element-raw"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--tool.cd--tool__webtag"/>
+<property type="class" value="cd cd--tool cd--tool__webtag"/>
+<property type="data-analytics" value="tool-type_list-hierarchical-xs_webtag"/>
+<property type="data-vr-contentbox" value=""/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780"/>
+<property type="data-eq-state" value="xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.element-raw"/>
+<property type="class" value="element-raw"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="ARTICLE"/>
+<property type="css" value="ARTICLE.cd.cd--tool.cd--tool__webtag"/>
+<property type="class" value="cd cd--tool cd--tool__webtag"/>
+<property type="data-analytics" value="tool-type_list-hierarchical-xs_webtag"/>
+<property type="data-vr-contentbox" value=""/>
+<property type="data-eq-pts" value="xsmall: 0, small: 300, medium: 460, large: 780"/>
+<property type="data-eq-state" value="xsmall small"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.element-raw"/>
+<property type="class" value="element-raw"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ad.ad--epic.ad--all-list.t-dark"/>
+<property type="class" value="ad ad--epic ad--all-list t-dark"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="data-ad-id" value="ad_bnr_btf_01"/>
+<property type="data-ad-position" value="list-bottom"/>
+<property type="data-ad-refresh" value="adbody"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1059" ignored="false" w="1242" web="true" x="0" y="12036">
+<properties>
+<property type="nodeName" value="FOOTER"/>
+<property type="css" value="FOOTER.l-footer"/>
+<property type="class" value="l-footer"/>
+<property type="x" value="0"/>
+<property type="y" value="12036"/>
+<property type="width" value="1242"/>
+<property type="height" value="1059"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-footer__tools"/>
+<property type="class" value="l-footer__tools"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="819" ignored="false" w="1122" web="true" x="60" y="12186">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.l-footer__content"/>
+<property type="class" value="l-footer__content"/>
+<property type="x" value="60"/>
+<property type="y" value="12186"/>
+<property type="width" value="1122"/>
+<property type="height" value="819"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.m-footer-nav.edition-international"/>
+<property type="class" value="m-footer-nav edition-international"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="183" ignored="false" w="660" web="true" x="60" y="12186">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="id" value="show-more-vr-videos"/>
+<property type="href" value="/specials/vr/vr-archives"/>
+<property type="text" value="Show more VR videos"/>
+<property type="css" value="A.el-button.el-button--show-more-vr-videos[href='/specials/vr/vr-archives']"/>
+<property type="class" value="el-button el-button--show-more-vr-videos"/>
+<property type="x" value="60"/>
+<property type="y" value="12186"/>
+<property type="width" value="660"/>
+<property type="height" value="183"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="486" ignored="false" w="1122" web="true" x="60" y="12519">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.legal"/>
+<property type="class" value="legal"/>
+<property type="x" value="60"/>
+<property type="y" value="12519"/>
+<property type="width" value="1122"/>
+<property type="height" value="486"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="114" ignored="false" w="1122" web="true" x="60" y="12519">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="© 2017 Cable News Network.  All Rights Reserved."/>
+<property type="css" value="P.legal__copyright"/>
+<property type="class" value="legal__copyright"/>
+<property type="x" value="60"/>
+<property type="y" value="12519"/>
+<property type="width" value="1122"/>
+<property type="height" value="114"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="531" web="true" x="546" y="12519">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="http://www.turner.com"/>
+<property type="text" value="Turner Broadcasting System, Inc."/>
+<property type="css" value="A[href='http://www.turner.com']"/>
+<property type="data-analytics" value="footer_turner-broadcasting-system-inc"/>
+<property type="title" value="Turner Broadcasting System, Inc."/>
+<property type="x" value="546"/>
+<property type="y" value="12519"/>
+<property type="width" value="531"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="735" web="true" x="60" y="12633">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="CNN Sans ™ &amp; © 2017 Cable News Network. "/>
+<property type="css" value="P.legal__font-copyright"/>
+<property type="class" value="legal__font-copyright"/>
+<property type="x" value="60"/>
+<property type="y" value="12633"/>
+<property type="width" value="735"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="57" ignored="false" w="1122" web="true" x="60" y="12690">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="css" value="UL.legal__link-list"/>
+<property type="class" value="legal__link-list"/>
+<property type="x" value="60"/>
+<property type="y" value="12690"/>
+<property type="width" value="1122"/>
+<property type="height" value="57"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="261" web="true" x="60" y="12690">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="css" value="LI.legal__link-list-item"/>
+<property type="class" value="legal__link-list-item"/>
+<property type="x" value="60"/>
+<property type="y" value="12690"/>
+<property type="width" value="261"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="261" web="true" x="60" y="12690">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/terms"/>
+<property type="text" value="Terms of service"/>
+<property type="css" value="A.legal__link[href='/terms']"/>
+<property type="class" value="legal__link"/>
+<property type="data-analytics" value="footer_terms-of-service"/>
+<property type="x" value="60"/>
+<property type="y" value="12690"/>
+<property type="width" value="261"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="306" web="true" x="339" y="12690">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="css" value="LI.legal__link-list-item"/>
+<property type="class" value="legal__link-list-item"/>
+<property type="x" value="339"/>
+<property type="y" value="12690"/>
+<property type="width" value="306"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="285" web="true" x="360" y="12690">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/privacy"/>
+<property type="text" value="Privacy guidelines"/>
+<property type="css" value="A.legal__link[href='/privacy']"/>
+<property type="class" value="legal__link"/>
+<property type="data-analytics" value="footer_privacy-guidelines"/>
+<property type="x" value="360"/>
+<property type="y" value="12690"/>
+<property type="width" value="285"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="108" ignored="false" w="249" web="true" x="60" y="12897">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value=" "/>
+<property type="css" value="DIV.home-link"/>
+<property type="class" value="home-link"/>
+<property type="x" value="60"/>
+<property type="y" value="12897"/>
+<property type="width" value="249"/>
+<property type="height" value="108"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="111" web="true" x="60" y="12903">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="GO TO"/>
+<property type="css" value="SPAN.logo-text"/>
+<property type="class" value="logo-text"/>
+<property type="x" value="60"/>
+<property type="y" value="12903"/>
+<property type="width" value="111"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="108" ignored="false" w="123" web="true" x="180" y="12897">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/"/>
+<property type="css" value="A.logo[href='/']"/>
+<property type="class" value="logo"/>
+<property type="data-analytics" value="header_logo"/>
+<property type="title" value="CNN Homepage"/>
+<property type="x" value="180"/>
+<property type="y" value="12897"/>
+<property type="width" value="123"/>
+<property type="height" value="108"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="192">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.OUTBRAIN"/>
+<property type="class" value="OUTBRAIN"/>
+<property type="data-src" value=""/>
+<property type="data-widget-id" value="TR_1"/>
+<property type="data-ob-template" value="cnnedition"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Qasim-Suite" duration-ms="120530" started-at="2017-12-28T21:52:10Z" finished-at="2017-12-28T21:54:10Z">
+    <groups>
+    </groups>
+    <test name="testing" duration-ms="120530" started-at="2017-12-28T21:52:10Z" finished-at="2017-12-28T21:54:10Z">
+      <class name="com.qasim.test.CNNbIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CNNbIOS@475530b9]" name="Start" duration-ms="120504" started-at="2017-12-28T23:52:10Z" finished-at="2017-12-28T23:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5a8e6209]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CNNbIOS -->
+    </test> <!-- testing -->
+  </suite> <!-- Qasim-Suite -->
+</testng-results>

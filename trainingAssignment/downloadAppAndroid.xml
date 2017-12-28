@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="downloadAppAndroid">
+<obj text="search_box_idle_text" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\search_box_idle_text.PNG" jump="1" mainColor="-70708" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="search_box_idle_text" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='search_box_idle_text']" xpath="//*[@id='search_box_idle_text']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Search Google Play" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\Search Google Play.PNG" jump="1" mainColor="-20203" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="search_box_text_input" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Search Google Play" textBB="" textIOS="" textWP="" value="//*[@id='search_box_text_input']" xpath="//*[@id='search_box_text_input']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="search_icon" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\search_icon.PNG" jump="1" mainColor="-80001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="icon" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='icon' and ./following-sibling::*[./*[@text='empire']]]" xpath="//*[@id='icon' and ./following-sibling::*[./*[@text='empire']]]" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="li_thumbnail" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\li_thumbnail.PNG" jump="1" mainColor="-6bbecd" max="0" min="0" scanner="Advance Similarity" similarity="80"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="li_thumbnail" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='li_thumbnail' and @height&gt;0 and ./parent::*[./following-sibling::*[@text='Empire Four Kingdoms: Fight Kings &amp; Battle Enemies']]]" xpath="//*[@id='li_thumbnail' and @height&gt;0 and ./parent::*[./following-sibling::*[@text='Empire Four Kingdoms: Fight Kings &amp; Battle Enemies']]]" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="INSTALL" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\INSTALL.PNG" jump="1" mainColor="-ed62a7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="INSTALL" textBB="" textIOS="" textWP="" value="//*[@text='INSTALL']" xpath="//*[@text='INSTALL']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="UNINSTALL" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\UNINSTALL.PNG" jump="1" mainColor="-70001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="UNINSTALL" textBB="" textIOS="" textWP="" value="//*[@text='UNINSTALL']" xpath="//*[@text='UNINSTALL']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="OK" version="1">
+<images enable="true">
+<image file="downloadAppAndroid\OK.PNG" jump="1" mainColor="-601" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="button1" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="OK" textBB="" textIOS="" textWP="" value="//*[@text='OK']" xpath="//*[@text='OK']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>

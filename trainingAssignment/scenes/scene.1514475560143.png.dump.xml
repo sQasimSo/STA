@@ -1,0 +1,4657 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="action_bar_root"/>
+<property type="resource-id" value="com.android.vending:id/action_bar_root"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="drawer_layout"/>
+<property type="resource-id" value="com.android.vending:id/drawer_layout"/>
+<property type="class" value="android.support.v4.widget.DrawerLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v4.widget.DrawerLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="outer_content_frame"/>
+<property type="resource-id" value="com.android.vending:id/outer_content_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="content_frame"/>
+<property type="resource-id" value="com.android.vending:id/content_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1794" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="page_content"/>
+<property type="resource-id" value="com.android.vending:id/page_content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1794"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="play_header_banner"/>
+<property type="resource-id" value="com.android.vending:id/play_header_banner"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,0]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="336" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="controls_container"/>
+<property type="resource-id" value="com.android.vending:id/controls_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="336"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="336" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="336"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="336" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="336"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="273" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="hero_container"/>
+<property type="resource-id" value="com.android.vending:id/hero_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,63][1080,336]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="273"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="126" ignored="false" w="1080" web="false" x="0" y="210">
+<properties>
+<property type="id" value="tab_bar"/>
+<property type="resource-id" value="com.android.vending:id/tab_bar"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,210][1080,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="210"/>
+<property type="width" value="1080"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="1080" web="false" x="0" y="210">
+<properties>
+<property type="id" value="pager_tab_strip"/>
+<property type="resource-id" value="com.android.vending:id/pager_tab_strip"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,210][1080,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="210"/>
+<property type="width" value="1080"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="1079" web="false" x="0" y="210">
+<properties>
+<property type="id" value="play_header_list_tab_scroll"/>
+<property type="resource-id" value="com.android.vending:id/play_header_list_tab_scroll"/>
+<property type="class" value="android.widget.HorizontalScrollView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,210][1079,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.HorizontalScrollView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="210"/>
+<property type="width" value="1079"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="1079" web="false" x="0" y="210">
+<properties>
+<property type="id" value="play_header_list_tab_container"/>
+<property type="resource-id" value="com.android.vending:id/play_header_list_tab_container"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,210][1079,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="210"/>
+<property type="width" value="1079"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="214" web="false" x="314" y="210">
+<properties>
+<property type="id" value="title"/>
+<property type="resource-id" value="com.android.vending:id/title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="HOME"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[314,210][528,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="true"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="314"/>
+<property type="y" value="210"/>
+<property type="width" value="214"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="126" ignored="false" w="237" web="false" x="528" y="210">
+<properties>
+<property type="id" value="title"/>
+<property type="resource-id" value="com.android.vending:id/title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="GAMES"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[528,210][765,336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="210"/>
+<property type="width" value="237"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="background_container"/>
+<property type="resource-id" value="com.android.vending:id/background_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,0][1080,0]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="play_header_status_bar_underlay"/>
+<property type="resource-id" value="com.android.vending:id/play_header_status_bar_underlay"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,0][1080,147]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="147"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="1731" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="viewpager"/>
+<property type="resource-id" value="com.android.vending:id/viewpager"/>
+<property type="class" value="android.support.v4.view.ViewPager"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,63][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v4.view.ViewPager"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1731" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="list_tab_wrapper"/>
+<property type="resource-id" value="com.android.vending:id/list_tab_wrapper"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1731" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="data_view"/>
+<property type="resource-id" value="com.android.vending:id/data_view"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1731" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="tab_recycler_view"/>
+<property type="resource-id" value="com.android.vending:id/tab_recycler_view"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="1080" web="false" x="0" y="357">
+<properties>
+<property type="id" value="links_banner"/>
+<property type="resource-id" value="com.android.vending:id/links_banner"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,357][1080,513]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="357"/>
+<property type="width" value="1080"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="401" web="false" x="5" y="357">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="contentDescription" value="Top Charts"/>
+<property type="content-desc" value="Top Charts"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[5,357][406,513]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="5"/>
+<property type="y" value="357"/>
+<property type="width" value="401"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="93" ignored="false" w="305" web="false" x="53" y="378">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="TOP CHARTS"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[53,378][358,471]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="53"/>
+<property type="y" value="378"/>
+<property type="width" value="305"/>
+<property type="height" value="93"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="156" ignored="false" w="389" web="false" x="406" y="357">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="contentDescription" value="Work Apps"/>
+<property type="content-desc" value="Work Apps"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[406,357][795,513]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="406"/>
+<property type="y" value="357"/>
+<property type="width" value="389"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="93" ignored="false" w="293" web="false" x="454" y="378">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="WORK APPS"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[454,378][747,471]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="454"/>
+<property type="y" value="378"/>
+<property type="width" value="293"/>
+<property type="height" value="93"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="156" ignored="false" w="285" web="false" x="795" y="357">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="contentDescription" value="Categories"/>
+<property type="content-desc" value="Categories"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[795,357][1080,513]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="795"/>
+<property type="y" value="357"/>
+<property type="width" value="285"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="93" ignored="false" w="237" web="false" x="843" y="378">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="CATEGORIES"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[843,378][1080,471]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="843"/>
+<property type="y" value="378"/>
+<property type="width" value="237"/>
+<property type="height" value="93"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="569" ignored="false" w="1038" web="false" x="21" y="513">
+<properties>
+<property type="id" value="flat_card_cluster_container"/>
+<property type="resource-id" value="com.android.vending:id/flat_card_cluster_container"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[21,513][1059,1082]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="513"/>
+<property type="width" value="1038"/>
+<property type="height" value="569"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="569" ignored="false" w="758" web="false" x="21" y="513">
+<properties>
+<property type="id" value="merch_image"/>
+<property type="resource-id" value="com.android.vending:id/merch_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Best Apps of 2017"/>
+<property type="content-desc" value="Best Apps of 2017"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,513][779,1082]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="513"/>
+<property type="width" value="758"/>
+<property type="height" value="569"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="125" ignored="false" w="1038" web="false" x="21" y="513">
+<properties>
+<property type="id" value="cluster_header"/>
+<property type="resource-id" value="com.android.vending:id/cluster_header"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[21,513][1059,638]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="513"/>
+<property type="width" value="1038"/>
+<property type="height" value="125"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="125" ignored="false" w="866" web="false" x="63" y="513">
+<properties>
+<property type="id" value="cluster_title"/>
+<property type="resource-id" value="com.android.vending:id/cluster_title"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,513][929,638]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="513"/>
+<property type="width" value="866"/>
+<property type="height" value="125"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="346" web="false" x="63" y="550">
+<properties>
+<property type="id" value="header_title_main"/>
+<property type="resource-id" value="com.android.vending:id/header_title_main"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Best Apps of 2017"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,550][409,601]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="550"/>
+<property type="width" value="346"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="43" ignored="false" w="88" web="false" x="929" y="554">
+<properties>
+<property type="id" value="header_more"/>
+<property type="resource-id" value="com.android.vending:id/header_more"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="MORE"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[929,554][1017,597]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="929"/>
+<property type="y" value="554"/>
+<property type="width" value="88"/>
+<property type="height" value="43"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="1038" web="false" x="21" y="638">
+<properties>
+<property type="id" value="cluster_content"/>
+<property type="resource-id" value="com.android.vending:id/cluster_content"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[21,638][1059,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="638"/>
+<property type="width" value="1038"/>
+<property type="height" value="412"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="412" ignored="false" w="635" web="false" x="21" y="638">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,638][656,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="638"/>
+<property type="width" value="635"/>
+<property type="height" value="412"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="412" ignored="false" w="307" web="false" x="656" y="638">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[656,638][963,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="656"/>
+<property type="y" value="638"/>
+<property type="width" value="307"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="656" y="638">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[656,638][656,638]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="656"/>
+<property type="y" value="638"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="265" web="false" x="677" y="638">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[677,638][942,903]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="638"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="265" web="false" x="677" y="638">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[677,638][942,903]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="638"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="81" ignored="false" w="218" web="false" x="677" y="924">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Video Player All Format"/>
+<property type="contentDescription" value="App: Video Player All Format"/>
+<property type="content-desc" value="App: Video Player All Format"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[677,924][895,1005]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="924"/>
+<property type="width" value="218"/>
+<property type="height" value="81"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="84" web="false" x="879" y="903">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[879,903][963,987]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="879"/>
+<property type="y" value="903"/>
+<property type="width" value="84"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="677" y="1008">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.8"/>
+<property type="content-desc" value="Star rating: 4.8"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[677,1008][745,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="1008"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="74" web="false" x="868" y="1008">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[868,1008][942,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="868"/>
+<property type="y" value="1008"/>
+<property type="width" value="74"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="96" web="false" x="963" y="638">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[963,638][1059,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="963"/>
+<property type="y" value="638"/>
+<property type="width" value="96"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="963" y="638">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[963,638][963,638]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="963"/>
+<property type="y" value="638"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="75" web="false" x="984" y="638">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[984,638][1059,903]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="638"/>
+<property type="width" value="75"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="75" web="false" x="984" y="638">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[984,638][1059,903]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="638"/>
+<property type="width" value="75"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="81" ignored="false" w="75" web="false" x="984" y="924">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Step Counter - Pedometer Free &amp; Calorie Counter"/>
+<property type="contentDescription" value="App: Step Counter - Pedometer Free &amp; Calorie Counter"/>
+<property type="content-desc" value="App: Step Counter - Pedometer Free &amp; Calorie Counter"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[984,924][1059,1005]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="924"/>
+<property type="width" value="75"/>
+<property type="height" value="81"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="-127" web="false" x="1186" y="903">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1186,903][1059,987]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1186"/>
+<property type="y" value="903"/>
+<property type="width" value="-127"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="984" y="1008">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.7"/>
+<property type="content-desc" value="Star rating: 4.7"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[984,1008][1052,1050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="1008"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="-116" web="false" x="1175" y="1008">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[1175,1008][1059,1050]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1175"/>
+<property type="y" value="1008"/>
+<property type="width" value="-116"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="569" ignored="false" w="521" web="false" x="258" y="513">
+<properties>
+<property type="id" value="gradient_overlay"/>
+<property type="resource-id" value="com.android.vending:id/gradient_overlay"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[258,513][779,1082]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="258"/>
+<property type="y" value="513"/>
+<property type="width" value="521"/>
+<property type="height" value="569"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="569" ignored="false" w="1038" web="false" x="21" y="1103">
+<properties>
+<property type="id" value="flat_card_cluster_container"/>
+<property type="resource-id" value="com.android.vending:id/flat_card_cluster_container"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[21,1103][1059,1672]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1103"/>
+<property type="width" value="1038"/>
+<property type="height" value="569"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="125" ignored="false" w="1038" web="false" x="21" y="1103">
+<properties>
+<property type="id" value="cluster_header"/>
+<property type="resource-id" value="com.android.vending:id/cluster_header"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,1103][1059,1228]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1103"/>
+<property type="width" value="1038"/>
+<property type="height" value="125"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="125" ignored="false" w="866" web="false" x="63" y="1103">
+<properties>
+<property type="id" value="cluster_title"/>
+<property type="resource-id" value="com.android.vending:id/cluster_title"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1103][929,1228]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1103"/>
+<property type="width" value="866"/>
+<property type="height" value="125"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="419" web="false" x="63" y="1140">
+<properties>
+<property type="id" value="header_title_main"/>
+<property type="resource-id" value="com.android.vending:id/header_title_main"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="New + Updated Games"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1140][482,1191]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1140"/>
+<property type="width" value="419"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="43" ignored="false" w="88" web="false" x="929" y="1144">
+<properties>
+<property type="id" value="header_more"/>
+<property type="resource-id" value="com.android.vending:id/header_more"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="MORE"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[929,1144][1017,1187]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="929"/>
+<property type="y" value="1144"/>
+<property type="width" value="88"/>
+<property type="height" value="43"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="1038" web="false" x="21" y="1228">
+<properties>
+<property type="id" value="cluster_content"/>
+<property type="resource-id" value="com.android.vending:id/cluster_content"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[21,1228][1059,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1228"/>
+<property type="width" value="1038"/>
+<property type="height" value="412"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="412" ignored="false" w="21" web="false" x="21" y="1228">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,1228][42,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1228"/>
+<property type="width" value="21"/>
+<property type="height" value="412"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="412" ignored="false" w="307" web="false" x="42" y="1228">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[42,1228][349,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="1228"/>
+<property type="width" value="307"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="42" y="1228">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,1228][42,1228]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="1228"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="265" web="false" x="63" y="1228">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[63,1228][328,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="265" web="false" x="63" y="1228">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1228][328,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="43" ignored="false" w="218" web="false" x="63" y="1514">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="WWE Mayhem"/>
+<property type="contentDescription" value="App: WWE Mayhem"/>
+<property type="content-desc" value="App: WWE Mayhem"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[63,1514][281,1557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1514"/>
+<property type="width" value="218"/>
+<property type="height" value="43"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="84" web="false" x="265" y="1493">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[265,1493][349,1577]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="265"/>
+<property type="y" value="1493"/>
+<property type="width" value="84"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="63" y="1598">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.5"/>
+<property type="content-desc" value="Star rating: 4.5"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[63,1598][131,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1598"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="74" web="false" x="254" y="1598">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[254,1598][328,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="254"/>
+<property type="y" value="1598"/>
+<property type="width" value="74"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="307" web="false" x="349" y="1228">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[349,1228][656,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="349"/>
+<property type="y" value="1228"/>
+<property type="width" value="307"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="349" y="1228">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[349,1228][349,1228]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="349"/>
+<property type="y" value="1228"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="265" web="false" x="370" y="1228">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[370,1228][635,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="370"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="265" web="false" x="370" y="1228">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[370,1228][635,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="370"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="43" ignored="false" w="218" web="false" x="370" y="1514">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Into the Dead 2"/>
+<property type="contentDescription" value="App: Into the Dead 2"/>
+<property type="content-desc" value="App: Into the Dead 2"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[370,1514][588,1557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="370"/>
+<property type="y" value="1514"/>
+<property type="width" value="218"/>
+<property type="height" value="43"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="84" web="false" x="572" y="1493">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[572,1493][656,1577]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="572"/>
+<property type="y" value="1493"/>
+<property type="width" value="84"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="370" y="1598">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.5"/>
+<property type="content-desc" value="Star rating: 4.5"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[370,1598][438,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="370"/>
+<property type="y" value="1598"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="74" web="false" x="561" y="1598">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[561,1598][635,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="561"/>
+<property type="y" value="1598"/>
+<property type="width" value="74"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="307" web="false" x="656" y="1228">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[656,1228][963,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="656"/>
+<property type="y" value="1228"/>
+<property type="width" value="307"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="656" y="1228">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[656,1228][656,1228]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="656"/>
+<property type="y" value="1228"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="265" web="false" x="677" y="1228">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[677,1228][942,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="265" web="false" x="677" y="1228">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[677,1228][942,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="1228"/>
+<property type="width" value="265"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="43" ignored="false" w="218" web="false" x="677" y="1514">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="War Robots"/>
+<property type="contentDescription" value="App: War Robots"/>
+<property type="content-desc" value="App: War Robots"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[677,1514][895,1557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="1514"/>
+<property type="width" value="218"/>
+<property type="height" value="43"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="84" web="false" x="879" y="1493">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[879,1493][963,1577]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="879"/>
+<property type="y" value="1493"/>
+<property type="width" value="84"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="677" y="1598">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.6"/>
+<property type="content-desc" value="Star rating: 4.6"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[677,1598][745,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="677"/>
+<property type="y" value="1598"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="74" web="false" x="868" y="1598">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[868,1598][942,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="868"/>
+<property type="y" value="1598"/>
+<property type="width" value="74"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="412" ignored="false" w="96" web="false" x="963" y="1228">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[963,1228][1059,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="963"/>
+<property type="y" value="1228"/>
+<property type="width" value="96"/>
+<property type="height" value="412"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="963" y="1228">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[963,1228][963,1228]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="963"/>
+<property type="y" value="1228"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="265" ignored="false" w="75" web="false" x="984" y="1228">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[984,1228][1059,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="1228"/>
+<property type="width" value="75"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="265" ignored="false" w="75" web="false" x="984" y="1228">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[984,1228][1059,1493]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="1228"/>
+<property type="width" value="75"/>
+<property type="height" value="265"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="81" ignored="false" w="75" web="false" x="984" y="1514">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Last Day on Earth: Survival"/>
+<property type="contentDescription" value="App: Last Day on Earth: Survival"/>
+<property type="content-desc" value="App: Last Day on Earth: Survival"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[984,1514][1059,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="1514"/>
+<property type="width" value="75"/>
+<property type="height" value="81"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="84" ignored="false" w="-127" web="false" x="1186" y="1493">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1186,1493][1059,1577]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1186"/>
+<property type="y" value="1493"/>
+<property type="width" value="-127"/>
+<property type="height" value="84"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="68" web="false" x="984" y="1598">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.5"/>
+<property type="content-desc" value="Star rating: 4.5"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[984,1598][1052,1640]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="984"/>
+<property type="y" value="1598"/>
+<property type="width" value="68"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="-116" web="false" x="1175" y="1598">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[1175,1598][1059,1640]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1175"/>
+<property type="y" value="1598"/>
+<property type="width" value="-116"/>
+<property type="height" value="42"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="101" ignored="false" w="1038" web="false" x="21" y="1693">
+<properties>
+<property type="id" value="flat_card_cluster_container"/>
+<property type="resource-id" value="com.android.vending:id/flat_card_cluster_container"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[21,1693][1059,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1693"/>
+<property type="width" value="1038"/>
+<property type="height" value="101"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="101" ignored="false" w="1038" web="false" x="21" y="1693">
+<properties>
+<property type="id" value="cluster_header"/>
+<property type="resource-id" value="com.android.vending:id/cluster_header"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,1693][1059,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="1693"/>
+<property type="width" value="1038"/>
+<property type="height" value="101"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="66" web="false" x="63" y="1735">
+<properties>
+<property type="id" value="li_ad_label_container"/>
+<property type="resource-id" value="com.android.vending:id/li_ad_label_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1735][129,1775]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1735"/>
+<property type="width" value="66"/>
+<property type="height" value="40"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="66" web="false" x="63" y="1735">
+<properties>
+<property type="id" value="li_ad_label_v2"/>
+<property type="resource-id" value="com.android.vending:id/li_ad_label_v2"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Ads"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1735][129,1775]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="63"/>
+<property type="y" value="1735"/>
+<property type="width" value="66"/>
+<property type="height" value="40"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="101" ignored="false" w="909" web="false" x="150" y="1693">
+<properties>
+<property type="id" value="cluster_title"/>
+<property type="resource-id" value="com.android.vending:id/cluster_title"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[150,1693][1059,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="150"/>
+<property type="y" value="1693"/>
+<property type="width" value="909"/>
+<property type="height" value="101"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="348" web="false" x="150" y="1730">
+<properties>
+<property type="id" value="header_title_main"/>
+<property type="resource-id" value="com.android.vending:id/header_title_main"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Suggested for You"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[150,1730][498,1781]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="150"/>
+<property type="y" value="1730"/>
+<property type="width" value="348"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="-24" ignored="false" w="1038" web="false" x="21" y="1818">
+<properties>
+<property type="id" value="cluster_content"/>
+<property type="resource-id" value="com.android.vending:id/cluster_content"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[21,1818][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="21"/>
+<property type="y" value="1818"/>
+<property type="width" value="1038"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="21" web="false" x="21" y="1818">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,1818][42,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="21"/>
+<property type="y" value="1818"/>
+<property type="width" value="21"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-24" ignored="false" w="307" web="false" x="42" y="1818">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[42,1818][349,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="1818"/>
+<property type="width" value="307"/>
+<property type="height" value="-24"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="0" web="false" x="42" y="1818">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,1818][42,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="1818"/>
+<property type="width" value="0"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-24" ignored="false" w="265" web="false" x="63" y="1818">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[63,1818][328,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="63"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="265" web="false" x="63" y="1818">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[63,1818][328,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="63"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-310" ignored="false" w="218" web="false" x="63" y="2104">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Skyscanner"/>
+<property type="contentDescription" value="App: Skyscanner"/>
+<property type="content-desc" value="App: Skyscanner"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[63,2104][281,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="63"/>
+<property type="y" value="2104"/>
+<property type="width" value="218"/>
+<property type="height" value="-310"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-289" ignored="false" w="84" web="false" x="265" y="2083">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[265,2083][349,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="265"/>
+<property type="y" value="2083"/>
+<property type="width" value="84"/>
+<property type="height" value="-289"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="68" web="false" x="63" y="2188">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.5"/>
+<property type="content-desc" value="Star rating: 4.5"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[63,2188][131,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="63"/>
+<property type="y" value="2188"/>
+<property type="width" value="68"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="74" web="false" x="254" y="2188">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[254,2188][328,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="254"/>
+<property type="y" value="2188"/>
+<property type="width" value="74"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-24" ignored="false" w="307" web="false" x="349" y="1818">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[349,1818][656,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="349"/>
+<property type="y" value="1818"/>
+<property type="width" value="307"/>
+<property type="height" value="-24"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="0" web="false" x="349" y="1818">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[349,1818][349,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="349"/>
+<property type="y" value="1818"/>
+<property type="width" value="0"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-24" ignored="false" w="265" web="false" x="370" y="1818">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[370,1818][635,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="370"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="265" web="false" x="370" y="1818">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[370,1818][635,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="370"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-310" ignored="false" w="218" web="false" x="370" y="2104">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ExpressVPN - Best Android VPN"/>
+<property type="contentDescription" value="App: ExpressVPN - Best Android VPN"/>
+<property type="content-desc" value="App: ExpressVPN - Best Android VPN"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[370,2104][588,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="370"/>
+<property type="y" value="2104"/>
+<property type="width" value="218"/>
+<property type="height" value="-310"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-289" ignored="false" w="84" web="false" x="572" y="2083">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[572,2083][656,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="572"/>
+<property type="y" value="2083"/>
+<property type="width" value="84"/>
+<property type="height" value="-289"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="68" web="false" x="370" y="2188">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 4.1"/>
+<property type="content-desc" value="Star rating: 4.1"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[370,2188][438,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="370"/>
+<property type="y" value="2188"/>
+<property type="width" value="68"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="74" web="false" x="561" y="2188">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[561,2188][635,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="561"/>
+<property type="y" value="2188"/>
+<property type="width" value="74"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-24" ignored="false" w="307" web="false" x="656" y="1818">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[656,1818][963,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="656"/>
+<property type="y" value="1818"/>
+<property type="width" value="307"/>
+<property type="height" value="-24"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="0" web="false" x="656" y="1818">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[656,1818][656,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="656"/>
+<property type="y" value="1818"/>
+<property type="width" value="0"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-24" ignored="false" w="265" web="false" x="677" y="1818">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[677,1818][942,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="677"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="265" web="false" x="677" y="1818">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[677,1818][942,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="677"/>
+<property type="y" value="1818"/>
+<property type="width" value="265"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-310" ignored="false" w="218" web="false" x="677" y="2104">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Pepper Pay תשלומים במובייל"/>
+<property type="contentDescription" value="App: Pepper Pay תשלומים במובייל"/>
+<property type="content-desc" value="App: Pepper Pay תשלומים במובייל"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[677,2104][895,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="677"/>
+<property type="y" value="2104"/>
+<property type="width" value="218"/>
+<property type="height" value="-310"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-289" ignored="false" w="84" web="false" x="879" y="2083">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[879,2083][963,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="879"/>
+<property type="y" value="2083"/>
+<property type="width" value="84"/>
+<property type="height" value="-289"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="68" web="false" x="677" y="2188">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 3.3"/>
+<property type="content-desc" value="Star rating: 3.3"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[677,2188][745,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="677"/>
+<property type="y" value="2188"/>
+<property type="width" value="68"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="74" web="false" x="868" y="2188">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[868,2188][942,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="868"/>
+<property type="y" value="2188"/>
+<property type="width" value="74"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-24" ignored="false" w="96" web="false" x="963" y="1818">
+<properties>
+<property type="id" value="play_card"/>
+<property type="resource-id" value="com.android.vending:id/play_card"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[963,1818][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="963"/>
+<property type="y" value="1818"/>
+<property type="width" value="96"/>
+<property type="height" value="-24"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="0" web="false" x="963" y="1818">
+<properties>
+<property type="id" value="li_fading_edge_title"/>
+<property type="resource-id" value="com.android.vending:id/li_fading_edge_title"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[963,1818][963,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="963"/>
+<property type="y" value="1818"/>
+<property type="width" value="0"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-24" ignored="false" w="75" web="false" x="984" y="1818">
+<properties>
+<property type="id" value="li_thumbnail_frame"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[984,1818][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="984"/>
+<property type="y" value="1818"/>
+<property type="width" value="75"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="-24" ignored="false" w="75" web="false" x="984" y="1818">
+<properties>
+<property type="id" value="li_thumbnail"/>
+<property type="resource-id" value="com.android.vending:id/li_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[984,1818][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="984"/>
+<property type="y" value="1818"/>
+<property type="width" value="75"/>
+<property type="height" value="-24"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="-310" ignored="false" w="75" web="false" x="984" y="2104">
+<properties>
+<property type="id" value="li_title"/>
+<property type="resource-id" value="com.android.vending:id/li_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Bit ביט"/>
+<property type="contentDescription" value="App: Bit ביט"/>
+<property type="content-desc" value="App: Bit ביט"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[984,2104][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="984"/>
+<property type="y" value="2104"/>
+<property type="width" value="75"/>
+<property type="height" value="-310"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-289" ignored="false" w="-127" web="false" x="1186" y="2083">
+<properties>
+<property type="id" value="li_overflow"/>
+<property type="resource-id" value="com.android.vending:id/li_overflow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Options"/>
+<property type="content-desc" value="Options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1186,2083][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1186"/>
+<property type="y" value="2083"/>
+<property type="width" value="-127"/>
+<property type="height" value="-289"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="68" web="false" x="984" y="2188">
+<properties>
+<property type="id" value="li_rating"/>
+<property type="resource-id" value="com.android.vending:id/li_rating"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Star rating: 3.9"/>
+<property type="content-desc" value="Star rating: 3.9"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[984,2188][1052,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="984"/>
+<property type="y" value="2188"/>
+<property type="width" value="68"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="-394" ignored="false" w="-116" web="false" x="1175" y="2188">
+<properties>
+<property type="id" value="li_label"/>
+<property type="resource-id" value="com.android.vending:id/li_label"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Free"/>
+<property type="content-desc" value="Free"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[1175,2188][1059,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1175"/>
+<property type="y" value="2188"/>
+<property type="width" value="-116"/>
+<property type="height" value="-394"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1731" ignored="false" w="-42" web="false" x="1122" y="63">
+<properties>
+<property type="id" value="list_tab_wrapper"/>
+<property type="resource-id" value="com.android.vending:id/list_tab_wrapper"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1122,63][1080,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1122"/>
+<property type="y" value="63"/>
+<property type="width" value="-42"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1731" ignored="false" w="-42" web="false" x="1122" y="63">
+<properties>
+<property type="id" value="lists_loading_indicator"/>
+<property type="resource-id" value="com.android.vending:id/lists_loading_indicator"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1122,63][1080,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1122"/>
+<property type="y" value="63"/>
+<property type="width" value="-42"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="-519" web="false" x="1599" y="960">
+<properties>
+<property type="class" value="android.widget.ProgressBar"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1599,960][1080,1086]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ProgressBar"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1599"/>
+<property type="y" value="960"/>
+<property type="width" value="-519"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1731" ignored="false" w="-42" web="false" x="1122" y="63">
+<properties>
+<property type="id" value="data_view"/>
+<property type="resource-id" value="com.android.vending:id/data_view"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1122,63][1080,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1122"/>
+<property type="y" value="63"/>
+<property type="width" value="-42"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="1731" ignored="false" w="-42" web="false" x="1122" y="63">
+<properties>
+<property type="id" value="tab_recycler_view"/>
+<property type="resource-id" value="com.android.vending:id/tab_recycler_view"/>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1122,63][1080,1794]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1122"/>
+<property type="y" value="63"/>
+<property type="width" value="-42"/>
+<property type="height" value="1731"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1458" ignored="false" w="1080" web="false" x="0" y="336">
+<properties>
+<property type="id" value="alt_play_background"/>
+<property type="resource-id" value="com.android.vending:id/alt_play_background"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[0,336][1080,1794]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="336"/>
+<property type="width" value="1080"/>
+<property type="height" value="1458"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="219" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="action_bar_container_container"/>
+<property type="resource-id" value="com.android.vending:id/action_bar_container_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,219]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="219"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="action_bar_container"/>
+<property type="resource-id" value="com.android.vending:id/action_bar_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,219]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="id" value="action_bar"/>
+<property type="resource-id" value="com.android.vending:id/action_bar"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,219]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="1080" web="false" x="0" y="63">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,63][1080,219]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="63"/>
+<property type="width" value="1080"/>
+<property type="height" value="156"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="145" ignored="false" w="1060" web="false" x="10" y="74">
+<properties>
+<property type="id" value="play_search_container"/>
+<property type="resource-id" value="com.android.vending:id/play_search_container"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[10,74][1070,219]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="10"/>
+<property type="y" value="74"/>
+<property type="width" value="1060"/>
+<property type="height" value="145"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="1038" web="false" x="21" y="85">
+<properties>
+<property type="id" value="play_search_plate"/>
+<property type="resource-id" value="com.android.vending:id/play_search_plate"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,85][1059,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="85"/>
+<property type="width" value="1038"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="1038" web="false" x="21" y="85">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,85][1059,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="85"/>
+<property type="width" value="1038"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="105" web="false" x="21" y="85">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,85][126,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="85"/>
+<property type="width" value="105"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="105" web="false" x="21" y="85">
+<properties>
+<property type="id" value="navigation_button"/>
+<property type="resource-id" value="com.android.vending:id/navigation_button"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Show navigation drawer"/>
+<property type="content-desc" value="Show navigation drawer"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[21,85][126,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="85"/>
+<property type="width" value="105"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="126" ignored="false" w="723" web="false" x="168" y="85">
+<properties>
+<property type="id" value="text_container"/>
+<property type="resource-id" value="com.android.vending:id/text_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[168,85][891,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="168"/>
+<property type="y" value="85"/>
+<property type="width" value="723"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="723" web="false" x="168" y="85">
+<properties>
+<property type="id" value="search_box_idle_text"/>
+<property type="resource-id" value="com.android.vending:id/search_box_idle_text"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Search"/>
+<property type="content-desc" value="Search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[168,85][891,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="168"/>
+<property type="y" value="85"/>
+<property type="width" value="723"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="126" ignored="false" w="126" web="false" x="933" y="85">
+<properties>
+<property type="id" value="search_plate_actions_container"/>
+<property type="resource-id" value="com.android.vending:id/search_plate_actions_container"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[933,85][1059,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="933"/>
+<property type="y" value="85"/>
+<property type="width" value="126"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="126" web="false" x="933" y="85">
+<properties>
+<property type="id" value="action_button"/>
+<property type="resource-id" value="com.android.vending:id/action_button"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Voice Search"/>
+<property type="content-desc" value="Voice Search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[933,85][1059,211]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="933"/>
+<property type="y" value="85"/>
+<property type="width" value="126"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="63" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="statusBarBackground"/>
+<property type="resource-id" value="android:id/statusBarBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,63]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="63"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+<node h="126" ignored="false" w="1080" web="false" x="0" y="1794">
+<properties>
+<property type="id" value="navigationBarBackground"/>
+<property type="resource-id" value="android:id/navigationBarBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,1794][1080,1920]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1794"/>
+<property type="width" value="1080"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.vending"/>
+</properties>
+<children/>
+</node>
+</children>
+</nodes>

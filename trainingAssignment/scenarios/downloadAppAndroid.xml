@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="11.3">
+<command appiumName="" enable="true" name="WaitForDevice(Device, Timeout)">
+<parameters>
+<parameter appium="false" defaultValue="@os='android'" description="Search device query, for example: @os='android' and @version='4.4.2'" name="Device" pattern="(.+)" type="string"/>
+<parameter appium="false" defaultValue="300000" description="Timeout in milliseconds" name="Timeout" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="Launch(app)" enable="true" name="Launch(activity, instrument, stopIfRunning)">
+<parameters>
+<parameter appium="true" defaultValue="com.android.vending/.AssetBrowserActivity" description="The application main activity or URL" name="Activity/URL" pattern="(.+)" type="launch"/>
+<parameter appium="false" defaultValue="false" description="If set to true then will launch in instrument mode" name="Instrument" pattern="(true|false)" type="bool"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="(true|false)" type="bool"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="search_box_idle_text" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and SendKeys(Element, Text)" enable="true" name="ElementSendText(Zone, Element, Index, Text)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone_no_ocr"/>
+<parameter appium="true" defaultValue="Search Google Play" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="true" defaultValue="Empire" description="Text to Send" name="Text" pattern="(.*)" type="string"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="search_icon" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="li_thumbnail" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="INSTALL" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="Sleep(time)" enable="true" name="Sleep(time)">
+<parameters>
+<parameter appium="true" defaultValue="60000" description="The time to pause in MiliSec" name="Time" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="Launch(app)" enable="true" name="Launch(activity, instrument, stopIfRunning)">
+<parameters>
+<parameter appium="true" defaultValue="com.android.vending/.AssetBrowserActivity" description="The application main activity or URL" name="Activity/URL" pattern="(.+)" type="launch"/>
+<parameter appium="false" defaultValue="false" description="If set to true then will launch in instrument mode" name="Instrument" pattern="(true|false)" type="bool"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="(true|false)" type="bool"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="search_box_idle_text" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and SendKeys(Element, Text)" enable="true" name="ElementSendText(Zone, Element, Index, Text)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone_no_ocr"/>
+<parameter appium="true" defaultValue="Search Google Play" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="true" defaultValue="Empire" description="Text to Send" name="Text" pattern="(.*)" type="string"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="search_icon" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="li_thumbnail" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="UNINSTALL" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="downloadAppAndroid" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="OK" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="SwipeWhileNotFound(Direction, Offset, SwipeTime, ElementToFind, Delay, Rounds, Click)" enable="true" name="SwipeWhileNotFound(Direction, Offset, SwipeTime, Zone, ElementToFind, ElementToFindIndex, Delay, Rounds, Click)">
+<parameters>
+<parameter appium="true" defaultValue="Down" description="Direction to swipe" name="Direction" pattern="" type="direction_no_inside"/>
+<parameter appium="true" defaultValue="0" description="Swipe offset" name="Offset" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="2000" description="Swipe operation time" name="Swipe Time" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@text='10']" description="Select Element to Find" name="Element to find" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element to Find Index" name="Element to find index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="1000" description="Time to wait before sending a command (in MiliSec)" name="Delay" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="5" description="Maximum swipe rounds" name="Rounds" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="false" description="If TRUE then click" name="Click" pattern="" type="bool"/>
+</parameters>
+</command>
+</commands>

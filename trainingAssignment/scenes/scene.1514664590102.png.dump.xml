@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="2475" ignored="false" w="1353" web="false" x="43" y="42">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[43,42][1396,2517]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="43"/>
+<property type="y" value="42"/>
+<property type="width" value="1353"/>
+<property type="height" value="2475"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="2475" ignored="false" w="1353" web="false" x="43" y="42">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[43,42][1396,2517]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="43"/>
+<property type="y" value="42"/>
+<property type="width" value="1353"/>
+<property type="height" value="2475"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="2475" ignored="false" w="1353" web="false" x="43" y="42">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[43,42][1396,2517]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="43"/>
+<property type="y" value="42"/>
+<property type="width" value="1353"/>
+<property type="height" value="2475"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="2475" ignored="false" w="1353" web="false" x="43" y="42">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[43,42][1396,2517]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="43"/>
+<property type="y" value="42"/>
+<property type="width" value="1353"/>
+<property type="height" value="2475"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="434" ignored="false" w="1241" web="false" x="99" y="1062">
+<properties>
+<property type="id" value="dialog_container"/>
+<property type="resource-id" value="com.android.packageinstaller:id/dialog_container"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[99,1062][1340,1496]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="99"/>
+<property type="y" value="1062"/>
+<property type="width" value="1241"/>
+<property type="height" value="434"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="238" ignored="false" w="1241" web="false" x="99" y="1062">
+<properties>
+<property type="id" value="desc_container"/>
+<property type="resource-id" value="com.android.packageinstaller:id/desc_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[99,1062][1340,1300]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="99"/>
+<property type="y" value="1062"/>
+<property type="width" value="1241"/>
+<property type="height" value="238"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="175" ignored="false" w="1115" web="false" x="169" y="1125">
+<properties>
+<property type="id" value="perm_desc_root"/>
+<property type="resource-id" value="com.android.packageinstaller:id/perm_desc_root"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[169,1125][1284,1300]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="169"/>
+<property type="y" value="1125"/>
+<property type="width" value="1115"/>
+<property type="height" value="175"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="126" ignored="false" w="126" web="false" x="169" y="1125">
+<properties>
+<property type="id" value="permission_icon"/>
+<property type="resource-id" value="com.android.packageinstaller:id/permission_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[169,1125][295,1251]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="169"/>
+<property type="y" value="1125"/>
+<property type="width" value="126"/>
+<property type="height" value="126"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children/>
+</node>
+<node h="175" ignored="false" w="989" web="false" x="295" y="1125">
+<properties>
+<property type="id" value="permission_message"/>
+<property type="resource-id" value="com.android.packageinstaller:id/permission_message"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Allow Task Number 1! to access this device's location?"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[295,1125][1284,1300]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="295"/>
+<property type="y" value="1125"/>
+<property type="width" value="989"/>
+<property type="height" value="175"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="196" ignored="false" w="1241" web="false" x="99" y="1300">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[99,1300][1340,1496]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="99"/>
+<property type="y" value="1300"/>
+<property type="width" value="1241"/>
+<property type="height" value="196"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="196" ignored="false" w="1115" web="false" x="169" y="1300">
+<properties>
+<property type="id" value="button_group"/>
+<property type="resource-id" value="com.android.packageinstaller:id/button_group"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[169,1300][1284,1496]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="169"/>
+<property type="y" value="1300"/>
+<property type="width" value="1115"/>
+<property type="height" value="196"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="224" web="false" x="814" y="1314">
+<properties>
+<property type="id" value="permission_deny_button"/>
+<property type="resource-id" value="com.android.packageinstaller:id/permission_deny_button"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="DENY"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[814,1314][1038,1482]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="814"/>
+<property type="y" value="1314"/>
+<property type="width" value="224"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children/>
+</node>
+<node h="168" ignored="false" w="246" web="false" x="1038" y="1314">
+<properties>
+<property type="id" value="permission_allow_button"/>
+<property type="resource-id" value="com.android.packageinstaller:id/permission_allow_button"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="ALLOW"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1038,1314][1284,1482]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1038"/>
+<property type="y" value="1314"/>
+<property type="width" value="246"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.packageinstaller"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

@@ -10,9 +10,9 @@
 		<parameter name="runTest" value="true"></parameter>
 		<parameter name="deviceName" value=""></parameter>
 		<parameter name="deviceSerialNumber" value=""></parameter>
-		<parameter name="deviceQuery" value="@os='ios'"></parameter>
+		<parameter name="deviceQuery" value="@os='android'"></parameter>
 		<classes>
-			<class name="com.qasim.test.CNNbIOS" />
+			<class name="com.qasim.test.ebayProfitListingUpgrades" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->

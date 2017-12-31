@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="2476" ignored="false" w="1440" web="false" x="0" y="84">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,84][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="84"/>
+<property type="width" value="1440"/>
+<property type="height" value="2476"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="2476" ignored="false" w="1440" web="false" x="0" y="84">
+<properties>
+<property type="id" value="decor_content_parent"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/decor_content_parent"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,84][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="84"/>
+<property type="width" value="1440"/>
+<property type="height" value="2476"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="196" ignored="false" w="1440" web="false" x="0" y="84">
+<properties>
+<property type="id" value="action_bar_container"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/action_bar_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,84][1440,280]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="84"/>
+<property type="width" value="1440"/>
+<property type="height" value="196"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="196" ignored="false" w="1440" web="false" x="0" y="84">
+<properties>
+<property type="id" value="action_bar"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/action_bar"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,84][1440,280]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="84"/>
+<property type="width" value="1440"/>
+<property type="height" value="196"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="93" ignored="false" w="494" web="false" x="56" y="135">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Task Number 1!"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[56,135][550,228]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="135"/>
+<property type="width" value="494"/>
+<property type="height" value="93"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="196" ignored="false" w="0" web="false" x="1440" y="84">
+<properties>
+<property type="class" value="android.support.v7.widget.LinearLayoutCompat"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1440,84][1440,280]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.support.v7.widget.LinearLayoutCompat"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1440"/>
+<property type="y" value="84"/>
+<property type="width" value="0"/>
+<property type="height" value="196"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2280" ignored="false" w="1440" web="false" x="0" y="280">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,280][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="280"/>
+<property type="width" value="1440"/>
+<property type="height" value="2280"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="2280" ignored="false" w="1440" web="false" x="0" y="280">
+<properties>
+<property type="id" value="loginActivity_layout"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/loginActivity_layout"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,280][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="280"/>
+<property type="width" value="1440"/>
+<property type="height" value="2280"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="2224" ignored="false" w="1384" web="false" x="28" y="308">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[28,308][1412,2532]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="28"/>
+<property type="y" value="308"/>
+<property type="width" value="1384"/>
+<property type="height" value="2224"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="443" ignored="false" w="1384" web="false" x="28" y="308">
+<properties>
+<property type="id" value="frameLayout"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/frameLayout"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[28,308][1412,751]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="28"/>
+<property type="y" value="308"/>
+<property type="width" value="1384"/>
+<property type="height" value="443"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="443" ignored="false" w="1384" web="false" x="28" y="308">
+<properties>
+<property type="id" value="baseActivity_layout"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/baseActivity_layout"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[28,308][1412,751]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="28"/>
+<property type="y" value="308"/>
+<property type="width" value="1384"/>
+<property type="height" value="443"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="387" ignored="false" w="1328" web="false" x="56" y="336">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[56,336][1384,723]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="336"/>
+<property type="width" value="1328"/>
+<property type="height" value="387"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="66" ignored="false" w="1328" web="false" x="56" y="336">
+<properties>
+<property type="id" value="textView_wifiName"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/textView_wifiName"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="WiFi:&quot;PCLOUD-NV&quot;"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[56,336][1384,402]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="336"/>
+<property type="width" value="1328"/>
+<property type="height" value="66"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="66" ignored="false" w="1328" web="false" x="56" y="402">
+<properties>
+<property type="id" value="textView_GPS_Latitude"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/textView_GPS_Latitude"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="0.0"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[56,402][1384,468]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="402"/>
+<property type="width" value="1328"/>
+<property type="height" value="66"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="66" ignored="false" w="1328" web="false" x="56" y="468">
+<properties>
+<property type="id" value="textView_GPS_Longitude"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/textView_GPS_Longitude"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="0.0"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[56,468][1384,534]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="468"/>
+<property type="width" value="1328"/>
+<property type="height" value="66"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="189" ignored="false" w="1328" web="false" x="56" y="534">
+<properties>
+<property type="class" value="android.webkit.WebView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[56,534][1384,723]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="534"/>
+<property type="width" value="1328"/>
+<property type="height" value="189"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="189" ignored="false" w="1330" web="false" x="56" y="534">
+<properties>
+<property type="class" value="android.webkit.WebView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[56,534][1386,723]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="56"/>
+<property type="y" value="534"/>
+<property type="width" value="1330"/>
+<property type="height" value="189"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="133" ignored="false" w="1274" web="false" x="84" y="562">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[84,562][1358,695]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="562"/>
+<property type="width" value="1274"/>
+<property type="height" value="133"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="133" ignored="false" w="1106" web="false" x="168" y="562">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="1 USD = 3.475204 ILS. Today is 2017-12-30 19:30:33"/>
+<property type="content-desc" value="1 USD = 3.475204 ILS. Today is 2017-12-30 19:30:33"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[168,562][1274,695]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="168"/>
+<property type="y" value="562"/>
+<property type="width" value="1106"/>
+<property type="height" value="133"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1781" ignored="false" w="1384" web="false" x="28" y="751">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[28,751][1412,2532]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="28"/>
+<property type="y" value="751"/>
+<property type="width" value="1384"/>
+<property type="height" value="1781"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children>
+<node h="158" ignored="false" w="730" web="false" x="355" y="853">
+<properties>
+<property type="id" value="editText_entry1"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/editText_entry1"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="text" value="Entry1"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[355,853][1085,1011]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="355"/>
+<property type="y" value="853"/>
+<property type="width" value="730"/>
+<property type="height" value="158"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="158" ignored="false" w="730" web="false" x="355" y="1050">
+<properties>
+<property type="id" value="editText_entry2"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/editText_entry2"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="text" value="Entry2"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[355,1050][1085,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="355"/>
+<property type="y" value="1050"/>
+<property type="width" value="730"/>
+<property type="height" value="158"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="168" ignored="false" w="308" web="false" x="566" y="1253">
+<properties>
+<property type="id" value="button_confirm"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/button_confirm"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="CONFIRM"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[566,1253][874,1421]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="566"/>
+<property type="y" value="1253"/>
+<property type="width" value="308"/>
+<property type="height" value="168"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+<node h="66" ignored="false" w="0" web="false" x="720" y="1446">
+<properties>
+<property type="id" value="textView_result"/>
+<property type="resource-id" value="com.experitest.qasimsobeh.task1:id/textView_result"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[720,1446][720,1512]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="720"/>
+<property type="y" value="1446"/>
+<property type="width" value="0"/>
+<property type="height" value="66"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="84" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="statusBarBackground"/>
+<property type="resource-id" value="android:id/statusBarBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1440,84]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="84"/>
+<property type="package" value="com.experitest.qasimsobeh.task1"/>
+</properties>
+<children/>
+</node>
+</children>
+</nodes>

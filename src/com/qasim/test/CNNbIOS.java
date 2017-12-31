@@ -16,167 +16,208 @@ public class CNNbIOS extends BaseTest
 	public void runTest(Client client)
 	{
 		client.launch("http://www.cnn.com", false, true);
-		if (client.isElementFound("CNNb", "I agree", 0))
+		client.sleep(10000);
+
+		if (client.isElementFound("WEB", "xpath=//*[@text='I agree']", 0))
 		{
-			client.click("CNNb", "I agree", 0, 1);
+			client.click("WEB", "xpath=//*[@text='I agree']", 0, 1);
 		}
 		client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 
-		// Regions
-		if (client.isElementFound("CNNb", "Regions", 0))
+		client.sleep(3000);
+		client.click("WEB", "xpath=//*[@text='Regions' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Regions", 0, 1);
-		}
 
-		if (client.isElementFound("CNNb", "Regions_Proof", 0))
-		{
-			// If statement
-		}
-		String str0 = client.hybridRunJavascript("", 0, "history.go(-1);");
-
-		// USPolitics
-		if (client.isElementFound("CNNb", "USPolitics", 0))
-		{
-			client.click("CNNb", "USPolitics", 0, 1);
-		}
-
-		if (client.isElementFound("CNNb", "USPolitics_proof", 0))
-		{
-			// If statement
 		}
 		String str1 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Money
-		if (client.isElementFound("CNNb", "Money", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Money", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
-
-		if (client.isElementFound("CNNb", "Money_proof", 0))
+		client.sleep(3000);
+		client.click("WEB", "xpath=//*[@text='U.S. Politics' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0,
+				1);
+		if (client.isElementFound("WEB",
+				"xpath=(((//*[@nodeName='DIV' and ./parent::*[@id='nav']]/*[@nodeName='DIV'])[1]/*/*[@nodeName='DIV' and ./parent::*[@nodeName='DIV']])[1]/*[@nodeName='A' and @width>0])[2]",
+				0))
 		{
 			// If statement
 		}
 		String str2 = client.hybridRunJavascript("", 0, "history.go(-1);");
-
-		// Entertainment
-		if (client.isElementFound("CNNb", "Entertainment", 0))
+		client.sleep(3000);
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Entertainment", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
-
-		if (client.isElementFound("CNNb", "Entertainment_proof", 0))
+		client.sleep(3000);
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[1]",
+				0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@nodeName='SPAN' and ./parent::*[@text='  ' and @nodeName='A']]",
+				0))
 		{
 			// If statement
 		}
 		String str3 = client.hybridRunJavascript("", 0, "history.go(-1);");
-
-		// Tech
-		if (client.isElementFound("CNNb", "Tech", 0))
+		client.sleep(3000);
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Tech", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
-
-		if (client.isElementFound("CNNb", "Tech_proof", 0))
+		client.sleep(3000);
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[2]",
+				0, 1);
+		if (client.isElementFound("WEB",
+				"xpath=(//*[@nodeName='NAV' and ./parent::*[@nodeName='DIV']]/*[@nodeName='A' and @width>0])[2]", 0))
 		{
 			// If statement
 		}
 		String str4 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Sport
-		if (client.isElementFound("CNNb", "Sport", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Sport", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
-
-		if (client.isElementFound("CNNb", "Sport_Proof", 0))
+		client.sleep(3000);
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[3]",
+				0, 1);
+		if (client.isElementFound("WEB",
+				"xpath=(((//*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@id='root']]]/*/*/*/*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV']]]])[1]/*[@nodeName='DIV'])[1]/*[@nodeName='A' and @width>0])[2]",
+				0))
 		{
 			// If statement
 		}
 		String str5 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Travel
-		if (client.isElementFound("CNNb", "Travel", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Travel", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
-
-		if (client.isElementFound("CNNb", "travel_proof", 0))
+		client.sleep(3000);
+		client.click("WEB", "xpath=//*[@text='Sport' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@text='Sport' and @nodeName='H2']", 0))
 		{
 			// If statement
 		}
 		String str6 = client.hybridRunJavascript("", 0, "history.go(-1);");
-
-		// Style
-		if (client.isElementFound("CNNb", "Style", 0))
+		client.sleep(3000);
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Style", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "style_proof", 0))
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[4]",
+				0, 1);
+		if (client.isElementFound("WEB",
+				"xpath=(((//*[@nodeName='DIV' and ./parent::*[@id='mount']]/*/*/*/*/*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV']]]]])[1]/*[@nodeName='DIV'])[1]/*[@nodeName='A' and @width>0])[2]",
+				0))
 		{
 			// If statement
 		}
 		String str7 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Health
-		if (client.isElementFound("CNNb", "Health", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Health", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "Health_proof", 0))
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[5]",
+				0, 1);
+		if (client.isElementFound("WEB",
+				"xpath=(((//*[@nodeName='DIV' and ./parent::*[@id='mount']]/*/*/*/*/*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV' and ./parent::*[@nodeName='DIV']]]]])[1]/*[@nodeName='DIV'])[1]/*[@nodeName='A' and @width>0])[2]",
+				0))
 		{
 			// If statement
 		}
 		String str8 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Features
-		if (client.isElementFound("CNNb", "Features", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Features", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "Features_proof", 0))
+		client.click("WEB", "xpath=//*[@text='Health' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@text='Health' and @nodeName='H2']", 0))
 		{
 			// If statement
 		}
 		String str9 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// Video
-		if (client.isElementFound("CNNb", "Video", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "Video", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "Video_proof", 0))
+		client.click("WEB", "xpath=//*[@text='Features' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@text='Special Features']", 0))
 		{
 			// If statement
 		}
 		String str10 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// VR
-		if (client.isElementFound("CNNb", "VR", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "VR", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "VR_proof", 0))
+		client.click("WEB", "xpath=//*[@text='Video' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", "xpath=//*[@text='Video' and @nodeName='A' and ./parent::*[@nodeName='DIV']]",
+				0))
 		{
 			// If statement
 		}
 		String str11 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
 
-		// More
-		if (client.isElementFound("CNNb", "More", 0))
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
 		{
-			client.click("CNNb", "More", 0, 1);
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
 		}
+		client.sleep(3000);
 
-		if (client.isElementFound("CNNb", "More_proof", 0))
+		client.click("WEB",
+				"xpath=(//*[@id='nav-expanded-menu' and @nodeName='DIV']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width>0 and ./parent::*[@nodeName='DIV']]])[6]",
+				0, 1);
+		if (client.isElementFound("WEB",
+				"xpath=(//*[@nodeName='NAV' and ./parent::*[@nodeName='DIV']]/*[@nodeName='A' and @width>0])[2]", 0))
 		{
 			// If statement
 		}
 		String str12 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
+
+		if (!client.isElementFound("WEB", "xpath=//*[@text='Regions' and @nodeName='H2']", 0))
+		{
+			client.click("WEB", "xpath=//*[@id='menu']", 0, 1);
+		}
+		client.sleep(3000);
+
+		client.click("WEB", "xpath=//*[@text='More…' and @nodeName='A' and ./parent::*[@nodeName='DIV']]", 0, 1);
+		if (client.isElementFound("WEB", " xpath=//*[@text='Intl - More' and @nodeName='H2']", 0))
+		{
+			// If statement
+		}
+		String str13 = client.hybridRunJavascript("", 0, "history.go(-1);");
+		client.sleep(3000);
+		
 		client.hybridClearCache(true, true);
 	}
 }

@@ -15,7 +15,8 @@
 	<parameter name="isGridSecured" value="true"></parameter>
 
 
-	<test name="All-Suite-On-All-Connected-Devices" parallel="tests" thread-count="100">
+	<test name="All-Suite-On-All-Connected-Devices" parallel="tests"
+		thread-count="100">
 		<parameter name="runTest" value="true"></parameter>
 
 		<parameter name="runByCount" value="true"></parameter>
@@ -23,17 +24,16 @@
 
 		<parameter name="runByTime" value="false"></parameter>
 		<parameter name="minutes" value="2"></parameter>
-		<classes>
-			<class name="com.qasim.test.CNNaIOS" />
-			<class name="com.qasim.test.CNNaAndroid" />
-		</classes>
-		<!-- <packages> -->
-		<!-- <package name="com.qasim.test"></package> -->
-		<!-- </packages> -->
+		<!-- <classes> -->
+		<!-- <class name="com.qasim.test.CNNaIOS" /> -->
+		<!-- <class name="com.qasim.test.CNNaAndroid" /> -->
+		<!-- </classes> -->
+		<packages>
+			<package name="com.qasim.test"></package>
+		</packages>
 	</test> <!-- Test -->
 
-	<test name="One-Tset-On-One-Device" parallel="tests"
-		thread-count="100">
+	<test name="One-Tset-On-One-Device" parallel="tests" thread-count="100">
 		<parameter name="runTest" value="false"></parameter>
 		<parameter name="deviceQuery" value="@name='iPad Air 2'"></parameter>
 		<classes>

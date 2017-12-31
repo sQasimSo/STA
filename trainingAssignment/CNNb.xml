@@ -1,372 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="CNNb">
-<obj text="menu" version="1">
+<obj text="Money_proof" version="1">
 <images enable="true">
-<image file="CNNb\menu.PNG" jump="1" mainColor="-5c5c5d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\menu_1.PNG" jump="1" mainColor="-efeff0" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Money_proof.PNG" jump="1" mainColor="-70001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Money_proof_1.PNG" jump="1" mainColor="-20203" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
 </images>
 <text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
 <native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="id" value="menu">
-<web-identifier name="nodeName" value="DIV"/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="SPAN"/>
 <web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="DIV.nav-menu.js-navigation-hamburger"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="948"/>
-<web-identifier name="width" value="131"/>
-<web-identifier name="y" value="210"/>
-<web-identifier name="id" value="menu"/>
-<web-identifier name="class" value="nav-menu js-navigation-hamburger"/>
-<web-identifier name="height" value="131"/>
-</web>
-</obj>
-<obj text="I agree" version="1">
-<images enable="true">
-<image file="CNNb\I agree.PNG" jump="1" mainColor="-121213" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="I agree">
-<web-identifier name="nodeName" value="DIV"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="DIV.user-msg--agree.js-user-msg--agree"/>
+<web-identifier name="css" value="SPAN.icon.icon-money-logo-white"/>
 <web-identifier name="visible" value="true"/>
 <web-identifier name="hidden" value="false"/>
 <web-identifier name="top" value="false"/>
-<web-identifier name="x" value="857"/>
-<web-identifier name="width" value="170"/>
-<web-identifier name="y" value="1688"/>
-<web-identifier name="text" value="I agree"/>
-<web-identifier name="class" value="user-msg--agree js-user-msg--agree"/>
-<web-identifier name="height" value="81"/>
-</web>
-</obj>
-<obj text="Regions" version="1">
-<images enable="true">
-<image file="CNNb\Regions.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Regions_1.PNG" jump="1" mainColor="-f6e5ec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Regions">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/regions']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="689"/>
-<web-identifier name="href" value="/regions"/>
-<web-identifier name="text" value="Regions"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="USPolitics" version="1">
-<images enable="true">
-<image file="CNNb\USPolitics.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\USPolitics_1.PNG" jump="1" mainColor="-e7f6fa" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="U.S. Politics">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/politics']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="802"/>
-<web-identifier name="href" value="/politics"/>
-<web-identifier name="text" value="U.S. Politics"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="Money" version="1">
-<images enable="true">
-<image file="CNNb\Money.PNG" jump="1" mainColor="-f3f3f4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Money_1.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-money"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_money.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="204"/>
-<web-identifier name="y" value="946"/>
-<web-identifier name="style" value="width: 78.6px;"/>
-<web-identifier name="class" value="nav-menu__img-money"/>
-<web-identifier name="height" value="57"/>
-</web>
-</obj>
-<obj text="Entertainment" version="1">
-<images enable="true">
-<image file="CNNb\Entertainment.PNG" jump="1" mainColor="-e3e3e4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Entertainment_1.PNG" jump="1" mainColor="-101011" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-entertainment"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_entertainment.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="346"/>
-<web-identifier name="y" value="1067"/>
-<web-identifier name="style" value="width: 132.5px;"/>
-<web-identifier name="class" value="nav-menu__img-entertainment"/>
-<web-identifier name="height" value="44"/>
-</web>
-</obj>
-<obj text="Tech" version="1">
-<images enable="true">
-<image file="CNNb\Tech.PNG" jump="1" mainColor="-e8e8e9" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Tech_1.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-tech"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_tech.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="112"/>
-<web-identifier name="y" value="1185"/>
-<web-identifier name="style" value="width: 43.25px;"/>
-<web-identifier name="class" value="nav-menu__img-tech"/>
-<web-identifier name="height" value="44"/>
-</web>
-</obj>
-<obj text="Sport" version="1">
-<images enable="true">
-<image file="CNNb\Sport.PNG" jump="1" mainColor="-e7e7e8" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Sport_2.PNG" jump="1" mainColor="-fefeff" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Sport_3.PNG" jump="1" mainColor="-dadadb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Sport">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/sport']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="1263"/>
-<web-identifier name="href" value="/sport"/>
-<web-identifier name="text" value="Sport"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="Travel" version="1">
-<images enable="true">
-<image file="CNNb\Travel.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Travel_1.PNG" jump="1" mainColor="-dadadb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-travel"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_travel.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="149"/>
-<web-identifier name="y" value="1410"/>
-<web-identifier name="style" value="width: 57px;"/>
-<web-identifier name="class" value="nav-menu__img-travel"/>
-<web-identifier name="height" value="44"/>
-</web>
-</obj>
-<obj text="Style" version="1">
-<images enable="true">
-<image file="CNNb\Style.PNG" jump="1" mainColor="-e1e1e2" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Style_1.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-style"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_style_new.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="165"/>
-<web-identifier name="y" value="1525"/>
-<web-identifier name="style" value="width: 63px;"/>
-<web-identifier name="class" value="nav-menu__img-style"/>
-<web-identifier name="height" value="49"/>
-</web>
-</obj>
-<obj text="Health" version="1">
-<images enable="true">
-<image file="CNNb\Health.PNG" jump="1" mainColor="-e0e0e1" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Health_1.PNG" jump="1" mainColor="-e0e0e1" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Health">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/health']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="930"/>
-<web-identifier name="href" value="/health"/>
-<web-identifier name="text" value="Health"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="Features" version="1">
-<images enable="true">
-<image file="CNNb\Features.PNG" jump="1" mainColor="-fce5ee" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Features_1.PNG" jump="1" mainColor="-f5f4fd" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Features">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/specials']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="1046"/>
-<web-identifier name="href" value="/specials"/>
-<web-identifier name="text" value="Features"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="Video" version="1">
-<images enable="true">
-<image file="CNNb\Video.PNG" jump="1" mainColor="-f8f8f9" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Video_1.PNG" jump="1" mainColor="-8090c" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Video">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/videos']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="1161"/>
-<web-identifier name="href" value="/videos"/>
-<web-identifier name="text" value="Video"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="VR" version="1">
-<images enable="true">
-<image file="CNNb\VR.PNG" jump="1" mainColor="-30ffff" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\VR_1.PNG" jump="1" mainColor="-9090a" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="IMG"/>
-<web-identifier name="css" value="IMG.nav-menu__img-vr360"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/vr/vr_new_asset.png"/>
-<web-identifier name="data-demand-load" value="loaded"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="144"/>
-<web-identifier name="y" value="1287"/>
-<web-identifier name="style" value="width: 55px;"/>
-<web-identifier name="class" value="nav-menu__img-vr360"/>
-<web-identifier name="height" value="60"/>
-</web>
-</obj>
-<obj text="More" version="1">
-<images enable="true">
-<image file="CNNb\More.PNG" jump="1" mainColor="-f3f3f4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="More…">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.nav-flyout__section-title[href='/more']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="39"/>
-<web-identifier name="width" value="1001"/>
-<web-identifier name="y" value="1360"/>
-<web-identifier name="href" value="/more"/>
-<web-identifier name="text" value="More…"/>
-<web-identifier name="class" value="nav-flyout__section-title"/>
-<web-identifier name="height" value="112"/>
-</web>
-</obj>
-<obj text="Regions_Proof" version="1">
-<images enable="true">
-<image file="CNNb\Regions_Proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Regions_Proof_1.PNG" jump="1" mainColor="-50506" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Regions">
-<web-identifier name="nodeName" value="H2"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="H2.zn-header__text-page_header"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="26"/>
-<web-identifier name="width" value="301"/>
-<web-identifier name="y" value="393"/>
-<web-identifier name="text" value="Regions"/>
-<web-identifier name="class" value="zn-header__text-page_header"/>
-<web-identifier name="height" value="146"/>
+<web-identifier name="ng-class" value="{&quot;icon-money-logo-white&quot;: !isContentPage, &quot;icon-money-logo-blue&quot;: isContentPage }"/>
+<web-identifier name="x" value="0"/>
+<web-identifier name="width" value="348"/>
+<web-identifier name="y" value="210"/>
+<web-identifier name="class" value="icon icon-money-logo-white"/>
+<web-identifier name="height" value="131"/>
 </web>
 </obj>
 <obj text="USPolitics_proof" version="1">
@@ -393,50 +45,372 @@
 <web-identifier name="height" value="131"/>
 </web>
 </obj>
-<obj text="Money_proof" version="1">
+<obj text="Money" version="1">
 <images enable="true">
-<image file="CNNb\Money_proof.PNG" jump="1" mainColor="-70001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Money_proof_1.PNG" jump="1" mainColor="-20203" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Money.PNG" jump="1" mainColor="-f3f3f4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Money_1.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[1]" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-money"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_money.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="204"/>
+<web-identifier name="y" value="946"/>
+<web-identifier name="style" value="width: 78.6px;"/>
+<web-identifier name="class" value="nav-menu__img-money"/>
+<web-identifier name="height" value="57"/>
+</web>
+</obj>
+<obj text="Sport" version="1">
+<images enable="true">
+<image file="CNNb\Sport.PNG" jump="1" mainColor="-e7e7e8" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Sport_2.PNG" jump="1" mainColor="-fefeff" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Sport_3.PNG" jump="1" mainColor="-dadadb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='Sport' and @nodeName='A' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="Sport">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/sport']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="1263"/>
+<web-identifier name="href" value="/sport"/>
+<web-identifier name="text" value="Sport"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Video" version="1">
+<images enable="true">
+<image file="CNNb\Video.PNG" jump="1" mainColor="-f8f8f9" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Video_1.PNG" jump="1" mainColor="-8090c" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='Video' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="Video">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/videos']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="1161"/>
+<web-identifier name="href" value="/videos"/>
+<web-identifier name="text" value="Video"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Features_proof" version="1">
+<images enable="true">
+<image file="CNNb\Features_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Features_proof_1.PNG" jump="1" mainColor="-ebebec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
 </images>
 <text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
 <native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="SPAN"/>
+<web enable="true" method="text" value="Features">
+<web-identifier name="nodeName" value="A"/>
 <web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="SPAN.icon.icon-money-logo-white"/>
+<web-identifier name="css" value="A[href='/specials']"/>
 <web-identifier name="visible" value="true"/>
 <web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="false"/>
-<web-identifier name="ng-class" value="{&quot;icon-money-logo-white&quot;: !isContentPage, &quot;icon-money-logo-blue&quot;: isContentPage }"/>
-<web-identifier name="x" value="0"/>
-<web-identifier name="width" value="348"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="183"/>
+<web-identifier name="width" value="154"/>
 <web-identifier name="y" value="210"/>
-<web-identifier name="class" value="icon icon-money-logo-white"/>
+<web-identifier name="href" value="/specials"/>
+<web-identifier name="text" value="Features"/>
 <web-identifier name="height" value="131"/>
 </web>
 </obj>
-<obj text="Entertainment_proof" version="1">
+<obj text="Travel" version="1">
 <images enable="true">
-<image file="CNNb\Entertainment_proof.PNG" jump="1" mainColor="-f0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Entertainment_proof_1.PNG" jump="1" mainColor="-a0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Travel.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Travel_1.PNG" jump="1" mainColor="-dadadb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[4]" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-travel"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_travel.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="149"/>
+<web-identifier name="y" value="1410"/>
+<web-identifier name="style" value="width: 57px;"/>
+<web-identifier name="class" value="nav-menu__img-travel"/>
+<web-identifier name="height" value="44"/>
+</web>
+</obj>
+<obj text="Sport_Proof" version="1">
+<images enable="true">
+<image file="CNNb\Sport_Proof.PNG" jump="1" mainColor="-e4e4e5" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Sport_Proof_1.PNG" jump="1" mainColor="-e7e7e8" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
 </images>
 <text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
 <native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="css" value="A.logo-entertainment.logo-entertainment--header[href='/entertainment']"/>
+<web enable="true" method="text" value="Sport">
+<web-identifier name="nodeName" value="H2"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="H2.zn-header__text-page_header"/>
 <web-identifier name="visible" value="true"/>
 <web-identifier name="hidden" value="false"/>
-<web-identifier name="title" value="Entertainment Section Front"/>
-<web-identifier name="data-analytics" value="header_logo"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="26"/>
+<web-identifier name="width" value="207"/>
+<web-identifier name="y" value="341"/>
+<web-identifier name="text" value="Sport"/>
+<web-identifier name="class" value="zn-header__text-page_header"/>
+<web-identifier name="height" value="146"/>
+</web>
+</obj>
+<obj text="More_proof" version="1">
+<images enable="true">
+<image file="CNNb\More_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\More_proof_1.PNG" jump="1" mainColor="-60607" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Intl - More">
+<web-identifier name="nodeName" value="H2"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="H2.zn-header__text-page_header"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="26"/>
+<web-identifier name="width" value="377"/>
+<web-identifier name="y" value="341"/>
+<web-identifier name="text" value="Intl - More"/>
+<web-identifier name="class" value="zn-header__text-page_header"/>
+<web-identifier name="height" value="146"/>
+</web>
+</obj>
+<obj text="Regions" version="1">
+<images enable="true">
+<image file="CNNb\Regions.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Regions_1.PNG" jump="1" mainColor="-f6e5ec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='Regions' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="Regions">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/regions']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
 <web-identifier name="onScreen" value="true"/>
 <web-identifier name="top" value="true"/>
-<web-identifier name="x" value="131"/>
-<web-identifier name="width" value="471"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="689"/>
+<web-identifier name="href" value="/regions"/>
+<web-identifier name="text" value="Regions"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="menu" version="1">
+<images enable="true">
+<image file="CNNb\menu.PNG" jump="1" mainColor="-5c5c5d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\menu_1.PNG" jump="1" mainColor="-efeff0" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="menu">
+<web-identifier name="nodeName" value="DIV"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="DIV.nav-menu.js-navigation-hamburger"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="948"/>
+<web-identifier name="width" value="131"/>
 <web-identifier name="y" value="210"/>
-<web-identifier name="href" value="/entertainment"/>
-<web-identifier name="class" value="logo-entertainment logo-entertainment--header"/>
+<web-identifier name="id" value="menu"/>
+<web-identifier name="class" value="nav-menu js-navigation-hamburger"/>
 <web-identifier name="height" value="131"/>
+</web>
+</obj>
+<obj text="VR" version="1">
+<images enable="true">
+<image file="CNNb\VR.PNG" jump="1" mainColor="-30ffff" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\VR_1.PNG" jump="1" mainColor="-9090a" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[6]" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-vr360"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/vr/vr_new_asset.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="144"/>
+<web-identifier name="y" value="1287"/>
+<web-identifier name="style" value="width: 55px;"/>
+<web-identifier name="class" value="nav-menu__img-vr360"/>
+<web-identifier name="height" value="60"/>
+</web>
+</obj>
+<obj text="Video_proof" version="1">
+<images enable="true">
+<image file="CNNb\Video_proof.PNG" jump="1" mainColor="-ededee" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Video_proof_1.PNG" jump="1" mainColor="-ebebec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Video">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A[href='/videos']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="183"/>
+<web-identifier name="width" value="102"/>
+<web-identifier name="y" value="210"/>
+<web-identifier name="href" value="/videos"/>
+<web-identifier name="text" value="Video"/>
+<web-identifier name="height" value="131"/>
+</web>
+</obj>
+<obj text="Style" version="1">
+<images enable="true">
+<image file="CNNb\Style.PNG" jump="1" mainColor="-e1e1e2" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Style_1.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[5]" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-style"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_style_new.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="165"/>
+<web-identifier name="y" value="1525"/>
+<web-identifier name="style" value="width: 63px;"/>
+<web-identifier name="class" value="nav-menu__img-style"/>
+<web-identifier name="height" value="49"/>
+</web>
+</obj>
+<obj text="Health" version="1">
+<images enable="true">
+<image file="CNNb\Health.PNG" jump="1" mainColor="-e0e0e1" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Health_1.PNG" jump="1" mainColor="-e0e0e1" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='Health' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="Health">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/health']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="930"/>
+<web-identifier name="href" value="/health"/>
+<web-identifier name="text" value="Health"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Regions_Proof" version="1">
+<images enable="true">
+<image file="CNNb\Regions_Proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Regions_Proof_1.PNG" jump="1" mainColor="-50506" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Regions">
+<web-identifier name="nodeName" value="H2"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="H2.zn-header__text-page_header"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="26"/>
+<web-identifier name="width" value="301"/>
+<web-identifier name="y" value="393"/>
+<web-identifier name="text" value="Regions"/>
+<web-identifier name="class" value="zn-header__text-page_header"/>
+<web-identifier name="height" value="146"/>
+</web>
+</obj>
+<obj text="USPolitics" version="1">
+<images enable="true">
+<image file="CNNb\USPolitics.PNG" jump="1" mainColor="-ececed" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\USPolitics_1.PNG" jump="1" mainColor="-e7f6fa" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='U.S. Politics' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="U.S. Politics">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/politics']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="802"/>
+<web-identifier name="href" value="/politics"/>
+<web-identifier name="text" value="U.S. Politics"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Tech" version="1">
+<images enable="true">
+<image file="CNNb\Tech.PNG" jump="1" mainColor="-e8e8e9" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Tech_1.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[3]" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-tech"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_tech.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="112"/>
+<web-identifier name="y" value="1185"/>
+<web-identifier name="style" value="width: 43.25px;"/>
+<web-identifier name="class" value="nav-menu__img-tech"/>
+<web-identifier name="height" value="44"/>
 </web>
 </obj>
 <obj text="Tech_proof" version="1">
@@ -462,50 +436,25 @@
 <web-identifier name="height" value="110"/>
 </web>
 </obj>
-<obj text="Sport_Proof" version="1">
+<obj text="I agree" version="1">
 <images enable="true">
-<image file="CNNb\Sport_Proof.PNG" jump="1" mainColor="-e4e4e5" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Sport_Proof_1.PNG" jump="1" mainColor="-e7e7e8" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\I agree.PNG" jump="1" mainColor="-121213" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
 </images>
 <text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Sport">
-<web-identifier name="nodeName" value="H2"/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="I agree">
+<web-identifier name="nodeName" value="DIV"/>
 <web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="H2.zn-header__text-page_header"/>
+<web-identifier name="css" value="DIV.user-msg--agree.js-user-msg--agree"/>
 <web-identifier name="visible" value="true"/>
 <web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="26"/>
-<web-identifier name="width" value="207"/>
-<web-identifier name="y" value="341"/>
-<web-identifier name="text" value="Sport"/>
-<web-identifier name="class" value="zn-header__text-page_header"/>
-<web-identifier name="height" value="146"/>
-</web>
-</obj>
-<obj text="travel_proof" version="1">
-<images enable="true">
-<image file="CNNb\travel_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\travel_proof_1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="false" method="" value="">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="aria-current" value="true"/>
-<web-identifier name="css" value="A.Header__logoTravel.active[href='/travel']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="focused" value="true"/>
-<web-identifier name="x" value="152"/>
-<web-identifier name="width" value="183"/>
-<web-identifier name="y" value="210"/>
-<web-identifier name="href" value="/travel"/>
-<web-identifier name="class" value="Header__logoTravel active"/>
-<web-identifier name="height" value="131"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="857"/>
+<web-identifier name="width" value="170"/>
+<web-identifier name="y" value="1688"/>
+<web-identifier name="text" value="I agree"/>
+<web-identifier name="class" value="user-msg--agree js-user-msg--agree"/>
+<web-identifier name="height" value="81"/>
 </web>
 </obj>
 <obj text="style_proof" version="1">
@@ -540,50 +489,6 @@
 <native aiIOS="" alIOS="" class="android.view.View" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Health" textBB="" textIOS="" textWP="" value="//*[@text='Health' and ./parent::*[./preceding-sibling::*[@class='android.view.View']]]" xpath="//*[@text='Health' and ./parent::*[./preceding-sibling::*[@class='android.view.View']]]" xpathIOS="" xpathWP=""/>
 <web enable="false" method="" value=""/>
 </obj>
-<obj text="Features_proof" version="1">
-<images enable="true">
-<image file="CNNb\Features_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Features_proof_1.PNG" jump="1" mainColor="-ebebec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Features">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="A[href='/specials']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="183"/>
-<web-identifier name="width" value="154"/>
-<web-identifier name="y" value="210"/>
-<web-identifier name="href" value="/specials"/>
-<web-identifier name="text" value="Features"/>
-<web-identifier name="height" value="131"/>
-</web>
-</obj>
-<obj text="Video_proof" version="1">
-<images enable="true">
-<image file="CNNb\Video_proof.PNG" jump="1" mainColor="-ededee" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\Video_proof_1.PNG" jump="1" mainColor="-ebebec" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-</images>
-<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
-<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Video">
-<web-identifier name="nodeName" value="A"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="A[href='/videos']"/>
-<web-identifier name="visible" value="true"/>
-<web-identifier name="hidden" value="false"/>
-<web-identifier name="top" value="true"/>
-<web-identifier name="x" value="183"/>
-<web-identifier name="width" value="102"/>
-<web-identifier name="y" value="210"/>
-<web-identifier name="href" value="/videos"/>
-<web-identifier name="text" value="Video"/>
-<web-identifier name="height" value="131"/>
-</web>
-</obj>
 <obj text="VR_proof" version="1">
 <images enable="true">
 <image file="CNNb\VR_proof.PNG" jump="1" mainColor="-70708" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
@@ -608,26 +513,121 @@
 <web-identifier name="height" value="131"/>
 </web>
 </obj>
-<obj text="More_proof" version="1">
+<obj text="More" version="1">
 <images enable="true">
-<image file="CNNb\More_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
-<image file="CNNb\More_proof_1.PNG" jump="1" mainColor="-60607" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\More.PNG" jump="1" mainColor="-f3f3f4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="xpath=//*[@text='More…' and ./parent::*[@nodeName='DIV']]" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='More…' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="More…">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/more']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="1360"/>
+<web-identifier name="href" value="/more"/>
+<web-identifier name="text" value="More…"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Features" version="1">
+<images enable="true">
+<image file="CNNb\Features.PNG" jump="1" mainColor="-fce5ee" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Features_1.PNG" jump="1" mainColor="-f5f4fd" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="xpath=//*[@text='Features' and ./parent::*[@nodeName='DIV']]" xpathWP=""/>
+<web enable="true" method="text" value="Features">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/specials']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="1001"/>
+<web-identifier name="y" value="1046"/>
+<web-identifier name="href" value="/specials"/>
+<web-identifier name="text" value="Features"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="112"/>
+</web>
+</obj>
+<obj text="Entertainment_proof" version="1">
+<images enable="true">
+<image file="CNNb\Entertainment_proof.PNG" jump="1" mainColor="-f0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Entertainment_proof_1.PNG" jump="1" mainColor="-a0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
 </images>
 <text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
 <native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
-<web enable="true" method="text" value="Intl - More">
-<web-identifier name="nodeName" value="H2"/>
-<web-identifier name="onScreen" value="true"/>
-<web-identifier name="css" value="H2.zn-header__text-page_header"/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.logo-entertainment.logo-entertainment--header[href='/entertainment']"/>
 <web-identifier name="visible" value="true"/>
 <web-identifier name="hidden" value="false"/>
+<web-identifier name="title" value="Entertainment Section Front"/>
+<web-identifier name="data-analytics" value="header_logo"/>
+<web-identifier name="onScreen" value="true"/>
 <web-identifier name="top" value="true"/>
-<web-identifier name="x" value="26"/>
-<web-identifier name="width" value="377"/>
-<web-identifier name="y" value="341"/>
-<web-identifier name="text" value="Intl - More"/>
-<web-identifier name="class" value="zn-header__text-page_header"/>
-<web-identifier name="height" value="146"/>
+<web-identifier name="x" value="131"/>
+<web-identifier name="width" value="471"/>
+<web-identifier name="y" value="210"/>
+<web-identifier name="href" value="/entertainment"/>
+<web-identifier name="class" value="logo-entertainment logo-entertainment--header"/>
+<web-identifier name="height" value="131"/>
+</web>
+</obj>
+<obj text="Entertainment" version="1">
+<images enable="true">
+<image file="CNNb\Entertainment.PNG" jump="1" mainColor="-e3e3e4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\Entertainment_1.PNG" jump="1" mainColor="-101011" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="xpath=(//*[@id='nav-expanded-menu']/*/*/*[@nodeName='IMG' and ./parent::*[@nodeName='A' and @width&gt;0 and ./parent::*[@nodeName='DIV']]])[2]" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="IMG"/>
+<web-identifier name="css" value="IMG.nav-menu__img-entertainment"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="src" value="//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/menu_entertainment.png"/>
+<web-identifier name="data-demand-load" value="loaded"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="39"/>
+<web-identifier name="width" value="346"/>
+<web-identifier name="y" value="1067"/>
+<web-identifier name="style" value="width: 132.5px;"/>
+<web-identifier name="class" value="nav-menu__img-entertainment"/>
+<web-identifier name="height" value="44"/>
+</web>
+</obj>
+<obj text="travel_proof" version="1">
+<images enable="true">
+<image file="CNNb\travel_proof.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="CNNb\travel_proof_1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="aria-current" value="true"/>
+<web-identifier name="css" value="A.Header__logoTravel.active[href='/travel']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="focused" value="true"/>
+<web-identifier name="x" value="152"/>
+<web-identifier name="width" value="183"/>
+<web-identifier name="y" value="210"/>
+<web-identifier name="href" value="/travel"/>
+<web-identifier name="class" value="Header__logoTravel active"/>
+<web-identifier name="height" value="131"/>
 </web>
 </obj>
 </domain>

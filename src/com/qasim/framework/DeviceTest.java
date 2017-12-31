@@ -7,6 +7,8 @@ import java.io.IOException;
 
 import org.testng.ITestContext;
 import org.testng.ITestResult;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.xml.XmlTest;
 
 import com.experitest.client.*;
@@ -16,8 +18,8 @@ public class DeviceTest implements Runnable
 	protected String seeTestProject = "trainingAssignment";
 	protected String deviceQuery;
 	protected ITestContext context;
-	protected MyTestResultListener listener = new MyTestResultListener();
 	protected TestRun test;
+	protected ITestResult result;
 
 	protected long startTimeMillis = 0;
 	protected int runCount = 0;
@@ -50,8 +52,7 @@ public class DeviceTest implements Runnable
 		try
 		{
 			new File(this.reporterDirectory).mkdir();
-		}
-		catch (Exception e)
+		} catch (Exception e)
 		{
 			e.printStackTrace();
 		}
@@ -86,6 +87,7 @@ public class DeviceTest implements Runnable
 		return client;
 	}
 
+	@BeforeTest
 	protected void setUp()
 	{
 
@@ -95,8 +97,7 @@ public class DeviceTest implements Runnable
 		{
 			client = getGridClient(context, deviceQuery);
 			device = client.getDeviceProperty("device.name");
-		}
-		else
+		} else
 		{
 			client = getClient(context);
 			device = client.waitForDevice(deviceQuery, 300000);
@@ -111,36 +112,30 @@ public class DeviceTest implements Runnable
 		client.openDevice();
 	}
 
+	@AfterTest
 	protected void tearDown() throws IOException
 	{
-		OverallSummary os = new OverallSummary();
-		TestSummary testSummary = new TestSummary();
-		testSummary.deviceName = device;
-		testSummary.testName = testName;
-		testSummary.time = "" + startTimeMillis;
-		
-		
-		
 		File tempFile = new File("overall summary.txt");
 		boolean exists = tempFile.exists();
-		String failedstring = "the device " + device + " serial number " + client.getProperty("@device serialsnumber") + " has failed on the following test: "  + testName;
-		String success = "the device " + device + " serial number " + client.getProperty("@device serialsnumber") + " has Passed on the following test: "  + testName;
 		
-		if (testSummary.status == ITestResult.FAILURE)
+		String failedstring = "the device " + device + " serial number " + client.getProperty("@device serialsnumber")
+				+ " has failed on the following test: " + testName;
+		String success = "the device " + device + " serial number " + client.getProperty("@device serialsnumber")
+				+ " has Passed on the following test: " + testName;
+
+		if (result.getStatus() == ITestResult.FAILURE)
 		{
 			if (exists)
-			{		
+			{
 				BufferedWriter writer = null;
 
 				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
 
-				writer.append(' ');
 				writer.newLine();
 				writer.append(failedstring);
 				writer.close();
 
-			}
-			else
+			} else
 			{
 				System.out.println("in else exists");
 
@@ -153,32 +148,31 @@ public class DeviceTest implements Runnable
 			}
 		}
 
-		if (testSummary.status == ITestResult.SUCCESS)
+		if (result.getStatus() == ITestResult.SUCCESS)
 		{
 			if (exists)
 			{
-				System.out.println("in success exists");
+				System.out.println("in success exists --> " + success);
 				BufferedWriter writer = null;
 
 				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
 
-				writer.append(" ");
 				writer.newLine();
 				writer.append(success);
 				writer.close();
 
-			}
-			else
+			} else
 			{
 				System.out.println("in success else");
 
 				BufferedWriter writer = null;
 				writer = new BufferedWriter(new FileWriter("overall summary.txt"));
+				
 				writer.write(success);
 				writer.close();
 			}
 		}
-		
+
 		client.generateReport(false);
 		client.closeDevice();
 		client.releaseClient();
@@ -194,46 +188,74 @@ public class DeviceTest implements Runnable
 		ts.deviceName = device;
 		ts.testName = testName;
 		ts.time = "" + startTimeMillis;
-		//ts.deviceSerialNumber = client.getDeviceProperty("serialnumber");
-		
+		// ts.deviceSerialNumber = client.getDeviceProperty("serialnumber");
+
 		System.out.println(" >> run: " + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery);
+//		try
+//		{
+//			setUp();
+//		}
+//		catch(Exception e)
+//		{
+//			e.printStackTrace();
+//		}
+//		
+//		try
+//		{
+//			test.runTest(client);
+//		}
+//		catch(Exception e)
+//		{
+//			e.printStackTrace();
+//		}
+//		
+//		try
+//		{
+//			tearDown(result);
+//		}
+//		catch(Exception e)
+//		{
+//			e.printStackTrace();
+//		}
+		
+		
 		try
 		{
 			setUp();
 			test.runTest(this.client);
-		}
-		catch (Exception e)
+		} catch (Exception e)
 		{
-			// summry
+			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
+			test.runTest(client);
 			try
 			{
 				os.overallSummaryWrite(ts);
-			}
-			catch (IOException e1)
+			} catch (IOException e1)
 			{
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 			e.printStackTrace();
-			System.out.println(getClass().getName() + ": testName=" + testName + ", device=" + device +  ", run()");
-		}
-		finally
+			System.out.println(getClass().getName() + ": testName=" + testName + ", device=" + device + ", run()");
+		} finally
 		{
+			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
 			try
 			{
+				client.reboot(120000);
+				test.runTest(client);
 				try
 				{
 					os.overallSummaryWrite(ts);
-				}
-				catch (IOException e1)
+				} catch (IOException e1)
 				{
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
 				}
 				tearDown();
-				System.out.println(getClass().getName() + ": testName=" + testName + ", device=" + device +  ", tearDown()");
-			}
-			catch (Exception e2)
+				System.out.println(
+						getClass().getName() + ": testName=" + testName + ", device=" + device + ", tearDown()");
+			} catch (Exception e2)
 			{
 				// summry
 			}

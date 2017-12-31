@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="myApp">
+<obj text="Entry1" version="1">
+<images enable="true">
+<image file="myApp\Entry1.PNG" jump="1" mainColor="-2b2b2c" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="editText_entry1" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Entry1" textBB="" textIOS="" textWP="" value="//*[@id='editText_entry1']" xpath="//*[@id='editText_entry1']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Entry2" version="1">
+<images enable="true">
+<image file="myApp\Entry2.PNG" jump="1" mainColor="-767677" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="editText_entry2" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Entry2" textBB="" textIOS="" textWP="" value="//*[@id='editText_entry2']" xpath="//*[@id='editText_entry2']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CONFIRM" version="1">
+<images enable="true">
+<image file="myApp\CONFIRM.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="button_confirm" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="CONFIRM" textBB="" textIOS="" textWP="" value="//*[@text='CONFIRM']" xpath="//*[@text='CONFIRM']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="LOG OUT" version="1">
+<images enable="true">
+<image file="myApp\LOG OUT.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="button_logout" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="LOG OUT" textBB="" textIOS="" textWP="" value="//*[@text='LOG OUT']" xpath="//*[@text='LOG OUT']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>

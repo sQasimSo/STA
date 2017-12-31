@@ -26,8 +26,6 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
-
-@Listeners(MyTestResultListener.class)
 public abstract class BaseTest implements TestRun
 {
 	protected boolean singleDevice = false;
@@ -137,15 +135,16 @@ public abstract class BaseTest implements TestRun
 				System.out.println("skip os=" + os + " (" + name + ")");
 				continue;
 			}
-			if (status.contains("reserved"))
-			{
-				System.out.println("skip status =" + status + " (" + name + ")");
-				continue;
-			}
+//			if (status.contains("reserved"))
+//			{
+//				System.out.println("skip status =" + status + " (" + name + ")");
+//				continue;
+//			}
 
 			serialNumber = deviceElement.getAttribute("serialnumber");
 
-			deviceQuery = "@serialnumber='" + serialNumber + "' and @added=\"true\"";
+			//deviceQuery = "@serialnumber='" + serialNumber + "' and @added=\"true\"";
+			deviceQuery = "@serialnumber='" + serialNumber + "'";
 			
 			devicesList.add(deviceQuery);
 		}

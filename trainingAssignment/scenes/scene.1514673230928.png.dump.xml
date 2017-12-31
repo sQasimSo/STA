@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="home_blur"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/home_blur"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="darken_layer"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/darken_layer"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="wallpaper_blur"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/wallpaper_blur"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="animation_layer"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/animation_layer"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="home_view"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/home_view"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="id" value="home_container"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/home_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="2560" ignored="false" w="1440" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1440"/>
+<property type="height" value="2560"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="2052" ignored="false" w="1440" web="false" x="0" y="88">
+<properties>
+<property type="id" value="workspace"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/workspace"/>
+<property type="class" value="com.android.launcher2.Workspace"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,88][1440,2140]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="com.android.launcher2.Workspace"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="88"/>
+<property type="width" value="1440"/>
+<property type="height" value="2052"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="1847" ignored="false" w="1367" web="false" x="36" y="203">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[36,203][1403,2050]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="36"/>
+<property type="y" value="203"/>
+<property type="width" value="1367"/>
+<property type="height" value="1847"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="1811" ignored="false" w="1331" web="false" x="54" y="221">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,221][1385,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="221"/>
+<property type="width" value="1331"/>
+<property type="height" value="1811"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="347" ignored="false" w="263" web="false" x="1122" y="221">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Facebook"/>
+<property type="contentDescription" value="Facebook"/>
+<property type="content-desc" value="Facebook"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1122,221][1385,568]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1122"/>
+<property type="y" value="221"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="1331" web="false" x="54" y="587">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Galaxy Apps"/>
+<property type="content-desc" value="Galaxy Apps"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[54,587][1385,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="587"/>
+<property type="width" value="1331"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="347" ignored="false" w="1331" web="false" x="54" y="587">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,587][1385,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="587"/>
+<property type="width" value="1331"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="69" ignored="false" w="1331" web="false" x="54" y="587">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,587][1385,656]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="587"/>
+<property type="width" value="1331"/>
+<property type="height" value="69"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="69" ignored="false" w="664" web="false" x="54" y="587">
+<properties>
+<property type="id" value="interim_essentials"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/interim_essentials"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,587][718,656]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="587"/>
+<property type="width" value="664"/>
+<property type="height" value="69"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="69" ignored="false" w="265" web="false" x="54" y="587">
+<properties>
+<property type="id" value="interim_essentials_title"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/interim_essentials_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Galaxy Essentials"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,587][319,656]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="587"/>
+<property type="width" value="265"/>
+<property type="height" value="69"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+<node h="33" ignored="false" w="22" web="false" x="329" y="605">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[329,605][351,638]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="329"/>
+<property type="y" value="605"/>
+<property type="width" value="22"/>
+<property type="height" value="33"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="33" ignored="false" w="3" web="false" x="718" y="605">
+<properties>
+<property type="id" value="idle_divider"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/idle_divider"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[718,605][721,638]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="718"/>
+<property type="y" value="605"/>
+<property type="width" value="3"/>
+<property type="height" value="33"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+<node h="69" ignored="false" w="664" web="false" x="721" y="587">
+<properties>
+<property type="id" value="interim_gifts"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/interim_gifts"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[721,587][1385,656]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="721"/>
+<property type="y" value="587"/>
+<property type="width" value="664"/>
+<property type="height" value="69"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="69" ignored="false" w="193" web="false" x="721" y="587">
+<properties>
+<property type="id" value="interim_gifts_title"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/interim_gifts_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Galaxy Gifts"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[721,587][914,656]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="721"/>
+<property type="y" value="587"/>
+<property type="width" value="193"/>
+<property type="height" value="69"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+<node h="33" ignored="false" w="22" web="false" x="924" y="605">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[924,605][946,638]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="924"/>
+<property type="y" value="605"/>
+<property type="width" value="22"/>
+<property type="height" value="33"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="278" ignored="false" w="1331" web="false" x="54" y="656">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[54,656][1385,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="656"/>
+<property type="width" value="1331"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="278" ignored="false" w="108" web="false" x="54" y="656">
+<properties>
+<property type="id" value="goPreviousPageArrow"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/goPreviousPageArrow"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="contentDescription" value="Previous"/>
+<property type="content-desc" value="Previous"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,656][162,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="656"/>
+<property type="width" value="108"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="35" web="false" x="81" y="768">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[81,768][116,822]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="81"/>
+<property type="y" value="768"/>
+<property type="width" value="35"/>
+<property type="height" value="54"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="278" ignored="false" w="1115" web="false" x="162" y="656">
+<properties>
+<property type="id" value="view_flipper"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/view_flipper"/>
+<property type="class" value="android.widget.AdapterViewFlipper"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[162,656][1277,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.AdapterView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="656"/>
+<property type="width" value="1115"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="278" ignored="false" w="1115" web="false" x="162" y="656">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[162,656][1277,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="656"/>
+<property type="width" value="1115"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="278" ignored="false" w="1115" web="false" x="162" y="656">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[162,656][1277,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="656"/>
+<property type="width" value="1115"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="278" ignored="false" w="1115" web="false" x="162" y="656">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[162,656][1277,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="656"/>
+<property type="width" value="1115"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="278" ignored="false" w="1115" web="false" x="162" y="656">
+<properties>
+<property type="id" value="app_display_area"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/app_display_area"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[162,656][1277,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="656"/>
+<property type="width" value="1115"/>
+<property type="height" value="278"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="156" web="false" x="162" y="717">
+<properties>
+<property type="id" value="app_display_image"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/app_display_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[162,717][318,873]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="717"/>
+<property type="width" value="156"/>
+<property type="height" value="156"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+<node h="121" ignored="false" w="932" web="false" x="345" y="734">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[345,734][1277,855]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="345"/>
+<property type="y" value="734"/>
+<property type="width" value="932"/>
+<property type="height" value="121"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="932" web="false" x="345" y="734">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[345,734][1277,792]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="345"/>
+<property type="y" value="734"/>
+<property type="width" value="932"/>
+<property type="height" value="58"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="612" web="false" x="345" y="734">
+<properties>
+<property type="id" value="app_display_title"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/app_display_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="TripAdvisor"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[345,734][957,792]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="345"/>
+<property type="y" value="734"/>
+<property type="width" value="612"/>
+<property type="height" value="58"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+<node h="38" ignored="false" w="306" web="false" x="971" y="747">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[971,747][1277,785]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="971"/>
+<property type="y" value="747"/>
+<property type="width" value="306"/>
+<property type="height" value="38"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="38" ignored="false" w="80" web="false" x="971" y="747">
+<properties>
+<property type="id" value="category_title_img"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/category_title_img"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[971,747][1051,785]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="971"/>
+<property type="y" value="747"/>
+<property type="width" value="80"/>
+<property type="height" value="38"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="932" web="false" x="345" y="801">
+<properties>
+<property type="id" value="app_display_description"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/app_display_description"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="×§×‘×œ ×©×•×‘×¨ ×”× ×—×” ×‘×’×•×‘×” 15%, ×¨×§ ×œ×‘×¢×œ×™ ×¡×ž×¡×•× ×’"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[345,801][1277,855]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="345"/>
+<property type="y" value="801"/>
+<property type="width" value="932"/>
+<property type="height" value="54"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="278" ignored="false" w="108" web="false" x="1277" y="656">
+<properties>
+<property type="id" value="goNextPageArrow"/>
+<property type="resource-id" value="com.sec.android.widgetapp.samsungapps:id/goNextPageArrow"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="contentDescription" value="Next"/>
+<property type="content-desc" value="Next"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[1277,656][1385,934]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1277"/>
+<property type="y" value="656"/>
+<property type="width" value="108"/>
+<property type="height" value="278"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="35" web="false" x="1313" y="768">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1313,768][1348,822]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1313"/>
+<property type="y" value="768"/>
+<property type="width" value="35"/>
+<property type="height" value="54"/>
+<property type="package" value="com.sec.android.widgetapp.samsungapps"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="347" ignored="false" w="1331" web="false" x="54" y="953">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Create note"/>
+<property type="content-desc" value="Create note"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[54,953][1385,1300]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="953"/>
+<property type="width" value="1331"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="193" ignored="false" w="1331" web="false" x="54" y="1038">
+<properties>
+<property type="id" value="widget_main"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_main"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[54,1038][1385,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="1038"/>
+<property type="width" value="1331"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="193" ignored="false" w="156" web="false" x="108" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[108,1038][264,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="108"/>
+<property type="y" value="1038"/>
+<property type="width" value="156"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="157" ignored="false" w="156" web="false" x="108" y="1051">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="S Note"/>
+<property type="content-desc" value="S Note"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[108,1051][264,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="108"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="157" ignored="false" w="156" web="false" x="108" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_snote_app"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_snote_app"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="S Note"/>
+<property type="content-desc" value="S Note"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[108,1051][264,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="108"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="193" ignored="false" w="108" web="false" x="264" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[264,1038][372,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="264"/>
+<property type="y" value="1038"/>
+<property type="width" value="108"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="193" ignored="false" w="156" web="false" x="372" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[372,1038][528,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="372"/>
+<property type="y" value="1038"/>
+<property type="width" value="156"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="157" ignored="false" w="156" web="false" x="372" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_pen_mode_change"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_pen_mode_change"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Handwriting mode"/>
+<property type="content-desc" value="Handwriting mode"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[372,1051][528,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="372"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="157" ignored="false" w="156" web="false" x="372" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_pen_mode"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_pen_mode"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Handwriting mode"/>
+<property type="content-desc" value="Handwriting mode"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[372,1051][528,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="372"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="193" ignored="false" w="107" web="false" x="528" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[528,1038][635,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="1038"/>
+<property type="width" value="107"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="193" ignored="false" w="156" web="false" x="635" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[635,1038][791,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="635"/>
+<property type="y" value="1038"/>
+<property type="width" value="156"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="157" ignored="false" w="156" web="false" x="635" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_text_mode_light"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_text_mode_light"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Text mode"/>
+<property type="content-desc" value="Text mode"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[635,1051][791,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="635"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="157" ignored="false" w="156" web="false" x="635" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_text_mode"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_text_mode"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Text mode"/>
+<property type="content-desc" value="Text mode"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[635,1051][791,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="635"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="193" ignored="false" w="109" web="false" x="791" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[791,1038][900,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="791"/>
+<property type="y" value="1038"/>
+<property type="width" value="109"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="193" ignored="false" w="156" web="false" x="900" y="1038">
+<properties>
+<property type="id" value="widget_layout_shortcut_image_capture"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_layout_shortcut_image_capture"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[900,1038][1056,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="900"/>
+<property type="y" value="1038"/>
+<property type="width" value="156"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="157" ignored="false" w="156" web="false" x="900" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_image_capture_for_normal"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_image_capture_for_normal"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Take picture"/>
+<property type="content-desc" value="Take picture"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[900,1051][1056,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="900"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="157" ignored="false" w="156" web="false" x="900" y="1051">
+<properties>
+<property type="id" value="widget_shortcut_image_capture"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_shortcut_image_capture"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Take picture"/>
+<property type="content-desc" value="Take picture"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[900,1051][1056,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="900"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="193" ignored="false" w="108" web="false" x="1056" y="1038">
+<properties>
+<property type="id" value="for_gone_capture"/>
+<property type="resource-id" value="com.samsung.android.snote:id/for_gone_capture"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[1056,1038][1164,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1056"/>
+<property type="y" value="1038"/>
+<property type="width" value="108"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="193" ignored="false" w="156" web="false" x="1164" y="1038">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[1164,1038][1320,1231]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1164"/>
+<property type="y" value="1038"/>
+<property type="width" value="156"/>
+<property type="height" value="193"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children>
+<node h="157" ignored="false" w="156" web="false" x="1164" y="1051">
+<properties>
+<property type="id" value="widget_voice_recorder_image"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_voice_recorder_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Voice Recorder"/>
+<property type="content-desc" value="Voice Recorder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1164,1051][1320,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1164"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+<node h="157" ignored="false" w="156" web="false" x="1164" y="1051">
+<properties>
+<property type="id" value="widget_voice_recorder_press"/>
+<property type="resource-id" value="com.samsung.android.snote:id/widget_voice_recorder_press"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Voice Recorder"/>
+<property type="content-desc" value="Voice Recorder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1164,1051][1320,1208]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1164"/>
+<property type="y" value="1051"/>
+<property type="width" value="156"/>
+<property type="height" value="157"/>
+<property type="package" value="com.samsung.android.snote"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="1122" y="1319">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Clock"/>
+<property type="contentDescription" value="Clock"/>
+<property type="content-desc" value="Clock"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1122,1319][1385,1666]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1122"/>
+<property type="y" value="1319"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="54" y="1685">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Calendar"/>
+<property type="contentDescription" value="Calendar"/>
+<property type="content-desc" value="Calendar"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[54,1685][317,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="54"/>
+<property type="y" value="1685"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="321" y="1685">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Calculator"/>
+<property type="contentDescription" value="Calculator"/>
+<property type="content-desc" value="Calculator"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[321,1685][584,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="321"/>
+<property type="y" value="1685"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="588" y="1685">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Clock"/>
+<property type="contentDescription" value="Clock"/>
+<property type="content-desc" value="Clock"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[588,1685][851,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="588"/>
+<property type="y" value="1685"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="855" y="1685">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Microsoft Apps"/>
+<property type="contentDescription" value="Microsoft Apps Folder"/>
+<property type="content-desc" value="Microsoft Apps Folder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[855,1685][1118,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="855"/>
+<property type="y" value="1685"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="347" ignored="false" w="263" web="false" x="1122" y="1685">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="×›×œ×™×�"/>
+<property type="contentDescription" value="×›×œ×™×� Folder"/>
+<property type="content-desc" value="×›×œ×™×� Folder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[1122,1685][1385,2032]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1122"/>
+<property type="y" value="1685"/>
+<property type="width" value="263"/>
+<property type="height" value="347"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="420" ignored="false" w="1440" web="false" x="0" y="2140">
+<properties>
+<property type="id" value="hotseat"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/hotseat"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,2140][1440,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2140"/>
+<property type="width" value="1440"/>
+<property type="height" value="420"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="420" ignored="false" w="1415" web="false" x="12" y="2140">
+<properties>
+<property type="id" value="hotseat_layout"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/hotseat_layout"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[12,2140][1427,2560]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="2140"/>
+<property type="width" value="1415"/>
+<property type="height" value="420"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="357" ignored="false" w="1359" web="false" x="40" y="2140">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[40,2140][1399,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="40"/>
+<property type="y" value="2140"/>
+<property type="width" value="1359"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children>
+<node h="357" ignored="false" w="263" web="false" x="40" y="2140">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Phone"/>
+<property type="contentDescription" value="Phone"/>
+<property type="content-desc" value="Phone"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[40,2140][303,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="40"/>
+<property type="y" value="2140"/>
+<property type="width" value="263"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="357" ignored="false" w="263" web="false" x="314" y="2140">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Messages"/>
+<property type="contentDescription" value="Messages"/>
+<property type="content-desc" value="Messages"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[314,2140][577,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="314"/>
+<property type="y" value="2140"/>
+<property type="width" value="263"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="357" ignored="false" w="263" web="false" x="588" y="2140">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Contacts"/>
+<property type="contentDescription" value="Contacts"/>
+<property type="content-desc" value="Contacts"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[588,2140][851,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="588"/>
+<property type="y" value="2140"/>
+<property type="width" value="263"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="357" ignored="false" w="263" web="false" x="862" y="2140">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Internet"/>
+<property type="contentDescription" value="Internet"/>
+<property type="content-desc" value="Internet"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[862,2140][1125,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="862"/>
+<property type="y" value="2140"/>
+<property type="width" value="263"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="357" ignored="false" w="263" web="false" x="1136" y="2140">
+<properties>
+<property type="id" value="home_allAppsIcon"/>
+<property type="resource-id" value="com.sec.android.app.launcher:id/home_allAppsIcon"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Apps"/>
+<property type="contentDescription" value="Apps, Button, Double tap to open app tray."/>
+<property type="content-desc" value="Apps, Button, Double tap to open app tray."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[1136,2140][1399,2497]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1136"/>
+<property type="y" value="2140"/>
+<property type="width" value="263"/>
+<property type="height" value="357"/>
+<property type="package" value="com.sec.android.app.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

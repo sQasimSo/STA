@@ -28,7 +28,7 @@ public class myAppLogin extends BaseTest {
 			e.printStackTrace();
 		}
 
-		if (client.install("com.experitest.qasimsobeh.task1/.LoginActivity", true, false)) {
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\app-debug.apk", true, false)) {
 			// If statement
 		}
 		client.launch("com.experitest.qasimsobeh.task1/.LoginActivity", true, false);

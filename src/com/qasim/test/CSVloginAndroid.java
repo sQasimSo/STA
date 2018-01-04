@@ -33,7 +33,7 @@ public class CSVloginAndroid extends BaseTest
 		
 		client.openDevice();
 		
-		if (client.install("cloud:com.experitest.ExperiBank/.LoginActivity", true, false))
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\eribank1.apk", true, false))
 		{
 			// If statement
 		}

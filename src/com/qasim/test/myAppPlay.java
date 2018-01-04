@@ -15,7 +15,7 @@ public class myAppPlay extends BaseTest
 	@Override
 	public void runTest(Client client)
 	{
-		if (client.install("com.experitest.qasimsobeh.task1/.LoginActivity", true, false))
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\app-debug.apk", true, false))
 		{
 			// If statement
 		}

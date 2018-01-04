@@ -20,7 +20,7 @@ public class EribankMakePaymentIOS extends BaseTest
 		Random rand = new Random();
 		int sumToPay = rand.nextInt(100);
 		
-		if (client.install("cloud:com.experitest.ExperiBank", true, false))
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\eribankIOS.ipa", true, true))
 		{
 			// If statement
 		}

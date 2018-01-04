@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Qasim-Suite" duration-ms="49167" started-at="2017-12-31T01:16:49Z" finished-at="2017-12-31T01:17:38Z">
+  <suite name="Qasim-Suite" duration-ms="101004" started-at="2018-01-04T17:03:09Z" finished-at="2018-01-04T17:04:50Z">
     <groups>
     </groups>
-    <test name="testing" duration-ms="49167" started-at="2017-12-31T01:16:49Z" finished-at="2017-12-31T01:17:38Z">
-      <class name="com.qasim.test.ebayProfitListingUpgrades">
-        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.ebayProfitListingUpgrades@4c70fda8]" name="Start" duration-ms="49138" started-at="2017-12-31T03:16:49Z" finished-at="2017-12-31T03:17:38Z">
+    <test name="CSVloginANDROID" duration-ms="51010" started-at="2018-01-04T17:03:09Z" finished-at="2018-01-04T17:04:00Z">
+      <class name="com.qasim.test.EribankMakePaymentAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentAndroid@cb5822]" name="Start" duration-ms="50984" started-at="2018-01-04T19:03:09Z" finished-at="2018-01-04T19:04:00Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@eec5a4a]]>
+                <![CDATA[org.testng.TestRunner@2b2948e2]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->
-      </class> <!-- com.qasim.test.ebayProfitListingUpgrades -->
-    </test> <!-- testing -->
+      </class> <!-- com.qasim.test.EribankMakePaymentAndroid -->
+    </test> <!-- CSVloginANDROID -->
+    <test name="CSVloginANDROID1" duration-ms="49967" started-at="2018-01-04T17:04:00Z" finished-at="2018-01-04T17:04:50Z">
+      <class name="com.qasim.test.EribankMakePaymentAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentAndroid@6093dd95]" name="Start" duration-ms="49964" started-at="2018-01-04T19:04:00Z" finished-at="2018-01-04T19:04:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@68bbe345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.EribankMakePaymentAndroid -->
+    </test> <!-- CSVloginANDROID1 -->
   </suite> <!-- Qasim-Suite -->
 </testng-results>

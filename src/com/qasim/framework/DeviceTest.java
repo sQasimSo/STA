@@ -123,55 +123,55 @@ public class DeviceTest implements Runnable
 		String success = "the device " + device + " serial number " + client.getProperty("@device serialsnumber")
 				+ " has Passed on the following test: " + testName;
 
-		if (result.getStatus() == ITestResult.FAILURE)
-		{
-			if (exists)
-			{
-				BufferedWriter writer = null;
-
-				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
-
-				writer.newLine();
-				writer.append(failedstring);
-				writer.close();
-
-			} else
-			{
-				System.out.println("in else exists");
-
-				BufferedWriter writer = null;
-
-				writer = new BufferedWriter(new FileWriter("overall summary.txt"));
-
-				writer.write(failedstring);
-				writer.close();
-			}
-		}
-
-		if (result.getStatus() == ITestResult.SUCCESS)
-		{
-			if (exists)
-			{
-				System.out.println("in success exists --> " + success);
-				BufferedWriter writer = null;
-
-				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
-
-				writer.newLine();
-				writer.append(success);
-				writer.close();
-
-			} else
-			{
-				System.out.println("in success else");
-
-				BufferedWriter writer = null;
-				writer = new BufferedWriter(new FileWriter("overall summary.txt"));
-				
-				writer.write(success);
-				writer.close();
-			}
-		}
+//		if (result.getStatus() == ITestResult.FAILURE)
+//		{
+//			if (exists)
+//			{
+//				BufferedWriter writer = null;
+//
+//				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
+//
+//				writer.newLine();
+//				writer.append(failedstring);
+//				writer.close();
+//
+//			} else
+//			{
+//				System.out.println("in else exists");
+//
+//				BufferedWriter writer = null;
+//
+//				writer = new BufferedWriter(new FileWriter("overall summary.txt"));
+//
+//				writer.write(failedstring);
+//				writer.close();
+//			}
+//		}
+//
+//		if (result.getStatus() == ITestResult.SUCCESS)
+//		{
+//			if (exists)
+//			{
+//				System.out.println("in success exists --> " + success);
+//				BufferedWriter writer = null;
+//
+//				writer = new BufferedWriter(new FileWriter("overall summary.txt", true));
+//
+//				writer.newLine();
+//				writer.append(success);
+//				writer.close();
+//
+//			} else
+//			{
+//				System.out.println("in success else");
+//
+//				BufferedWriter writer = null;
+//				writer = new BufferedWriter(new FileWriter("overall summary.txt"));
+//				
+//				writer.write(success);
+//				writer.close();
+//			}
+//		}
 
 		client.generateReport(false);
 		client.closeDevice();
@@ -191,74 +191,74 @@ public class DeviceTest implements Runnable
 		// ts.deviceSerialNumber = client.getDeviceProperty("serialnumber");
 
 		System.out.println(" >> run: " + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery);
-//		try
-//		{
-//			setUp();
-//		}
-//		catch(Exception e)
-//		{
-//			e.printStackTrace();
-//		}
-//		
-//		try
-//		{
-//			test.runTest(client);
-//		}
-//		catch(Exception e)
-//		{
-//			e.printStackTrace();
-//		}
-//		
-//		try
-//		{
-//			tearDown(result);
-//		}
-//		catch(Exception e)
-//		{
-//			e.printStackTrace();
-//		}
-		
-		
 		try
 		{
 			setUp();
-			test.runTest(this.client);
-		} catch (Exception e)
-		{
-			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
-			test.runTest(client);
-			try
-			{
-				os.overallSummaryWrite(ts);
-			} catch (IOException e1)
-			{
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}
-			e.printStackTrace();
-			System.out.println(getClass().getName() + ": testName=" + testName + ", device=" + device + ", run()");
-		} finally
-		{
-			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
-			try
-			{
-				client.reboot(120000);
-				test.runTest(client);
-				try
-				{
-					os.overallSummaryWrite(ts);
-				} catch (IOException e1)
-				{
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				}
-				tearDown();
-				System.out.println(
-						getClass().getName() + ": testName=" + testName + ", device=" + device + ", tearDown()");
-			} catch (Exception e2)
-			{
-				// summry
-			}
 		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+		try
+		{
+			test.runTest(client);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+		try
+		{
+			tearDown();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+		
+//		try
+//		{
+//			setUp();
+//			test.runTest(this.client);
+//		} catch (Exception e)
+//		{
+//			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
+//			test.runTest(client);
+//			try
+//			{
+//				os.overallSummaryWrite(ts);
+//			} catch (IOException e1)
+//			{
+//				// TODO Auto-generated catch block
+//				e1.printStackTrace();
+//			}
+//			e.printStackTrace();
+//			System.out.println(getClass().getName() + ": testName=" + testName + ", device=" + device + ", run()");
+//		} finally
+//		{
+//			client.collectSupportData(reporterDirectory, reporterDirectory, device, testName, "Success", "Failed");
+//			try
+//			{
+//				client.reboot(120000);
+//				test.runTest(client);
+//				try
+//				{
+//					os.overallSummaryWrite(ts);
+//				} catch (IOException e1)
+//				{
+//					// TODO Auto-generated catch block
+//					e1.printStackTrace();
+//				}
+//				tearDown();
+//				System.out.println(
+//						getClass().getName() + ": testName=" + testName + ", device=" + device + ", tearDown()");
+//			} catch (Exception e2)
+//			{
+//				// summry
+//			}
+//		}
 	}
 }

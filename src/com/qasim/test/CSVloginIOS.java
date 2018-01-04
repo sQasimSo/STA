@@ -32,7 +32,7 @@ public class CSVloginIOS extends BaseTest
 
 		client.openDevice();
 
-		if (client.install("cloud:com.experitest.ExperiBank", true, true))
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\eribankIOS.ipa", true, true))
 		{
 			// If statement
 		}

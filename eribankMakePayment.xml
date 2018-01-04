@@ -10,21 +10,21 @@
 		<parameter name="runTest" value="true"></parameter>
 		<parameter name="deviceQuery" value="@os='android' and @added='true'"></parameter>
 		<classes>
-			<class name="com.qasim.test.CSVloginAndroid" />
+			<class name="com.qasim.test.EribankMakePaymentAndroid" />
 		</classes>
 	</test>
 	<test name="CSVloginANDROID1">
 		<parameter name="runTest" value="true"></parameter>
 		<parameter name="deviceQuery" value="@os='android' and @added='true'"></parameter>
 		<classes>
-			<class name="com.qasim.test.CSVloginAndroid" />
+			<class name="com.qasim.test.EribankMakePaymentAndroid" />
 		</classes>
 	</test>
 <!-- 	<test name="CSVloginIOS"> -->
 <!-- 		<parameter name="runTest" value="true"></parameter> -->
 <!-- 		<parameter name="deviceQuery" value="@os='ios' and @added='true'"></parameter> -->
 <!-- 		<classes> -->
-<!-- 			<class name="com.qasim.test.CSVloginIOS" /> -->
+<!-- 			<class name="com.qasim.test.EribankMakePaymentIOS" /> -->
 <!-- 		</classes> -->
 <!-- 	</test> -->
 </suite> <!-- Suite -->

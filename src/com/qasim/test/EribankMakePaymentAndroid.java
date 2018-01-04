@@ -19,8 +19,11 @@ public class EribankMakePaymentAndroid extends BaseTest
 	{
 		Random rand = new Random();
 		int sumToPay = rand.nextInt(100);
-		
-		client.launch("cloud:com.experitest.ExperiBank/.LoginActivity", true, true);
+		if (client.install(System.getProperty("user.dir") + "\\src\\sources\\eribank1.apk", true, true))
+		{
+			// If statement
+		}
+		client.launch("com.experitest.ExperiBank/.LoginActivity", true, true);
 		client.elementSendText("NATIVE", "id=usernameTextField", 0, "company");
 		client.elementSendText("NATIVE", "id=passwordTextField", 0, "company");
 		client.click("NATIVE", "id=loginButton", 0, 1);

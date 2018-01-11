@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="16" total="34" passed="18">
   <reporter-output>
   </reporter-output>
-  <suite name="Qasim-Suite" duration-ms="101004" started-at="2018-01-04T17:03:09Z" finished-at="2018-01-04T17:04:50Z">
+  <suite name="Qasim-Suite" duration-ms="403483" started-at="2018-01-11T21:44:22Z" finished-at="2018-01-11T21:51:05Z">
     <groups>
     </groups>
-    <test name="CSVloginANDROID" duration-ms="51010" started-at="2018-01-04T17:03:09Z" finished-at="2018-01-04T17:04:00Z">
-      <class name="com.qasim.test.EribankMakePaymentAndroid">
-        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentAndroid@cb5822]" name="Start" duration-ms="50984" started-at="2018-01-04T19:03:09Z" finished-at="2018-01-04T19:04:00Z">
+    <test name="All-Suite" duration-ms="94" started-at="2018-01-11T21:44:22Z" finished-at="2018-01-11T21:44:22Z">
+      <class name="com.qasim.test.CSVloginAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CSVloginAndroid@6a4f787b]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@2b2948e2]]>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CSVloginAndroid -->
+      <class name="com.qasim.test.downloadAppAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.downloadAppAndroid@6a41eaa2]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.downloadAppAndroid -->
+      <class name="com.qasim.test.EribankMakePaymentAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentAndroid@5622fdf]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
               </value>
             </param>
           </params>
@@ -19,21 +45,216 @@
           </reporter-output>
         </test-method> <!-- Start -->
       </class> <!-- com.qasim.test.EribankMakePaymentAndroid -->
-    </test> <!-- CSVloginANDROID -->
-    <test name="CSVloginANDROID1" duration-ms="49967" started-at="2018-01-04T17:04:00Z" finished-at="2018-01-04T17:04:50Z">
-      <class name="com.qasim.test.EribankMakePaymentAndroid">
-        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentAndroid@6093dd95]" name="Start" duration-ms="49964" started-at="2018-01-04T19:04:00Z" finished-at="2018-01-04T19:04:50Z">
+      <class name="com.qasim.test.myAppPlay">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.myAppPlay@754ba872]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@68bbe345]]>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->
-      </class> <!-- com.qasim.test.EribankMakePaymentAndroid -->
-    </test> <!-- CSVloginANDROID1 -->
+      </class> <!-- com.qasim.test.myAppPlay -->
+      <class name="com.qasim.test.CNNaAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CNNaAndroid@5e3a8624]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="FAIL" signature="tearDown()[pri:0, instance:com.qasim.test.CNNaAndroid@5e3a8624]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerExceptionat com.qasim.framework.BaseTest.tearDown(BaseTest.java:144)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.TestRunner.afterRun(TestRunner.java:725)at org.testng.TestRunner.run(TestRunner.java:509)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qasim.test.CNNaAndroid -->
+      <class name="com.qasim.test.CNNbAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CNNbAndroid@91161c7]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CNNbAndroid -->
+      <class name="com.qasim.test.EribankMakePaymentIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.EribankMakePaymentIOS@4667ae56]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.EribankMakePaymentIOS -->
+      <class name="com.qasim.test.downloadAppIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.downloadAppIOS@7cd62f43]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.downloadAppIOS -->
+      <class name="com.qasim.test.CSVloginIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CSVloginIOS@685cb137]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CSVloginIOS -->
+      <class name="com.qasim.test.CNNbIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CNNbIOS@604ed9f0]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CNNbIOS -->
+      <class name="com.qasim.test.CNNaIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CNNaIOS@5c3bd550]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CNNaIOS -->
+      <class name="com.qasim.test.ebayProfitListingUpgrades">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.ebayProfitListingUpgrades@6093dd95]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.ebayProfitListingUpgrades -->
+      <class name="com.qasim.test.topTenAppsAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.topTenAppsAndroid@4dfa3a9d]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.topTenAppsAndroid -->
+      <class name="com.qasim.test.myAppLogin">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.myAppLogin@204f30ec]" name="Start" duration-ms="31" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.myAppLogin -->
+      <class name="com.qasim.test.topTenAppsIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.topTenAppsIOS@464bee09]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.topTenAppsIOS -->
+      <class name="com.qasim.test.ebayProfitCalculate">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.ebayProfitCalculate@6d4b1c02]" name="Start" duration-ms="16" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d8ca712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.ebayProfitCalculate -->
+    </test> <!-- All-Suite -->
+    <test name="One-Tset-On-One-Device" duration-ms="403311" started-at="2018-01-11T21:44:22Z" finished-at="2018-01-11T21:51:05Z">
+      <class name="com.qasim.test.CSVloginIOS">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CSVloginIOS@13805618]" name="Start" duration-ms="403279" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:51:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65990bcc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+      </class> <!-- com.qasim.test.CSVloginIOS -->
+      <class name="com.qasim.test.CSVloginAndroid">
+        <test-method status="PASS" signature="Start(org.testng.ITestContext)[pri:0, instance:com.qasim.test.CSVloginAndroid@cb644e]" name="Start" duration-ms="113984" started-at="2018-01-11T23:44:22Z" finished-at="2018-01-11T23:46:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65990bcc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qasim.test.CSVloginAndroid@cb644e]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-01-11T23:51:05Z" finished-at="2018-01-11T23:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qasim.test.CSVloginAndroid -->
+    </test> <!-- One-Tset-On-One-Device -->
   </suite> <!-- Qasim-Suite -->
 </testng-results>

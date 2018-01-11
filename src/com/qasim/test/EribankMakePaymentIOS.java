@@ -9,9 +9,9 @@ import com.qasim.framework.PlatformType;
 public class EribankMakePaymentIOS extends BaseTest
 {
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.IOS;
+		platformType = PlatformType.IOS;
 	}
 
 	@Override

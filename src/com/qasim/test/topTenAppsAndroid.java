@@ -7,9 +7,9 @@ import com.qasim.framework.PlatformType;
 public class topTenAppsAndroid extends BaseTest
 {
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.ANDROID;
+		platformType = PlatformType.ANDROID;
 	}
 
 	@SuppressWarnings("deprecation")

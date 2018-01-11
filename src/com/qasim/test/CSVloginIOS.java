@@ -10,9 +10,9 @@ import java.util.ArrayList;
 public class CSVloginIOS extends BaseTest
 {
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.IOS;
+		platformType = PlatformType.IOS;
 	}
 
 	@Override

@@ -35,9 +35,9 @@ public class ebayProfitCalculate extends BaseTest
 	}
 
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.ANDROID;
+		platformType = PlatformType.ANDROID;
 	}
 
 }

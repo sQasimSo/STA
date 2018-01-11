@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Qasim-Suite]">
+  <parameter name="isGridSecured" value="true"/>
+  <parameter name="password" value="10061989Qq"/>
+  <parameter name="gridPort" value="443"/>
   <parameter name="port" value="8889"/>
+  <parameter name="domain" value="cloud.experitest.com"/>
   <parameter name="host" value="localhost"/>
   <parameter name="useSessionID" value="true"/>
-  <test name="CNNaIOS(failed)">
-    <parameter name="deviceQuery" value="@os=&#039;ios&#039;"/>
-    <parameter name="deviceName" value=""/>
+  <parameter name="useGrid" value="false"/>
+  <parameter name="userName" value="q-user"/>
+  <parameter name="projectName" value="q-project"/>
+  <test name="One-Tset-On-One-Device(failed)" parallel="classes">
     <parameter name="runTest" value="true"/>
-    <parameter name="deviceSerialNumber" value=""/>
     <classes>
-      <class name="com.qasim.test.CNNaIOS">
+      <class name="com.qasim.test.CNNaAndroid">
         <methods>
-          <include name="Start"/>
+          <include name="tearDown"/>
+          <include name="Start" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.qasim.test.CNNaIOS -->
+      </class> <!-- com.qasim.test.CNNaAndroid -->
     </classes>
-  </test> <!-- CNNaIOS(failed) -->
+  </test> <!-- One-Tset-On-One-Device(failed) -->
 </suite> <!-- Failed suite [Qasim-Suite] -->

@@ -11,9 +11,9 @@ import java.util.ArrayList;
 public class CSVloginAndroid extends BaseTest
 {	
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.ANDROID;
+		platformType = PlatformType.ANDROID;
 	}
 
 	@Override

@@ -11,11 +11,11 @@ public class CNNaIOS extends BaseTest
 	private int timeout = 100000;
 	
 	@Override
-	protected PlatformType getPaltformType()
+	protected void setPaltformType()
 	{
-		return PlatformType.IOS;
+		platformType = PlatformType.IOS;
 	}
-
+	
 	@Override
 	public void runTest(Client client)
 	{

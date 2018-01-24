@@ -19,8 +19,8 @@
 		thread-count="100">
 		<parameter name="runTest" value="false"></parameter>
 
-		<parameter name="runByCount" value="true"></parameter>
-		<parameter name="runCount" value="1"></parameter>
+<!-- 		<parameter name="runByCount" value="true"></parameter> -->
+<!-- 		<parameter name="runCount" value="1"></parameter> -->
 
 		<parameter name="runByTime" value="false"></parameter>
 		<parameter name="minutes" value="2"></parameter>
@@ -33,6 +33,9 @@
 
 	<test name="One-Tset-On-One-Device" parallel="classes" thread-count="100">
 		<parameter name="runTest" value="true"></parameter>
+		
+		<parameter name="runByTime" value="false"></parameter>
+		<parameter name="minutes" value="2"></parameter>
 		<!-- <parameter name="deviceQuery" value="@name='iPad Air 2'"></parameter> -->
 		<classes>
 <!-- 			<class name="com.qasim.test.CNNaAndroid" /> -->

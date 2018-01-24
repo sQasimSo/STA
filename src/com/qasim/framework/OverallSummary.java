@@ -10,6 +10,7 @@ class TestSummary
 	public String deviceSerialNumber;
 	public String time;
 	public String testName;
+	public String failureReason;
 	public int status;
 }
 
@@ -37,7 +38,7 @@ public class OverallSummary
 			if (exists)
 			{
 				
-				String failedstring = "the device " + testSummary.deviceName + " serial number " + testSummary.deviceSerialNumber + " has Failed on the following test: " + testSummary.testName;
+				String failedstring = "the device " + testSummary.deviceName + " serial number " + testSummary.deviceSerialNumber + " has Failed on the following test: " + testSummary.testName + " because " + testSummary.failureReason;
 				BufferedWriter writer = null;
 				
 				writer = new BufferedWriter(new FileWriter(reportDirectory + " overall summary.txt", true));
@@ -52,7 +53,7 @@ public class OverallSummary
 			{
 				System.out.println("in else exists");
 				
-				String failedstring = "the device " + testSummary.deviceName + " serial number " + testSummary.deviceSerialNumber + " has Failed on the following test: " + testSummary.testName;
+				String failedstring = "the device " + testSummary.deviceName + " serial number " + testSummary.deviceSerialNumber + " has Failed on the following test: " + testSummary.testName + " because " + testSummary.failureReason;
 				
 				BufferedWriter writer = null;
 				

@@ -41,37 +41,38 @@ public abstract class BaseTest
 	protected String status;
 	protected long runTimeMillis = 0;
 	protected PlatformType platformType;
-	
+
 	public abstract void runTest(Client client);
-	
+
 	protected abstract void setPaltformType();
-	
+
 	protected static ArrayList<Long> currentTimeList = new ArrayList<Long>();
-	
+
 	protected String seeTestProject = "trainingAssignment";
 	protected String deviceQuery;
 	protected ITestContext context;
 	protected ITestResult result;
-	
+
 	protected int runCount = 0;
-	
+
 	protected Client client = null;
-	
+
 	private String projectBaseDirectory;
 	String reporterDirectory;
 	private String testName;
 	private String device;
-	
+
 	public BaseTest()
 	{
 		setPaltformType();
 	}
-	
+
 	protected synchronized void setDirectory(String deviceName)
 	{
 		projectBaseDirectory = System.getProperty("user.dir") + "\\" + seeTestProject;
-		reporterDirectory = String.format("%s\\reports\\RUN_%s\\%s\\%s", projectBaseDirectory, this.runTimeMillis, deviceName, testName);
-		
+		reporterDirectory = String.format("%s\\reports\\RUN_%s\\%s\\%s", projectBaseDirectory, this.runTimeMillis,
+				deviceName, testName);
+
 		System.out.println(testName + ": getRunTime(runCount=" + runCount + ") > startTimeMillis=" + runTimeMillis);
 		try
 		{
@@ -82,38 +83,38 @@ public abstract class BaseTest
 			e.printStackTrace();
 		}
 	}
-	
+
 	public Client getGridClient(ITestContext context, String deviceQuery)
 	{
 		XmlTest params = context.getCurrentXmlTest();
-		
+
 		String userName = params.getParameter("userName");
 		String password = params.getParameter("password");
 		String projectName = params.getParameter("projectName");
 		String domain = params.getParameter("domain");
 		int gridPort = Integer.parseInt(params.getParameter("gridPort"));
 		boolean isSecured = Boolean.parseBoolean(params.getParameter("isGridSecured"));
-		
+
 		GridClient grid = new GridClient(userName, password, projectName, domain, gridPort, isSecured);
 		Client client = new MyClient(grid.lockDeviceForExecution(testName, deviceQuery, 10, 50000)).getClient();
-		
+
 		return client;
 	}
-	
+
 	public static Client getClient(ITestContext context)
 	{
 		XmlTest params = context.getCurrentXmlTest();
 		String host = params.getParameter("host");
 		int port = Integer.parseInt(params.getParameter("port"));
 		boolean useSessionID = Boolean.parseBoolean(params.getParameter("useSessionID"));
-		
+
 		Client client = new MyClient(host, port, useSessionID).getClient();
 		return client;
 	}
-	
+
 	protected void setUp()
 	{
-		
+
 		XmlTest params = context.getCurrentXmlTest();
 		boolean useGrid = Boolean.parseBoolean(params.getParameter("useGrid"));
 		if (useGrid)
@@ -127,30 +128,35 @@ public abstract class BaseTest
 			device = client.waitForDevice(deviceQuery, 300000);
 		}
 		System.out.println(" -- waitForDevice >  " + device);
-		
+
 		setDirectory(device.split(":")[1]);
 		System.out.println("client.setReporter(\"xml\"," + reporterDirectory + ", " + testName + ") ");
-		
+
 		client.setProjectBaseDirectory(projectBaseDirectory);
 		client.setReporter("xml", reporterDirectory, testName);
 		client.openDevice();
 	}
-	
+
 	@AfterTest
 	protected void tearDown()
 	{
 		client.releaseClient();
-		System.out.println(" >> releaseClient(" + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery + ")");
-		
+		System.out.println(
+				" >> releaseClient(" + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery + ")");
+
 	}
-	
+
 	protected void endTest() throws IOException
 	{
 		client.generateReport(false);
 	}
-	
-	public boolean startTest() throws IOException
+
+	public boolean startTest(ITestContext context) throws IOException
 	{
+		XmlTest params = context.getCurrentXmlTest();
+
+		String runByTime = params.getParameter("runByTime");
+
 		boolean result = false;
 		try
 		{
@@ -160,68 +166,113 @@ public abstract class BaseTest
 		{
 			e.printStackTrace();
 		}
-		
+
 		TestSummary ts = new TestSummary();
 		OverallSummary os = new OverallSummary();
-		
+
 		ts.deviceName = device;
-		ts.deviceSerialNumber = client.getProperty("device.sn");;
+		ts.deviceSerialNumber = client.getProperty("device.sn");
+		;
 		ts.testName = testName;
 		ts.time = "" + runTimeMillis;
-		
-		for (int i = 0; i < 3; i++)
+
+		if (runByTime.equals("false"))
 		{
-			
-			
-			result = runSingleTest();
-			
-			if (result)
-				ts.status = ITestResult.SUCCESS;
-			else
-				ts.status = ITestResult.FAILURE;
-			
-			try
+			for (int i = 0; i < 3; i++)
 			{
+				result = runSingleTest(ts);
+
+				if (result)
+					ts.status = ITestResult.SUCCESS;
+				else
+					ts.status = ITestResult.FAILURE;
+
 				os.overallSummaryWrite(ts, reporterDirectory);
+
+				try
+				{
+					endTest();
+				}
+				catch (Exception e)
+				{
+					e.printStackTrace();
+				}
+				if (result)
+				{
+					break;
+				}
+
+				if (i == 1)
+				{
+					os.overallSummaryWrite(ts, reporterDirectory);
+					client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
+				}
+				if (i == 2)
+				{
+					os.overallSummaryWrite(ts, reporterDirectory);
+					client.reboot(120000);
+					client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
+				}
 			}
-			catch (IOException e1)
+		}
+		else
+		{
+			int runTime = Integer.parseInt(params.getParameter("minutes"));
+			long stopTime = System.currentTimeMillis() + runTime * 1000 * 60;
+
+			while (System.currentTimeMillis() < stopTime)
 			{
-				e1.printStackTrace();
-			}
-			
-			try
-			{
-				endTest();
-			}
-			catch (Exception e)
-			{
-				e.printStackTrace();
-			}
-			if (result)
-			{
-				break;
-			}
-			
-			if (i == 1)
-			{
+				int i = 0;
+				
+				result = runSingleTest(ts);
+
+				i++;
+				if (result)
+					ts.status = ITestResult.SUCCESS;
+				else
+					ts.status = ITestResult.FAILURE;
+
 				os.overallSummaryWrite(ts, reporterDirectory);
-				client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
-			}
-			if (i == 2)
-			{
-				os.overallSummaryWrite(ts, reporterDirectory);
-				client.reboot(120000);
-				client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
+
+				try
+				{
+					endTest();
+				}
+				catch (Exception e)
+				{
+					e.printStackTrace();
+				}
+				if (result)
+				{
+					break;
+				}
+
+				if (i == 1)
+				{
+					os.overallSummaryWrite(ts, reporterDirectory);
+					client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
+				}
+				if (i == 2)
+				{
+					os.overallSummaryWrite(ts, reporterDirectory);
+					client.reboot(120000);
+					client.collectSupportData(reporterDirectory, "", device, "Failed once", "Success", "Failure");
+				}
+				if (i == 3)
+				{
+					i = 0;
+				}
 			}
 		}
 		return result;
 	}
-	
-	public boolean runSingleTest()
+
+	public boolean runSingleTest(TestSummary ts)
 	{
 		boolean result = false;
-		
-		System.out.println(" >> runSingleTest: " + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery);
+
+		System.out
+				.println(" >> runSingleTest: " + context.getName() + ": " + testName + ", deviceQuery=" + deviceQuery);
 		try
 		{
 			runTest(client);
@@ -229,11 +280,12 @@ public abstract class BaseTest
 		}
 		catch (Exception e)
 		{
+			ts.failureReason = e.getMessage();
 			e.printStackTrace();
 		}
 		return result;
 	}
-	
+
 	public static synchronized long getRunTime(int runCount)
 	{
 		while (runCount > currentTimeList.size())
@@ -242,24 +294,24 @@ public abstract class BaseTest
 		}
 		return currentTimeList.get(runCount - 1);
 	}
-	
+
 	public void readCSV(ArrayList<String> usernames, ArrayList<String> passwords) throws IOException
 	{
 		String csvFilePath = System.getProperty("user.dir") + "/src/sources/csvfile.csv";
 		String line = "";
 		Scanner inputStream;
-		
+
 		String csvSplitBy = ",";
-		
+
 		try
 		{
 			inputStream = new Scanner(new File(csvFilePath));
 			inputStream.nextLine();
-			
+
 			while (inputStream.hasNextLine())
 			{
 				line = inputStream.nextLine();
-				
+
 				if (line.equals(""))
 				{
 					System.out.println("end of file");
@@ -271,7 +323,7 @@ public abstract class BaseTest
 						usernames.add(" ");
 					else
 						usernames.add(credentials[0]);
-					
+
 					if (credentials[1].equals(""))
 						passwords.add(" ");
 					else
@@ -284,7 +336,7 @@ public abstract class BaseTest
 			e.printStackTrace();
 		}
 	}
-	
+
 	protected void setDeviceQuery(ITestContext context)
 	{
 		XmlTest params = context.getCurrentXmlTest();
@@ -293,20 +345,20 @@ public abstract class BaseTest
 		{
 			switch (platformType)
 			{
-				case IOS:
-					deviceQuery = "@os='ios' and @added='true'";
-					break;
-				case ANDROID:
-					deviceQuery = "@os='android' and @added='true'";
-					break;
-				
-				default:
-					deviceQuery = "@os='android' and @added='true'";
-					break;
+			case IOS:
+				deviceQuery = "@os='ios' and @added='true'";
+				break;
+			case ANDROID:
+				deviceQuery = "@os='android' and @added='true'";
+				break;
+
+			default:
+				deviceQuery = "@os='android' and @added='true'";
+				break;
 			}
 		}
 	}
-	
+
 	@Test
 	public void Start(ITestContext context) throws ParserConfigurationException, SAXException, IOException
 	{
@@ -314,21 +366,21 @@ public abstract class BaseTest
 		boolean runByCount = false;
 		this.context = context;
 		// this.startTimeMillis = startTimeMillis;
-		
+
 		testName = this.getClass().getName();
-		
+
 		System.out.println(" << Start >> " + context.getName() + ": " + testName);
-		
+
 		XmlTest params = context.getCurrentXmlTest();
 		String valueString = params.getParameter("runByCount");
-		
+
 		boolean runTestParam = true;
 		String runTestString = params.getParameter("runTest");
 		if (Strings.isNotNullAndNotEmpty(runTestString))
 		{
 			runTestParam = Boolean.parseBoolean(runTestString);
 		}
-		
+
 		// accepts the parameters from the testng file and act accordingly. if
 		// the runTest parameter is set to false then the class skips the test.
 		if (!runTestParam)
@@ -336,13 +388,13 @@ public abstract class BaseTest
 			System.out.println(context.getName() + ": skip " + testName + " as runTest = false");
 			return;
 		}
-		
+
 		setDeviceQuery(context);
-		
+
 		if (Strings.isNotNullAndNotEmpty(valueString))
 		{
 			runByCount = Boolean.parseBoolean(valueString);
-			
+
 			valueString = params.getParameter("runCount");
 			if (Strings.isNotNullAndNotEmpty(valueString))
 			{
@@ -354,51 +406,52 @@ public abstract class BaseTest
 			runByCount = true;
 			runCount = 1;
 		}
-		
+
 		int runNumber = 0;
 		if (runByCount)
 		{
 			for (runNumber = 1; runNumber <= runCount; runNumber++)
 			{
 				runTimeMillis = getRunTime(runNumber);
-				this.startTest();
+				this.startTest(context);
 			}
 		}
-		
+
 		float minutes = 0;
 		boolean runByTime = false;
 		valueString = params.getParameter("runByTime");
-		
+
 		if (Strings.isNotNullAndNotEmpty(valueString))
 		{
 			runByTime = Boolean.parseBoolean(valueString);
-			
+
 			valueString = params.getParameter("minutes");
 			if (Strings.isNotNullAndNotEmpty(valueString))
 			{
 				minutes = Float.parseFloat(valueString);
 			}
 		}
-		
+
 		long currentTimeMillis = System.currentTimeMillis();
 		long endTimeMillis = (long) (minutes * 60 * 1000) + currentTimeMillis;
-		
+
 		if (singleDevice)
 		{
 			runByTime = false;
 		}
-		
+
 		if (runByTime)
 		{
 			while (currentTimeMillis < endTimeMillis)
 			{
 				runNumber++;
 				runTimeMillis = getRunTime(runNumber);
-				
-				System.out.println(String.format(" ** %s:%s : %s < %s test %d ** ", this.platformType, this.getClass().getName(), currentTimeMillis, endTimeMillis, runNumber));
-				
+
+				System.out.println(String.format(" ** %s:%s : %s < %s test %d ** ", this.platformType,
+						this.getClass().getName(), currentTimeMillis, endTimeMillis, runNumber));
+
 				runTimeMillis = getRunTime(runNumber);
-				this.startTest();
+				this.startTest(context);
 			}
 			currentTimeMillis = System.currentTimeMillis();
 		}
@@ -406,7 +459,7 @@ public abstract class BaseTest
 		if (!runByCount && !runByTime)
 		{
 			runTimeMillis = getRunTime(1);
-			this.startTest();
+			this.startTest(context);
 		}
 	}
 }

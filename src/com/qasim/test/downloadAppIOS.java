@@ -24,7 +24,7 @@ public class downloadAppIOS extends BaseTest
         client.click("downloadAppIOS", "GetButton", 0, 1);
         client.click("downloadAppIOS", "Install", 0, 1);
         client.sleep(90000);
-        if(client.uninstall("com.goodgamestudios.empirefourkingdoms ")){
+        if(client.uninstall("com.goodgamestudios.empirefourkingdoms")){
             // If statement
         }
 	}

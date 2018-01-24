@@ -35,9 +35,23 @@
 		<parameter name="runTest" value="true"></parameter>
 		<!-- <parameter name="deviceQuery" value="@name='iPad Air 2'"></parameter> -->
 		<classes>
-			<class name="com.qasim.test.CSVloginAndroid" />
-			<class name="com.qasim.test.CSVloginIOS" />
+<!-- 			<class name="com.qasim.test.CNNaAndroid" /> -->
+<!-- 			<class name="com.qasim.test.CNNaIOS" /> -->
+			<class name="com.qasim.test.CNNbAndroid" />
+			<class name="com.qasim.test.CNNbIOS" />
+<!-- 			<class name="com.qasim.test.downloadAppAndroid" /> -->
+<!-- 			<class name="com.qasim.test.downloadAppIOS" /> -->
+<!-- 			<class name="com.qasim.test.ebayProfitCalculate" /> -->
+<!-- 			<class name="com.qasim.test.ebayProfitListingUpgrades" /> -->
+<!-- 			<class name="com.qasim.test.EribankMakePaymentAndroid" /> -->
+<!-- 			<class name="com.qasim.test.EribankMakePaymentIOS" /> -->
+<!-- 			<class name="com.qasim.test.myAppLogin" /> -->
+<!-- 			<class name="com.qasim.test.myAppPlay" /> -->
+<!-- 			<class name="com.qasim.test.topTenAppsAndroid" /> -->
+<!-- 			<class name="com.qasim.test.topTenAppsIOS" /> -->
+<!-- 			<class name="com.qasim.test.CSVloginAndroid" /> -->
+<!-- 			<class name="com.qasim.test.CSVloginIOS" /> -->
+<!-- 			<class name="com.qasim.test.failingTest" /> -->
 		</classes>
 	</test>
-
 </suite> <!-- Suite -->

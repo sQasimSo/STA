@@ -1,1 +1,0 @@
-the device adb:Samsung Note 5 serial number  has Failed on the following test: com.qasim.test.failingTest

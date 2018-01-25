@@ -1,1 +1,0 @@
-the device adb:Huawei Nexus 6P serial number  has Failed on the following test: com.qasim.test.CSVloginAndroid

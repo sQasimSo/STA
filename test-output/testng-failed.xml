@@ -12,14 +12,16 @@
   <parameter name="userName" value="q-user"/>
   <parameter name="projectName" value="q-project"/>
   <test name="One-Tset-On-One-Device(failed)" parallel="classes">
+    <parameter name="minutes" value="2"/>
     <parameter name="runTest" value="true"/>
+    <parameter name="runByTime" value="false"/>
     <classes>
-      <class name="com.qasim.test.CNNaAndroid">
+      <class name="com.qasim.test.CSVloginIOS">
         <methods>
           <include name="tearDown"/>
           <include name="Start" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.qasim.test.CNNaAndroid -->
+      </class> <!-- com.qasim.test.CSVloginIOS -->
     </classes>
   </test> <!-- One-Tset-On-One-Device(failed) -->
 </suite> <!-- Failed suite [Qasim-Suite] -->
